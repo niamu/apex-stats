@@ -3,4 +3,5 @@
         org.clojure/data.json {:mvn/version "1.0.0"}
         clj-http/clj-http {:mvn/version "3.10.2"}
         kanwei/one-time {:mvn/version "0.7.1"}}
- :aliases {:apex {:main-opts ["-m" "apex-stats.apex"]}}}
+ :aliases {:apex {:main-opts ["-m" "apex-stats.apex"]}
+           :depstar {:extra-deps {seancorfield/depstar {:mvn/version "0.1.5"}}}}}
