@@ -61,8 +61,12 @@
  1994224855  "Care Package Weapon Kills"
  868932340   "Damage Done"
  1047402074  "Season 5 Kills"
+ 1412307323  "Season 6 Kills"
+ 304096973   "Season 6 Wins"
  79320088    "Games Played"
  1982656769  "Gas Trap: Times Activated"
+ 1519627467  "Finishers"
+ 243580572   "Season 1 Damage Done"
  ;; Gibraltar
  345008354   "Kills"
  1264185247  "Damage Done"
@@ -72,6 +76,7 @@
  1425974192  "Dome: Damage Blocked"
  1823896081  "Gun Shield: Damage Blocked"
  179774829   "Kills as Kill Leader"
+ 1461000011  "Season 1 Wins"
  2010610962  "Season 1 Damage Done"
  1648116726  "Season 3 Wins"
  1167142317  "Season 4 Wins"
@@ -104,6 +109,7 @@
  741931570   "Season 1 Damage Done"
  1596888018  "Games Played"
  704679779   "Times Placed Top 3"
+ 1075672759  "Survey: Beacons Scanned"
  ;; Wraith
  1220667776  "Season 5 Wins"
  1425300692  "Season 4 Wins"
@@ -144,6 +150,7 @@
  25920551    "Season 6 Kills"
  635416044   "Decoys Created"
  533334508   "Season 5 Wins"
+ 2112883966  "Season 6 Wins"
  746316731   "LMG Kills"
  884674356   "Bamboozles"
  ;; Bangalore
@@ -196,6 +203,7 @@
  1965136863  "Season 5 Wins"
  1128486290  "Season 5 Kills"
  1695573704  "Season 6 Kills"
+ 303840555   "Season 6 Wins"
  696706348   "Damage Done"
  ;; Crypto
  1080918393  "Season 4 Wins"
@@ -244,6 +252,7 @@
  1056100413  "LMG Kills"
  528040692   "Season 4 Wins"
  614321666   "Season 5 Wins"
+ 558633471   "Season 6 Kills"
  1087965224  "Season 6 Wins"
  1925847835  "Season 5 Kills"
  926671863   "Care Package Weapon Kills"
@@ -255,4 +264,5 @@
  ;; Rampart
  592080214   "Season 6 Kills"
  18649475    "Damage Done"
- 1041231992  "Season 6 Wins"}
+ 1041231992  "Season 6 Wins"
+ 1687566091  "Wall: Damage Blocked"}

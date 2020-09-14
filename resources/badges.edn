@@ -59,6 +59,7 @@
  259056267   "Bloodhound's Wake"
  661427360   "Bloodhound's Wrath"
  870421671   "Assassin"
+ 1686987296  "Bloodhound Iron Crown"
  ;; Gibraltar
  1632387443  "Apex Gibraltar"
  1742076365  "Apex Predator"
@@ -74,6 +75,7 @@
  ;; Lifeline
  1896587185  "Apex Lifeline"
  1989367351  "Apex Predator"
+ 1406953444  "Hot Streak"
  789296968   "Rapid Elimination"
  1565030236  "Lifeline's Wrath"
  1586630595  "Lifeline's Wake"
@@ -126,6 +128,7 @@
  1926719317  "Assassin"
  1068395017  "Hot Streak"
  1523967953  "Triple Triple"
+ 804872619   "Shot Caller"
  ;; Bangalore
  1873838285  "Apex Bangalore"
  2111169755  "Apex Predator"
@@ -151,6 +154,7 @@
  166515712   "Deadeye"
  730431288   "Rapid Elimination"
  2128207018  "Assassin"
+ 1496995523  "Squad Wipe"
  ;; Mirage
  165740051   "Apex Mirage"
  915920756   "Apex Predator"
@@ -219,4 +223,6 @@
  1088769873  "Squad Wipe"
  825793438   "Loba's Wrath"
  1744425088  "Apex Loba"
- 1228718324  "Hot Streak"}
+ 1228718324  "Hot Streak"
+ ;; Rampart
+ 1514732384  "Apex Rampart"}

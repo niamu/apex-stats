@@ -6,6 +6,7 @@
  1157763363  "Tropic Streak"
  1493869969  "Tight Rope"
  68849301    "Gilded Claw"
+ 1143980138  "Timberland"
  153552110   "The Plague Doctor"
  1265481127  "Master of the Hunt"
  129762532   "Heat Sync"
@@ -17,6 +18,7 @@
  1837153361  "The Runekeeper"
  1566934705  "Radiant Stalker"
  546339579   "Road Warrior"
+ 896713809   "Woodland Warfare"
  ;; Gibraltar
  20349656    "Original"
  682704931   "Rage"
@@ -26,6 +28,7 @@
  2103450857  "Interdimensional"
  1335145251  "Tight Rope"
  875591185   "Arctic"
+ 1775380946  "Molten Core"
  961745557   "Millennium Tusk"
  272302856   "Call to Arms"
  654577661   "Dark Side"
@@ -60,11 +63,14 @@
  246657144   "Guardian Angel"
  ;; Pathfinder
  445771024   "Original"
+ 1622532602  "Our Powers Combined"
+ 1275526792  "War Machine"
  1385459903  "Full Throttle"
  1078437313  "Hack The System"
  2098028833  "Mortal Coil"
  2008280868  "Green Machine"
  1951388015  "Tartan Fleece"
+ 1436908047  "Skyward"
  1304755928  "Glistened"
  1077907065  "Mandarin"
  1092974346  "Sweet 16"
@@ -86,9 +92,11 @@
  ;; Wraith
  2120618987  "Silver Specter"
  1027889231  "Midnight"
- 645514966   "Arachnophobia"
+ 645514966   "Warlord"
+ 1429619920  "Arachnophobia"
  384242292   "Overclocked"
  16098545    "Sahara"
+ 1232714549  "Skyward"
  1745179670  "Hydro"
  275110190   "Original"
  252687201   "Perfect Soldier"
@@ -108,9 +116,11 @@
  1917933689  "Daemon Hunter"
  1697588667  "Cardinal"
  1719211240  "Depths of the Void"
+ 384339937   "Hack The System"
  ;; Bangalore
  874824578   "Varsity"
  1195401183  "Victory Lap"
+ 939516790   "Kingslayer"
  1289036515  "Flamingo"
  492290398   "Orchid"
  1274028498  "La Catrina"
@@ -129,6 +139,7 @@
  850101569   "Apex Overdrive"
  1644844869  "Officer Williams"
  1352329004  "Midnight"
+ 440866687   "Hydro"
  ;; Caustic
  1798425389  "Original"
  786839361   "Fiber Optics"
@@ -147,6 +158,7 @@
  1073530681  "Interdimensional"
  153654590   "Third Emperor"
  151993797   "Life Cycle"
+ 1471426619  "Hydro"
  ;; Mirage
  951730639   "Original"
  678831845   "Sahara"
@@ -171,6 +183,8 @@
  853179066   "Arachnoid Rush"
  1715651029  "Extreme Measures"
  1517703105  "Jade Tiger"
+ 2064068974  "Hit and Run"
+ 2133051316  "Snakeskin"
  ;; Wattson
  1592455344  "Original"
  37821441    "Cardinal"
@@ -185,17 +199,20 @@
  1257187645  "Ace of Sparks"
  1499956034  "Current Champ"
  718848882   "Heat Sync"
+ 196967320   "The Warrior Empress"
  ;; Crypto
  43033680    "Original"
  514846973   "Limelight"
  1123715916  "Evergreen"
  458992915   "Blue Steel"
- 2007198379  "Fish Sticks"
+ 2007198379  "Fishsticks"
+ 626257361   "Woodland Warfare"
  685848891   "High Frequency"
  1635408523  "The Hired Gun"
  1723041608  "Devil's Advocate"
  1746842340  "Rising Phoenix"
  560299520   "Winters Grasp"
+ 1615024459  "Dark Web"
  ;; Revenant
  1999064606  "Original"
  731388621   "Killswitch"
@@ -204,6 +221,8 @@
  1639140117  "Unholy Beast"
  1037511508  "False Idol"
  1283448225  "Shadow on the Sun"
+ 995364698   "Refraction"
+ 190793045   "Desert Scorpion"
  ;; Loba
  1015578696  "Original"
  1716726853  "Huntswoman"
@@ -215,4 +234,6 @@
  490043774   "Vino"
  1238029150  "Wallflower"
  ;; Rampart
- 57563004    "Original"}
+ 57563004    "Original"
+ 927114221   "Sari Not Sari"
+ 419158864   "Custom Finish"}

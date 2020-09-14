@@ -13,6 +13,8 @@
  575572423   "Humble"
  1330693322  "Incoming"
  1096528187  "Fired Up"
+ 1275836481  "Come On"
+ 1763092699  "Good Company"
  ;; Lifeline
  941740319   "Peace"
  615908353   "Lounging"
@@ -20,12 +22,14 @@
  36505096    "Bad D.O.C."
  1386679009  "Good Vibes"
  181689794   "BFF"
+ 294421454   "Funslinger"
  ;; Pathfinder
  1955195764  "Thumbs Up"
  1314370462  "XOXO"
  1947446979  "Proud Machine"
  545796048   "Drumroll Please"
  551376018   "Fight Mode"
+ 1758776984  "And Beyond"
  ;; Wraith
  1754914733  "Out of Nowhere"
  1527711638  "Multidimensional"
@@ -34,14 +38,17 @@
  1041153060  "Come at Me"
  514111480   "Small Victory"
  1474484292  "Channeled Energy"
+ 258744995   "Blink of an Eye"
  ;; Bangalore
  509086852   "At Ease"
+ 572513137   "Composed"
  501652428   "Smoke Out!"
  775529591   "Drill Sergeant"
  ;; Caustic
  1497492505  "Surgical"
  1567485166  "Last Rites"
  1049159812  "Mad Scientist"
+ 1037940994  "Think Tank"
  ;; Mirage
  285649279   "Baller"
  119876484   "Bunny Ears"
@@ -70,4 +77,5 @@
  1379220215  "Jumping to Judgement"
  2091146598  "Precious Gift"
  ;; Rampart
- 1049244118  "Built Not Bought"}
+ 1049244118  "Built Not Bought"
+ 1046867047  "Blind Fire"}

@@ -8,8 +8,10 @@
  102507005   "Never disappoint my brethren"
  158739457   "When we meet, I will slaughter"
  1595576039  "Your honor to face me"
+ 1466752143  "Find me and we will battle"
  ;; Gibraltar
  743806612   "Great. Good. Wonderful."
+ 323749065   "You push..."
  ;; Lifeline
  18947469    "Wanna be hear?"
  644945851   "I'd watch out for my squad"
@@ -23,21 +25,27 @@
  1187907760  "This sounds like it'll be fun"
  2017149466  "My squad must be very proud"
  1153806597  "Remember me friends"
+ 1372466719  "I work hard for the money"
  ;; Wraith
  1112540849  "Sitting around doing nothing"
  1521070677  "Every decision counts"
  1903866641  "Follow my path to win"
  718019259   "Pain... death... nothing phases me"
  845226415   "Thin line between life and death"
+ 673821013   "Another day, another road"
  ;; Bangalore
  710565156   "You better finish the job"
  612581428   "Go back to boot camp"
+ 773719048   "Better find me before I find you"
  ;; Caustic
  2090565077  "Know your place..."
  1117166802  "Life is meant to die..."
  509483840   "It all ends the same way..."
  1550738234  "Join my experiment below."
  218308806   "You'll with the end came sooner."
+ 379991146   "A quick death is so boring"
+ 95285849    "I don't relish the title..."
+ 1627987797  "Marvelous"
  ;; Mirage
  742211773   "Want advice? Shoot first"
  741209033   "The heart of victory"
@@ -60,5 +68,8 @@
  1661688633  "Have you said your goodbyes?"
  153052157   "Don't bother trying to find me"
  ;; Loba
+ 830726515   "Come on, let's see if we're a match"
  970294494   "I fought nightmares all my life"
- 1993944406  "I'll break your heart"}
+ 1993944406  "I'll break your heart"
+ ;; Rampart
+ 1418080980  "I don't think of myself as the best"}

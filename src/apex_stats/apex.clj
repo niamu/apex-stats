@@ -110,8 +110,7 @@
                     (if-let [nk (cdata->path k)]
                       (assoc-in accl
                                 nk
-                                (if (string/ends-with? (name (last nk))
-                                                       "?")
+                                (if (string/ends-with? (name (last nk)) "?")
                                   (not (zero? v))
                                   (get lookup v v)))
                       accl))
