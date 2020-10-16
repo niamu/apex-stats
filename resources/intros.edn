@@ -12,6 +12,7 @@
  ;; Gibraltar
  743806612   "Great. Good. Wonderful."
  323749065   "You push..."
+ 624403557   "You're finished"
  ;; Lifeline
  18947469    "Wanna be hear?"
  644945851   "I'd watch out for my squad"
@@ -19,8 +20,11 @@
  1248857503  "You ain't that bright"
  1419460024  "You better not romp with me"
  1327818728  "Quit your whinging and fight"
+ 1296569752  "I've seen it all"
+ 1525343084  "Looking at a fighter"
  ;; Pathfinder
  137159549   "You get here by winning"
+ 273118610   "I wish all of you"
  766089657   "Losing isn't fun"
  1187907760  "This sounds like it'll be fun"
  2017149466  "My squad must be very proud"
@@ -37,15 +41,16 @@
  710565156   "You better finish the job"
  612581428   "Go back to boot camp"
  773719048   "Better find me before I find you"
+ 1562841731  "Get ready for a light show"
  ;; Caustic
  2090565077  "Know your place..."
  1117166802  "Life is meant to die..."
  509483840   "It all ends the same way..."
  1550738234  "Join my experiment below."
  218308806   "You'll with the end came sooner."
- 379991146   "A quick death is so boring"
+ 379991146   "A quick death is so... boring"
  95285849    "I don't relish the title..."
- 1627987797  "Marvelous"
+ 1627987797  "Marvelous!"
  ;; Mirage
  742211773   "Want advice? Shoot first"
  741209033   "The heart of victory"
@@ -67,6 +72,7 @@
  ;; Revenant
  1661688633  "Have you said your goodbyes?"
  153052157   "Don't bother trying to find me"
+ 1106470154  "Look at all the skin suits"
  ;; Loba
  830726515   "Come on, let's see if we're a match"
  970294494   "I fought nightmares all my life"
