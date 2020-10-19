@@ -1,82 +1,83 @@
-{913787992   nil
- ;; Bloodhunter
- 470587968   "The hunter the gods have sent"
- 1017101648  "Only when the gods will it"
- 1915429382  "Prepared for your end?"
- 2008954751  "Every day is a new victory"
- 1739567323  "I will slaughter"
- 102507005   "Never disappoint my brethren"
- 158739457   "When we meet, I will slaughter"
- 1595576039  "Your honor to face me"
- 1466752143  "Find me and we will battle"
- ;; Gibraltar
- 743806612   "Great. Good. Wonderful."
- 323749065   "You push..."
- 624403557   "You're finished"
- ;; Lifeline
- 18947469    "Wanna be hear?"
- 644945851   "I'd watch out for my squad"
- 693676365   "Remember this face"
- 1248857503  "You ain't that bright"
- 1419460024  "You better not romp with me"
- 1327818728  "Quit your whinging and fight"
- 1296569752  "I've seen it all"
- 1525343084  "Looking at a fighter"
- ;; Pathfinder
- 137159549   "You get here by winning"
- 273118610   "I wish all of you"
- 766089657   "Losing isn't fun"
- 1187907760  "This sounds like it'll be fun"
- 2017149466  "My squad must be very proud"
- 1153806597  "Remember me friends"
- 1372466719  "I work hard for the money"
- ;; Wraith
- 1112540849  "Sitting around doing nothing"
- 1521070677  "Every decision counts"
- 1903866641  "Follow my path to win"
- 718019259   "Pain... death... nothing phases me"
- 845226415   "Thin line between life and death"
- 673821013   "Another day, another road"
- 1140596467  "It's my turn this time"
- ;; Bangalore
- 710565156   "You better finish the job"
- 612581428   "Go back to boot camp"
- 773719048   "Better find me before I find you"
- 1562841731  "Get ready for a light show"
- ;; Caustic
- 2090565077  "Know your place..."
- 1117166802  "Life is meant to die..."
- 509483840   "It all ends the same way..."
- 1550738234  "Join my experiment below."
- 218308806   "You'll with the end came sooner."
- 379991146   "A quick death is so... boring"
- 95285849    "I don't relish the title..."
- 1627987797  "Marvelous!"
- ;; Mirage
- 742211773   "Want advice? Shoot first"
- 741209033   "The heart of victory"
- 1832593675  "Gonna see a lot of me"
- ;; Octane
- 2071624417  "Time is flying"
- 1146645492  "Catch me if you can"
- 923591933   "Mira, check out that giant banner of me"
- 104944905   "Death catches up to everyone"
- ;; Wattson
- 1095360692  "You're playing in my backyard now"
- 1259466623  "Didn't expect to see me up here"
- 2118468212  "My adversaries are in for a shock"
- 116590543   "Be careful"
- ;; Crypto
- 447512493   "When you have nothing else to lose"
- 83304856    "If I know who you are"
- 359133510   "I have been through hell to get here"
- ;; Revenant
- 1661688633  "Have you said your goodbyes?"
- 153052157   "Don't bother trying to find me"
- 1106470154  "Look at all the skin suits"
- ;; Loba
- 830726515   "Come on, let's see if we're a match"
- 970294494   "I fought nightmares all my life"
- 1993944406  "I'll break your heart"
- ;; Rampart
- 1418080980  "I don't think of myself as the best"}
+{nil
+ {913787992   nil}
+ "Bloodhunter"
+ {470587968   "The hunter the gods have sent"
+  1017101648  "Only when the gods will it"
+  1915429382  "Prepared for your end?"
+  2008954751  "Every day is a new victory"
+  1739567323  "I will slaughter"
+  102507005   "Never disappoint my brethren"
+  158739457   "When we meet, I will slaughter"
+  1595576039  "Your honor to face me"
+  1466752143  "Find me and we will battle"}
+ "Gibraltar"
+ {743806612   "Great. Good. Wonderful."
+  323749065   "You push..."
+  624403557   "You're finished"}
+ "Lifeline"
+ {18947469    "Wanna be hear?"
+  644945851   "I'd watch out for my squad"
+  693676365   "Remember this face"
+  1248857503  "You ain't that bright"
+  1419460024  "You better not romp with me"
+  1327818728  "Quit your whinging and fight"
+  1296569752  "I've seen it all"
+  1525343084  "Looking at a fighter"}
+ "Pathfinder"
+ {137159549   "You get here by winning"
+  273118610   "I wish all of you"
+  766089657   "Losing isn't fun"
+  1187907760  "This sounds like it'll be fun"
+  2017149466  "My squad must be very proud"
+  1153806597  "Remember me friends"
+  1372466719  "I work hard for the money"}
+ "Wraith"
+ {1112540849  "Sitting around doing nothing"
+  1521070677  "Every decision counts"
+  1903866641  "Follow my path to win"
+  718019259   "Pain... death... nothing phases me"
+  845226415   "Thin line between life and death"
+  673821013   "Another day, another road"
+  1140596467  "It's my turn this time"}
+ "Bangalore"
+ {710565156   "You better finish the job"
+  612581428   "Go back to boot camp"
+  773719048   "Better find me before I find you"
+  1562841731  "Get ready for a light show"}
+ "Caustic"
+ {2090565077  "Know your place..."
+  1117166802  "Life is meant to die..."
+  509483840   "It all ends the same way..."
+  1550738234  "Join my experiment below."
+  218308806   "You'll with the end came sooner."
+  379991146   "A quick death is so... boring"
+  95285849    "I don't relish the title..."
+  1627987797  "Marvelous!"}
+ "Mirage"
+ {742211773   "Want advice? Shoot first"
+  741209033   "The heart of victory"
+  1832593675  "Gonna see a lot of me"}
+ "Octane"
+ {2071624417  "Time is flying"
+  1146645492  "Catch me if you can"
+  923591933   "Mira, check out that giant banner of me"
+  104944905   "Death catches up to everyone"}
+ "Wattson"
+ {1095360692  "You're playing in my backyard now"
+  1259466623  "Didn't expect to see me up here"
+  2118468212  "My adversaries are in for a shock"
+  116590543   "Be careful"}
+ "Crypto"
+ {447512493   "When you have nothing else to lose"
+  83304856    "If I know who you are"
+  359133510   "I have been through hell to get here"}
+ "Revenant"
+ {1661688633  "Have you said your goodbyes?"
+  153052157   "Don't bother trying to find me"
+  1106470154  "Look at all the skin suits"}
+ "Loba"
+ {830726515   "Come on, let's see if we're a match"
+  970294494   "I fought nightmares all my life"
+  1993944406  "I'll break your heart"}
+ "Rampart"
+ {1418080980  "I don't think of myself as the best"}}

@@ -31,41 +31,41 @@
            string/split-lines
            (drop 3)
            (apply str)
-           json/read-str))
+           (#(json/read-str % :key-fn keyword))))
 
 (defn valid?
   [info]
-  (boolean (get info "cdata0")))
+  (boolean (get info :cdata0)))
 
 (def cdata->path
-  {"cdata2"                 [:legend]
-   "cdata3"                 [:skin]
-   "cdata4"                 [:frame]
-   "cdata5"                 [:pose]
-   "cdata6"                 [:badges 0 :label]
-   "cdata7"                 [:badges 0 :value]
-   "cdata8"                 [:badges 1 :label]
-   "cdata9"                 [:badges 1 :value]
-   "cdata10"                [:badges 2 :label]
-   "cdata11"                [:badges 2 :value]
-   "cdata12"                [:trackers 0 :label]
-   "cdata13"                [:trackers 0 :value]
-   "cdata14"                [:trackers 1 :label]
-   "cdata15"                [:trackers 1 :value]
-   "cdata16"                [:trackers 2 :label]
-   "cdata17"                [:trackers 2 :value]
-   "cdata18"                [:intro]
-   "cdata23"                [:account :level]
-   "cdata24"                [:account :progress]
-   "cdata31"                [:status :in-match?]
-   "uid"                    [:uid]
-   "name"                   [:name]
-   "rankScore"              [:rank :points]
-   "online"                 [:status :online?]
-   "joinable"               [:status :joinable?]
-   "partyFull"              [:status :party :full?]
-   "partyInMatch"           [:status :party :in-match?]
-   "timeSinceServerChange"  [:seconds-since-server-change]})
+  {:cdata2                 [:legend]
+   :cdata3                 [:skin]
+   :cdata4                 [:frame]
+   :cdata5                 [:pose]
+   :cdata6                 [:badges 0 :label]
+   :cdata7                 [:badges 0 :value]
+   :cdata8                 [:badges 1 :label]
+   :cdata9                 [:badges 1 :value]
+   :cdata10                [:badges 2 :label]
+   :cdata11                [:badges 2 :value]
+   :cdata12                [:trackers 0 :label]
+   :cdata13                [:trackers 0 :value]
+   :cdata14                [:trackers 1 :label]
+   :cdata15                [:trackers 1 :value]
+   :cdata16                [:trackers 2 :label]
+   :cdata17                [:trackers 2 :value]
+   :cdata18                [:intro]
+   :cdata23                [:account :level]
+   :cdata24                [:account :progress]
+   :cdata31                [:status :in-match?]
+   :uid                    [:uid]
+   :name                   [:name]
+   :rankScore              [:rank :points]
+   :online                 [:status :online?]
+   :joinable               [:status :joinable?]
+   :partyFull              [:status :party :full?]
+   :partyInMatch           [:status :party :in-match?]
+   :timeSinceServerChange  [:seconds-since-server-change]})
 
 (defn rank
   [score]
@@ -97,14 +97,22 @@
 
 (defn parse
   [info]
-  (let [lookup (->> [:skins :poses :frames :badges :trackers :intros :legends]
-                    (reduce (fn [accl f]
-                              (merge accl
-                                     (-> (str "resources/" (name f) ".edn")
-                                         io/reader
-                                         PushbackReader.
-                                         edn/read)))
-                            {}))]
+  (let [lookup (->> (mapcat (fn [stat]
+                              (vals (-> (str "resources/" (name stat) ".edn")
+                                        io/reader
+                                        PushbackReader.
+                                        edn/read)))
+                            [:skins
+                             :poses
+                             :frames
+                             :badges
+                             :trackers
+                             :intros])
+                    (apply merge)
+                    (merge (-> (str "resources/legends.edn")
+                               io/reader
+                               PushbackReader.
+                               edn/read)))]
     (when (valid? info)
       (-> (reduce (fn [accl [k v]]
                     (if-let [nk (cdata->path k)]
@@ -138,7 +146,7 @@
                              trackers)))))))
 
 (defn -main
-  "Search for a "
+  "Search for an Apex Legends player's stats via their Origin username"
   [& [username]]
   (if-let [result (some-> (origin/search-users username)
                           first
