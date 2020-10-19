@@ -98,7 +98,7 @@
 (defn parse
   [info]
   (let [lookup (->> (mapcat (fn [stat]
-                              (vals (-> (str "resources/" (name stat) ".edn")
+                              (vals (-> (io/resource (str (name stat) ".edn"))
                                         io/reader
                                         PushbackReader.
                                         edn/read)))
@@ -109,7 +109,7 @@
                              :trackers
                              :intros])
                     (apply merge)
-                    (merge (-> (str "resources/legends.edn")
+                    (merge (-> (io/resource "legends.edn")
                                io/reader
                                PushbackReader.
                                edn/read)))]
