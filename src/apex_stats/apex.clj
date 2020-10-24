@@ -35,9 +35,9 @@
 
 (defn valid?
   [info]
-  (boolean (get info :cdata0)))
+  (-> info :cdata0 boolean))
 
-(def cdata->path
+(def ^:dynamic cdata->path
   {:cdata2                 [:legend]
    :cdata3                 [:skin]
    :cdata4                 [:frame]
@@ -58,8 +58,6 @@
    :cdata23                [:account :level]
    :cdata24                [:account :progress]
    :cdata31                [:status :in-match?]
-   :uid                    [:uid]
-   :name                   [:name]
    :rankScore              [:rank :points]
    :online                 [:status :online?]
    :joinable               [:status :joinable?]
@@ -115,17 +113,19 @@
                                edn/read)))]
     (when (valid? info)
       (-> (reduce (fn [accl [k v]]
-                    (if-let [nk (cdata->path k)]
-                      (assoc-in accl
-                                nk
-                                (if (string/ends-with? (name (last nk)) "?")
-                                  (not (zero? v))
-                                  (get lookup v v)))
-                      accl))
-                  {:badges [{} {} {}]
-                   :trackers [{} {} {}]}
+                    (let [nk (cdata->path k)]
+                      (cond-> accl
+                        nk (-> (dissoc k)
+                               (assoc-in nk
+                                         (if (string/ends-with? (name (last nk))
+                                                                "?")
+                                           (not (zero? v))
+                                           (get lookup v v)))))))
+                  (merge info
+                         {:badges [{} {} {}]
+                          :trackers [{} {} {}]})
                   info)
-          (assoc-in [:rank :name] (rank (get info "rankScore")))
+          (assoc-in [:rank :name] (-> info :rankScore rank))
           (update-in [:account :progress] #(str % "%"))
           (update-in [:account :level] inc)
           (update-in [:badges]
