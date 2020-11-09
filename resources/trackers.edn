@@ -63,7 +63,10 @@
   571134538   "Winning Kills"
   826585419   "Finishers"
   136530883   "Revives"
-  1905264844  "Games Played"}
+  1905264844  "Games Played"
+  1677456416  "Kills"
+  1258539856  "Wins"
+  1545620011  "Damage Done"}
  "Lifeline"
  {1049919818  "Pistol Kills"
   53059952    "Revives"
@@ -419,6 +422,11 @@
   18649475    "Damage Done"
   592080214   "Season 6 Kills"
   1041231992  "Season 6 Wins"
+  1942284525  "Season 7 Kills"
   1908678254  "Turret: Bullets Fired"
   439205869   "Wall: Bullets Amped"
-  1687566091  "Wall: Damage Blocked"}}
+  1687566091  "Wall: Damage Blocked"}
+ "Horizon"
+ {904179299   "Kills"
+  1332883364  "Season 7 Kills"
+  1737623359  "Season 7 Wins"}}
