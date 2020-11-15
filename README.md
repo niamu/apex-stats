@@ -1,28 +1,26 @@
 # Apex Legends: Statistics Parser
 
-This program allows a user to query EA's Origin user database and
-obtain a user ID which can then be used against the Apex Legends API
-to obtain player statistics.
+This program allows a user to query the Apex Legends API to obtain
+player statistics via the player's EA Origin UID.
 
 ## Usage
 
-The following environment variables need to be provided in order to
-authenticate with Origin and query for users by username:
-
-- `ORIGIN_EMAIL`
-- `ORIGIN_PASSWORD`
-- `ORIGIN_TOTP_SECRET`: The TOTP secret used to generate your 6 digit
-  authenticator code. (The text represented by the QR codes when
-  setting up TOTP.)
-
-With those environment variables set the program can be run to query
-for the Apex Legends statistics for a specified username:
+Using the compiled binary for macOS or Linux:
 
 ```
-$ ORIGIN_EMAIL="test@example.com" \
-    ORIGIN_PASSWORD="p@55W0rD" \
-    ORIGIN_TOTP_SECRET="t0TpS3cREt123456" \
-    clojure -A:apex $USERNAME
+$ ./apex-stats $UID
+```
+
+Using Java:
+
+```
+$ java -cp target/apex-stats.jar clojure.main -m apex-stats.apex $UID
+```
+
+Using Clojure:
+
+```
+$ clojure -A:apex-stats/core $UID
 ```
 
 An example of what you will get as a return value:

@@ -1,7 +1,15 @@
 {:paths ["src" "resources"]
- :deps {org.clojure/clojure {:mvn/version "1.10.1"}
+ :deps {org.clojure/clojure {:mvn/version "1.10.2-alpha4"}
         org.clojure/data.json {:mvn/version "1.0.0"}
-        clj-http/clj-http {:mvn/version "3.10.2"}
+        org.martinklepsch/clj-http-lite {:mvn/version "0.4.3"}
         kanwei/one-time {:mvn/version "0.7.1"}}
- :aliases {:apex {:main-opts ["-m" "apex-stats.apex"]}
-           :depstar {:extra-deps {seancorfield/depstar {:mvn/version "0.1.5"}}}}}
+ :aliases {:apex-stats/core {:main-opts ["-m" "apex-stats.core"]}
+           :depstar {:extra-deps {seancorfield/depstar {:mvn/version "0.1.5"}}}
+           :native-image {:extra-deps
+                          {luchiniatwork/cambada {:mvn/version "1.0.2"}}
+                          :main-opts
+                          ["-m" "cambada.native-image"
+                           "-O" "-enable-https"
+                           "-O" "H:IncludeResources=.*edn$"
+                           "-O" "-report-unsupported-elements-at-runtime"
+                           "-m" "apex_stats.core"]}}}

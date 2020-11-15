@@ -2,3 +2,4 @@
 .nrepl-port
 .dir-locals.el
 target/
+.DS_Store

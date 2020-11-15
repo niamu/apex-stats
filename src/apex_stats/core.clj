@@ -1,15 +1,17 @@
-(ns apex-stats.apex
+(ns apex-stats.core
+  (:gen-class)
   (:require
-   [apex-stats.origin :as origin]
    [clojure.data.json :as json]
    [clojure.edn :as edn]
    [clojure.pprint :as pprint]
    [clojure.set :as set]
    [clojure.string :as string]
    [clojure.java.io :as io]
-   [clj-http.client :as client])
+   [clj-http.lite.client :as client])
   (:import
    [java.io PushbackReader]))
+
+(set! *warn-on-reflection* true)
 
 (defn user-info
   [id]
@@ -147,10 +149,12 @@
 
 (defn -main
   "Search for an Apex Legends player's stats via their Origin username"
-  [& [username]]
-  (if-let [result (some-> (origin/search-users username)
-                          first
-                          user-info
-                          parse)]
-    (pprint/pprint result)
+  [& [uid]]
+  (if-let [result (some->> (user-info uid)
+                           parse)]
+    (pprint/pprint
+     (apply dissoc result
+            (set/difference (set (keys result))
+                            (set (keys cdata->path))
+                            (set (map first (vals cdata->path))))))
     (println "No Apex Legends data for that username was found.")))
