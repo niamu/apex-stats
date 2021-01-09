@@ -108,7 +108,8 @@
   1447295346  "Damage Done"
   531788381   "Wins"}
  "Pathfinder"
- {196161681   "Kills"
+ {1489531670  "Kills"
+  196161681   "Kills"
   765384635   "Kills"
   1106401980  "Kills as Kill Leader"
   1006931949  "Wins with Full Squad Alive"
@@ -243,7 +244,10 @@
  {240059894   "Headshots"
   1996756430  "Times Placed Top 3"
   2014839975  "Damage Done"
+  710621083   "Kills"
   1730527550  "Kills"
+  803607498   "Wins"
+  965890515   "Damage Done"
   2015631597  "Kills as Kill Leader"
   1654975970  "Wins with Full Squad Alive"
   137953061   "Care Package Weapon Kills"
@@ -308,6 +312,7 @@
   502037190   "Games Played"}
  "Wattson"
  {936537666   "Damage Done"
+  1520016036  "Kills"
   1449585426  "Kills"
   1166003169  "Kills as Kill Leader"
   1636449429  "Winning Kills"

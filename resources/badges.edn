@@ -1,7 +1,6 @@
 {nil ;; Account Badges
  {1488777442  nil
   97219464    "Respawn Entertainment Developer"
-  1553237013  "Shadow Royale"
   2108629689  "Horizon's Test Subject"
   457604849   "Aftermarket"
   394671452   "Assimilation Level: Season 4"
@@ -17,6 +16,13 @@
   501794523   "The Old Ways"
   1896308853  "Lost Treasures"
   488716102   "System Override"
+  1553237013  "Fight or Fright 2020"
+  1273852168  "Holo-Day Bash 2020"
+  778264728   "Pain Train Conductor"
+  1784365945  "Ticket Puncher"
+  716141722   "Holo-Day Survivor"
+  1485445407  "Holo-Day Master"
+  2041483501  "Fight Night"
   559268312   "You're Tiering Me Apart: Ranked Series 1"
   161505455   "You're Tiering Me Apart: Ranked Series 2"
   1113406948  "You're Tiering Me Apart: Ranked Season 4"
@@ -124,7 +130,8 @@
   1760202661  "Elite Pathfinder"
   198295608   "Squad Wipe"
   1577136591  "Assassin"
-  1378793339  "Pathfinder Iron Crown"}
+  1378793339  "Pathfinder Iron Crown"
+  949230646   "Reinforcement Recall"}
  "Wraith"
  {822177349   "Squad Wipe"
   38299106    "Apex Wraith"
@@ -248,4 +255,11 @@
   1258799974  "Apex Predator"
   1382317460  "Shot Caller"
   1364121022  "Flawless Victory 1"
-  1921131832  "The Legacy Continues"}}
+  1921131832  "The Legacy Continues"}
+ "Horizon"
+ {1818638937  "No One Left Behind"
+  1854288731  "Apex Horizon"
+  1774827845  "Shot Caller"
+  1981676884  "Squad Wipe"
+  2144435905  "The Legacy Continues"
+  664966674   "Flawless Victory 1"}}
