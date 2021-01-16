@@ -13,7 +13,8 @@
  "Gibraltar"
  {743806612   "Great. Good. Wonderful."
   323749065   "You push..."
-  624403557   "You're finished"}
+  624403557   "You're finished"
+  1185844236  "I just do the job"}
  "Lifeline"
  {18947469    "Wanna be hear?"
   644945851   "I'd watch out for my squad"
@@ -22,7 +23,8 @@
   1419460024  "You better not romp with me"
   1327818728  "Quit your whinging and fight"
   1296569752  "I've seen it all"
-  1525343084  "Looking at a fighter"}
+  1525343084  "Looking at a fighter"
+  1409738830  "We all got each other"}
  "Pathfinder"
  {137159549   "You get here by winning"
   273118610   "I wish all of you"
@@ -30,7 +32,8 @@
   1187907760  "This sounds like it'll be fun"
   2017149466  "My squad must be very proud"
   1153806597  "Remember me friends"
-  1372466719  "I work hard for the money"}
+  1372466719  "I work hard for the money"
+  326460805   "Oh, am I supposed to talk?"}
  "Wraith"
  {1112540849  "Sitting around doing nothing"
   1521070677  "Every decision counts"
@@ -43,7 +46,8 @@
  {710565156   "You better finish the job"
   612581428   "Go back to boot camp"
   773719048   "Better find me before I find you"
-  1562841731  "Get ready for a light show"}
+  1562841731  "Get ready for a light show"
+  898622191   "Get ready for a world of hurt"}
  "Caustic"
  {2090565077  "Know your place..."
   1117166802  "Life is meant to die..."
@@ -52,11 +56,14 @@
   218308806   "You'll with the end came sooner."
   379991146   "A quick death is so... boring"
   95285849    "I don't relish the title..."
-  1627987797  "Marvelous!"}
+  1627987797  "Marvelous!"
+  747547998   "Science is precise..."
+  864926335   "Test me."}
  "Mirage"
  {742211773   "Want advice? Shoot first"
   741209033   "The heart of victory"
-  1832593675  "Gonna see a lot of me"}
+  1832593675  "Gonna see a lot of me"
+  1235954991  "Anyone want to take me out?"}
  "Octane"
  {2071624417  "Time is flying"
   1146645492  "Catch me if you can"
@@ -66,19 +73,29 @@
  {1095360692  "You're playing in my backyard now"
   1259466623  "Didn't expect to see me up here"
   2118468212  "My adversaries are in for a shock"
-  116590543   "Be careful"}
+  116590543   "Be careful"
+  168830421   "I did it Papa"
+  168969098   "I fight until it hertz"}
  "Crypto"
  {447512493   "When you have nothing else to lose"
   83304856    "If I know who you are"
-  359133510   "I have been through hell to get here"}
+  359133510   "I have been through hell to get here"
+  158274996   "Sehsang un humhan goshiya"
+  939467165   "Truth is coming"}
  "Revenant"
  {1661688633  "Have you said your goodbyes?"
+  354314814   "Make it out of this alive"
   153052157   "Don't bother trying to find me"
-  1106470154  "Look at all the skin suits"}
+  1106470154  "Look at all the skin suits"
+  1463120509  "Last legends looked hopeful too"}
  "Loba"
  {830726515   "Come on, let's see if we're a match"
   970294494   "I fought nightmares all my life"
-  1993944406  "I'll break your heart"}
+  1993944406  "I'll break your heart"
+  1686435734  "There's a certain elegance to combat"}
  "Rampart"
  {1418080980  "I don't think of myself as the best"
-  914491736   "No need to get razzled yet"}}
+  914491736   "No need to get razzled yet"
+  823142098   "If you don't like what you see"}
+ "Horizon"
+ {999493764   "If not even light can escape the event horizon"}}
