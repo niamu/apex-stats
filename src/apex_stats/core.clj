@@ -14,31 +14,24 @@
 (set! *warn-on-reflection* true)
 
 (defn user-info
-  [id]
-  (let [domain (str "r5-pc-sub" (inc (rand-int 60)) ".stryder.respawn.com")
+  [uid]
+  (let [domain "r5-crossplay.r5prod.stryder.respawn.com"
         response (client/get (str "https://" domain "/user.php")
                              {:headers {"User-Agent" "Respawn HTTPS/1.0"
                                         "Accept" "application/json"}
-                              :query-params {"qt" "user-getinfo"
-                                             "getinfo" "1"
-                                             "hardware" "PC"
-                                             "uid" id
-                                             "language" "english"
-                                             "timezoneOffset" "1"
-                                             "ugc" "1"
-                                             "rep" "1"
-                                             "searching" "0"
-                                             "change" "7"
-                                             "loadidx" "1"}
+                              :query-params {:qt "user-getinfo"
+                                             :getinfo 1
+                                             :hardware "PC"
+                                             :uid uid}
                               :throw-exceptions false})]
     (if (= (:status response) 200)
       (some->> response
                :body
                string/split-lines
-               (drop 3)
+               (drop 1)
                (apply str)
                (#(json/read-str % :key-fn keyword)))
-      (user-info id))))
+      (user-info uid))))
 
 (defn valid?
   [info]
@@ -153,7 +146,7 @@
                              trackers)))))))
 
 (defn -main
-  "Search for an Apex Legends player's stats via their Origin username"
+  "Search for an Apex Legends player's stats via their Origin UID"
   [& [uid]]
   (if-let [result (some->> (user-info uid)
                            parse)]
@@ -162,4 +155,4 @@
             (set/difference (set (keys result))
                             (set (keys cdata->path))
                             (set (map first (vals cdata->path))))))
-    (println "No Apex Legends data for that username was found.")))
+    (println "No Apex Legends data for that Origin UID was found.")))

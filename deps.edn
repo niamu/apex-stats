@@ -1,8 +1,7 @@
 {:paths ["src" "resources"]
  :deps {org.clojure/clojure {:mvn/version "1.10.2-alpha4"}
         org.clojure/data.json {:mvn/version "1.0.0"}
-        org.martinklepsch/clj-http-lite {:mvn/version "0.4.3"}
-        kanwei/one-time {:mvn/version "0.7.1"}}
+        org.martinklepsch/clj-http-lite {:mvn/version "0.4.3"}}
  :aliases {:apex-stats/core {:main-opts ["-m" "apex-stats.core"]}
            :depstar {:extra-deps {seancorfield/depstar {:mvn/version "0.1.5"}}}
            :native-image {:extra-deps

@@ -20,7 +20,7 @@ $ java -cp target/apex-stats.jar clojure.main -m apex-stats.apex $UID
 Using Clojure:
 
 ```
-$ clojure -A:apex-stats/core $UID
+$ clojure -M:apex-stats/core $UID
 ```
 
 An example of what you will get as a return value:
