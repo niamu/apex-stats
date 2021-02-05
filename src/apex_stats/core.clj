@@ -23,15 +23,14 @@
                                              :getinfo 1
                                              :hardware "PC"
                                              :uid uid}
-                              :throw-exceptions false})]
-    (if (= (:status response) 200)
+                              :throw-exceptions true})]
+    (when (= (:status response) 200)
       (some->> response
                :body
                string/split-lines
                (drop 1)
                (apply str)
-               (#(json/read-str % :key-fn keyword)))
-      (user-info uid))))
+               (#(json/read-str % :key-fn keyword))))))
 
 (defn valid?
   [info]
@@ -95,64 +94,102 @@
 
 (defn parse
   [info]
-  (let [lookup (->> (mapcat (fn [stat]
-                              (vals (-> (io/resource (str (name stat) ".edn"))
+  (let [;; In case a tool wants to use qualified keywords in `cdata->path`
+        unqualified-fn (fn [m] (reduce (fn [accl [k v]]
+                                        (assoc accl
+                                               (-> k name keyword)
+                                               v))
+                                      {}
+                                      m))
+        unqualified-cdata->path (unqualified-fn cdata->path)
+        unqualified-info (unqualified-fn info)
+        badge-keys-fn (juxt :cdata6
+                            :cdata7
+                            :cdata8
+                            :cdata9
+                            :cdata10
+                            :cdata11)
+        badges-kw (->> (map first (badge-keys-fn unqualified-cdata->path))
+                       (remove nil?)
+                       set
+                       first)
+        tracker-keys-fn (juxt :cdata12
+                              :cdata13
+                              :cdata14
+                              :cdata15
+                              :cdata16
+                              :cdata17)
+        trackers-kw (->> (map first (tracker-keys-fn unqualified-cdata->path))
+                         (remove nil?)
+                         set
+                         first)
+        rank-kw (first (:rankScore unqualified-cdata->path))
+        account-kw (first (:cdata23 unqualified-cdata->path))
+        lookup (->> (mapcat (fn [stat]
+                              (vals (-> (io/resource stat)
                                         io/reader
                                         PushbackReader.
                                         edn/read)))
-                            [:skins
-                             :poses
-                             :frames
-                             :badges
-                             :trackers
-                             :intros])
+                            ["skins.edn"
+                             "poses.edn"
+                             "frames.edn"
+                             "badges.edn"
+                             "trackers.edn"
+                             "intros.edn"])
                     (apply merge)
                     (merge (-> (io/resource "legends.edn")
                                io/reader
                                PushbackReader.
-                               edn/read)))]
-    (when (valid? info)
-      (-> (reduce (fn [accl [k v]]
-                    (let [nk (cdata->path k)]
-                      (cond-> accl
-                        nk (-> (dissoc k)
-                               (assoc-in nk
-                                         (if (string/ends-with? (name (last nk))
-                                                                "?")
-                                           (not (zero? v))
-                                           (get lookup v v)))))))
-                  (merge info
-                         {:badges [{} {} {}]
-                          :trackers [{} {} {}]})
-                  info)
-          (assoc-in [:rank :name] (-> info :rankScore rank))
-          (update-in [:account :progress] #(str % "%"))
-          (update-in [:account :level] inc)
-          (update-in [:badges]
-                     (fn [badges]
-                       (mapv (fn [{:keys [label value]}]
-                               {label (when label (dec value))})
-                             badges)))
-          (update-in [:trackers]
-                     (fn [trackers]
-                       (mapv (fn [{:keys [label value]}]
-                               {label (when label
-                                        (let [s (->> (str value)
-                                                     (drop-last 2)
-                                                     (apply str))]
-                                          (if (empty? s)
-                                            0
-                                            (Long/parseLong s))))})
-                             trackers)))))))
+                               edn/read)))
+        parsed-result (reduce (fn [accl [k v]]
+                                (let [nk (cdata->path k)]
+                                  (cond-> accl
+                                    nk (-> (dissoc k)
+                                           (assoc-in nk
+                                                     (if (string/ends-with?
+                                                          (name (last nk))
+                                                          "?")
+                                                       (pos? v)
+                                                       (get lookup v v)))))))
+                              (merge info
+                                     (when (->> (badge-keys-fn unqualified-info)
+                                                (some #(not (nil? %))))
+                                       {badges-kw [{} {} {}]})
+                                     (when (->> (tracker-keys-fn
+                                                 unqualified-info)
+                                                (some #(not (nil? %))))
+                                       {trackers-kw [{} {} {}]}))
+                              info)]
+    (cond-> parsed-result
+      (:rankScore unqualified-info)
+      (assoc-in [rank-kw :name] (-> unqualified-info :rankScore rank))
+
+      (get-in parsed-result [account-kw :level])
+      (update-in [account-kw :level] inc)
+
+      (get-in parsed-result [badges-kw])
+      (update-in [badges-kw]
+                 (fn [badges]
+                   (mapv (fn [{:keys [label value]}]
+                           {label (when label (dec value))})
+                         badges)))
+
+      (get-in parsed-result [trackers-kw])
+      (update-in [trackers-kw]
+                 (fn [trackers]
+                   (mapv (fn [{:keys [label value]}]
+                           {label (/ (- value 2) 100)})
+                         trackers))))))
 
 (defn -main
   "Search for an Apex Legends player's stats via their Origin UID"
   [& [uid]]
-  (if-let [result (some->> (user-info uid)
-                           parse)]
-    (pprint/pprint
-     (apply dissoc result
-            (set/difference (set (keys result))
-                            (set (keys cdata->path))
-                            (set (map first (vals cdata->path))))))
-    (println "No Apex Legends data for that Origin UID was found.")))
+  (let [info (user-info uid)
+        result (-> info parse)]
+    (if (and result (valid? info))
+      (pprint/pprint
+       (apply dissoc result
+              (set/difference (set (keys result))
+                              (set (keys cdata->path))
+                              (set (map first (vals cdata->path))))))
+      (println "No Apex Legends data for that Origin UID was found."))))
