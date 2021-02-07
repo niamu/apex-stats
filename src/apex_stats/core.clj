@@ -30,39 +30,41 @@
                string/split-lines
                (drop 1)
                (apply str)
-               (#(json/read-str % :key-fn keyword))))))
+               (#(json/read-str % :key-fn (fn [k] (keyword "banner" k))))))))
 
 (defn valid?
   [info]
-  (-> info :cdata0 boolean))
+  (-> info :banner/cdata0 boolean))
 
 (def ^:dynamic cdata->path
-  {:cdata2                 [:legend]
-   :cdata3                 [:skin]
-   :cdata4                 [:frame]
-   :cdata5                 [:pose]
-   :cdata6                 [:badges 0 :label]
-   :cdata7                 [:badges 0 :value]
-   :cdata8                 [:badges 1 :label]
-   :cdata9                 [:badges 1 :value]
-   :cdata10                [:badges 2 :label]
-   :cdata11                [:badges 2 :value]
-   :cdata12                [:trackers 0 :label]
-   :cdata13                [:trackers 0 :value]
-   :cdata14                [:trackers 1 :label]
-   :cdata15                [:trackers 1 :value]
-   :cdata16                [:trackers 2 :label]
-   :cdata17                [:trackers 2 :value]
-   :cdata18                [:intro]
-   :cdata23                [:account :level]
-   :cdata24                [:account :progress]
-   :cdata31                [:status :in-match?]
-   :rankScore              [:rank :points]
-   :online                 [:status :online?]
-   :joinable               [:status :joinable?]
-   :partyFull              [:status :party :full?]
-   :partyInMatch           [:status :party :in-match?]
-   :timeSinceServerChange  [:seconds-since-server-change]})
+  {:banner/uid                    [:banner/uid]
+   :banner/name                   [:banner/name]
+   :banner/cdata2                 [:banner/legend]
+   :banner/cdata3                 [:banner/skin]
+   :banner/cdata4                 [:banner/frame]
+   :banner/cdata5                 [:banner/pose]
+   :banner/cdata6                 [:banner/badges 0 :label]
+   :banner/cdata7                 [:banner/badges 0 :value]
+   :banner/cdata8                 [:banner/badges 1 :label]
+   :banner/cdata9                 [:banner/badges 1 :value]
+   :banner/cdata10                [:banner/badges 2 :label]
+   :banner/cdata11                [:banner/badges 2 :value]
+   :banner/cdata12                [:banner/trackers 0 :label]
+   :banner/cdata13                [:banner/trackers 0 :value]
+   :banner/cdata14                [:banner/trackers 1 :label]
+   :banner/cdata15                [:banner/trackers 1 :value]
+   :banner/cdata16                [:banner/trackers 2 :label]
+   :banner/cdata17                [:banner/trackers 2 :value]
+   :banner/cdata18                [:banner/intro]
+   :banner/cdata23                [:banner/account :level]
+   :banner/cdata24                [:banner/account :progress]
+   :banner/cdata31                [:banner/status :in-match?]
+   :banner/rankScore              [:banner/rank :points]
+   :banner/online                 [:banner/status :online?]
+   :banner/joinable               [:banner/status :joinable?]
+   :banner/partyFull              [:banner/status :party :full?]
+   :banner/partyInMatch           [:banner/status :party :in-match?]
+   :banner/timeSinceServerChange  [:banner/seconds-since-server-change]})
 
 (defn rank
   [score]
@@ -112,76 +114,36 @@
 
 (defn parse
   [info]
-  (let [;; In case a tool wants to use qualified keywords in `cdata->path`
-        unqualified-fn (fn [m] (reduce (fn [accl [k v]]
-                                        (assoc accl
-                                               (-> k name keyword)
-                                               v))
-                                      {}
-                                      m))
-        unqualified-cdata->path (unqualified-fn cdata->path)
-        unqualified-info (unqualified-fn info)
-        badge-keys-fn (juxt :cdata6
-                            :cdata7
-                            :cdata8
-                            :cdata9
-                            :cdata10
-                            :cdata11)
-        badges-kw (->> (map first (badge-keys-fn unqualified-cdata->path))
-                       (remove nil?)
-                       set
-                       first)
-        tracker-keys-fn (juxt :cdata12
-                              :cdata13
-                              :cdata14
-                              :cdata15
-                              :cdata16
-                              :cdata17)
-        trackers-kw (->> (map first (tracker-keys-fn unqualified-cdata->path))
-                         (remove nil?)
-                         set
-                         first)
-        rank-kw (first (:rankScore unqualified-cdata->path))
-        account-kw (first (:cdata23 unqualified-cdata->path))
-        parsed-result (reduce (fn [accl [k v]]
-                                (let [nk (cdata->path k)]
-                                  (cond-> accl
-                                    nk (-> (dissoc k)
-                                           (assoc-in nk
-                                                     (if (string/ends-with?
-                                                          (name (last nk))
-                                                          "?")
-                                                       (pos? v)
-                                                       (get lookup v v)))))))
-                              (merge info
-                                     (when (->> (badge-keys-fn unqualified-info)
-                                                (some #(not (nil? %))))
-                                       {badges-kw [{} {} {}]})
-                                     (when (->> (tracker-keys-fn
-                                                 unqualified-info)
-                                                (some #(not (nil? %))))
-                                       {trackers-kw [{} {} {}]}))
-                              info)]
-    (cond-> parsed-result
-      (:rankScore unqualified-info)
-      (assoc-in [rank-kw :name] (-> unqualified-info :rankScore rank))
-
-      (get-in parsed-result [account-kw :level])
-      (update-in [account-kw :level] inc)
-
-      (get-in parsed-result [badges-kw])
-      (update-in [badges-kw]
-                 (fn [badges]
-                   (mapv (fn [{:keys [label value]}]
-                           {label (when label (dec value))})
-                         badges)))
-
-      (get-in parsed-result [trackers-kw])
-      (update-in [trackers-kw]
-                 (fn [trackers]
-                   (mapv (fn [{:keys [label value]}]
-                           {label (/ (- value 2) 100)})
-                         trackers))))))
+  (when (valid? info)
+    (-> (reduce (fn [accl [k v]]
+                  (let [nk (cdata->path k)]
+                    (cond-> accl
+                      nk (-> (dissoc k)
+                             (assoc-in nk
+                                       (if (string/ends-with? (name (last nk))
+                                                              "?")
+                                         (not (zero? v))
+                                         (get lookup v v)))))))
+                (merge info
+                       {:banner/badges [{} {} {}]
+                        :banner/trackers [{} {} {}]})
+                info)
+        (assoc-in [:banner/rank :name] (-> info :banner/rankScore rank))
+        (update-in [:banner/account :progress] #(str % "%"))
+        (update-in [:banner/account :level] #(some-> % inc))
+        (update-in [:banner/badges]
+                   (fn [badges]
+                     (mapv (fn [{:keys [label value]}]
+                             {label (when label (dec value))})
+                           badges)))
+        (update-in [:banner/trackers]
+                   (fn [trackers]
+                     (mapv (fn [{:keys [label value]}]
+                             {label (when label (-> value
+                                                    (- 2)
+                                                    (/ 100)
+                                                    int))})
+                           trackers))))))
 
 (defn -main
   "Search for an Apex Legends player's stats via their Origin UID"
