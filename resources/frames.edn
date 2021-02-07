@@ -23,7 +23,12 @@
   444973922   "Good Medicine"
   1745810254  "Shooting Stars"
   804549148   "Car Package"
-  62537233    "Temperature Rising"}
+  62537233    "Temperature Rising"
+  100399367   "Feel the Beat"
+  1421276673  "Clear!"
+  2143286677  "Search and Rescue"
+  684345885   "Stripe 3"
+  492796562   "In Stitches"}
  "Pathfinder"
  {1160920630  "Rookie Card"
   1236942883  "Energized"
@@ -78,13 +83,15 @@
   195560236   "Shark Teeth"
   1276619423  "Deep Dive"
   1115114314  "Headrush"
-  627870072   "Fuel Injected"}
+  627870072   "Fuel Injected"
+  188560165   "Successful Launch"}
  "Wattson"
  {693214584   "Rookie Card"
   1501982518  "Tesla Coil"
   172325793   "Electric Flail"
   1772692538  "KEEP OUT"
-  754610000   "Angular Momentum"}
+  754610000   "Angular Momentum"
+  1303125822  "Lightspeed Bandwidth"}
  "Crypto"
  {1917095873  "Rookie Card"
   983775682   "Mesh"
@@ -93,7 +100,8 @@
   334183651   "Cyber Ninja"
   90785559    "Expedition"
   1356211744  "Air Traffic Control"
-  744529494   "Reroute"}
+  744529494   "Reroute"
+  1960397303  "Ghost Dance"}
  "Revenant"
  {1224604534  "Rookie Card"
   243834694   "All-Seeing"
@@ -102,7 +110,8 @@
   416547060   "Edge of Sanity"
   705710619   "Hivemind"
   1097340168  "Death Tuner"
-  558422772   "Slice and Dice"}
+  558422772   "Slice and Dice"
+  1928967929  "Element of Surprise"}
  "Loba"
  {1142951752  "Rookie Card"
   1184522866  "Diamond Encrusted"
@@ -120,4 +129,5 @@
   2143861409  "First Class"}
  "Fuse"
  {1531879398  "Rookie Card"
-  672117194   "Bombs Away"}}
+  672117194   "Bombs Away"
+  347815692   "Scorched"}}

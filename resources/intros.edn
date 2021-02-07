@@ -24,7 +24,10 @@
   1327818728  "Quit your whinging and fight"
   1296569752  "I've seen it all"
   1525343084  "Looking at a fighter"
-  1409738830  "We all got each other"}
+  1409738830  "We all got each other"
+  624621458   "Champion, challenger"
+  939452601   "Looking at a fighter"
+  1614859148  "Accept it"}
  "Pathfinder"
  {137159549   "You get here by winning"
   273118610   "I wish all of you"
@@ -58,7 +61,8 @@
   95285849    "I don't relish the title..."
   1627987797  "Marvelous!"
   747547998   "Science is precise..."
-  864926335   "Test me."}
+  864926335   "Test me."
+  1068325820  "Watch for my traps..."}
  "Mirage"
  {742211773   "Want advice? Shoot first"
   741209033   "The heart of victory"
@@ -68,20 +72,25 @@
  {2071624417  "Time is flying"
   1146645492  "Catch me if you can"
   923591933   "Mira, check out that giant banner of me"
-  104944905   "Death catches up to everyone"}
+  104944905   "Death catches up to everyone"
+  240764510   "Shoutout to all my fans"
+  884359004   "Casa de Octane"}
  "Wattson"
  {1095360692  "You're playing in my backyard now"
   1259466623  "Didn't expect to see me up here"
   2118468212  "My adversaries are in for a shock"
   116590543   "Be careful"
   168830421   "I did it Papa"
-  168969098   "I fight until it hertz"}
+  168969098   "I fight until it hertz"
+  898591900   "I bring the silence"
+  1792524032  "I'm currently at the top of my game"}
  "Crypto"
  {447512493   "When you have nothing else to lose"
   83304856    "If I know who you are"
   359133510   "I have been through hell to get here"
   158274996   "Sehsang un humhan goshiya"
-  939467165   "Truth is coming"}
+  939467165   "Truth is coming"
+  1251439254  "I'm here because I have to be"}
  "Revenant"
  {1661688633  "Have you said your goodbyes?"
   354314814   "Make it out of this alive"
@@ -90,6 +99,7 @@
   1463120509  "Last legends looked hopeful too"}
  "Loba"
  {830726515   "Come on, let's see if we're a match"
+  1512013809  "Aww, you think you're tough?"
   970294494   "I fought nightmares all my life"
   1993944406  "I'll break your heart"
   1686435734  "There's a certain elegance to combat"}
@@ -100,4 +110,5 @@
  "Horizon"
  {999493764   "If not even light can escape the event horizon"}
  "Fuse"
- {424662936   "Bringin' the noise, boys"}}
+ {424662936   "Bringin' the noise, boys"
+  1490161020  "You get more outta life if you don't follow the rules"}}
