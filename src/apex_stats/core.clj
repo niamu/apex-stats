@@ -92,6 +92,24 @@
                    accl))
                "")))
 
+(def lookup
+  (->> (mapcat (fn [stat]
+                 (vals (-> (io/resource stat)
+                           io/reader
+                           PushbackReader.
+                           edn/read)))
+               ["skins.edn"
+                "poses.edn"
+                "frames.edn"
+                "badges.edn"
+                "trackers.edn"
+                "intros.edn"])
+       (apply merge)
+       (merge (-> (io/resource "legends.edn")
+                  io/reader
+                  PushbackReader.
+                  edn/read))))
+
 (defn parse
   [info]
   (let [;; In case a tool wants to use qualified keywords in `cdata->path`
@@ -125,22 +143,6 @@
                          first)
         rank-kw (first (:rankScore unqualified-cdata->path))
         account-kw (first (:cdata23 unqualified-cdata->path))
-        lookup (->> (mapcat (fn [stat]
-                              (vals (-> (io/resource stat)
-                                        io/reader
-                                        PushbackReader.
-                                        edn/read)))
-                            ["skins.edn"
-                             "poses.edn"
-                             "frames.edn"
-                             "badges.edn"
-                             "trackers.edn"
-                             "intros.edn"])
-                    (apply merge)
-                    (merge (-> (io/resource "legends.edn")
-                               io/reader
-                               PushbackReader.
-                               edn/read)))
         parsed-result (reduce (fn [accl [k v]]
                                 (let [nk (cdata->path k)]
                                   (cond-> accl
@@ -184,7 +186,8 @@
 (defn -main
   "Search for an Apex Legends player's stats via their Origin UID"
   [& [uid]]
-  (let [info (user-info uid)
+  (let [uid (or uid (slurp *in*))
+        info (user-info uid)
         result (-> info parse)]
     (if (and result (valid? info))
       (pprint/pprint
