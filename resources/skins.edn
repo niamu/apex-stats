@@ -2,47 +2,47 @@
  {153552110   "The Plague Doctor"
   1837153361  "The Runekeeper"
   403564327   "Royal Guard"
-  "Imperial Warrior" "Imperial Warrior"
+  ;; Imperial Warrior
   546339579   "Road Warrior"
   1969131514  "Fiber Optics"
   184416082   "Glowing Viral"
-  "Hack the System" "Hack the System"
+  ;; Hack the System
   129762532   "Heat Sync"
   124500973   "Neural Net"
-  "Sizzle Reel" "Sizzle Reel"
+  ;; Sizzle Reel
   896713809   "Woodland Warfare"
   1493869969  "Tight Rope"
   1157763363  "Tropic Streak"
-  "Checkered Past" "Checkered Past"
+  ;; Checkered Past
   1143980138  "Timberland"
   504156003   "Lucky Charm"
   1816677511  "Bloodline"
-  "Green Screen" "Green Screen"
-  "Sunsetter" "Sunsetter"
-  "Warlord" "Warlord"
-  "Snakeskin" "Snakeskin"
-  "Life Cycle" "Life Cycle"
-  "Scales of Justice" "Scales of Justice"
+  ;; Green Screen
+  ;; Sunsetter
+  ;; Warlord
+  ;; Snakeskin
+  ;; Life Cycle
+  ;; Scales of Justice
   1722638119  "Tartan Fleece"
   68849301    "Gilded Claw"
   141122175   "Solstice"
   845551255   "Original"
   1106865901  "Midnight"
-  "Cardinal" "Cardinal"
-  "Arctic" "Arctic"
-  "Mandarin" "Mandarin"
-  "Orchid" "Orchid"
-  "Flamingo" "Flamingo"
-  "Clearwater" "Clearwater"
-  "Vino" "Vino"
-  "Evergreen" "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
-  "Skyward" "Skyward"
-  "Hydro" "Hydro"
-  "Rage" "Rage"
-  "Sahara" "Sahara"
-  ;; Unordered
+  ;; Cardinal
+  ;; Arctic
+  ;; Mandarin
+  ;; Orchid
+  ;; Flamingo
+  ;; Clearwater
+  ;; Vino
+  ;; Evergreen
+  ;; Limelight
+  ;; Yellowjacket
+  ;; Skyward
+  ;; Hydro
+  ;; Rage
+  ;; Sahara
+  ;; === Unordered ===
   1265481127  "Master of the Hunt"
   200518223   "Protector of the Patch"
   1419013450  "The Centurion"
@@ -56,48 +56,48 @@
  "Gibraltar"
  {961745557   "Millennium Tusk"
   654577661   "Dark Side"
-  "Ride or Die" "Ride or Die"
-  "Bunker Buster" "Bunker Buster"
+  ;; Ride or Die
+  ;; Bunker Buster
   406847707   "Fiber Optics"
-  "Daemon Hunter" "Daemon Hunter"
-  "Hack the System" "Hack the System"
-  "Heat Sync" "Heat Sync"
-  "Neural Net" "Neural Net"
+  ;; Daemon Hunter
+  ;; Hack the System
+  ;; Heat Sync
+  ;; Neural Net
   1775380946  "Molten Core"
   1180017759  "Woodland Warfare"
   1335145251  "Tight Rope"
-  "Tropic Streak" "Tropic Streak"
-  "Sizzle Reel" "Sizzle Reel"
-  "Tartan Fleece" "Tartan Fleece"
+  ;; Tropic Streak
+  ;; Sizzle Reel
+  ;; Tartan Fleece
   2126665450  "Purgatory"
-  "Bloodline" "Bloodline"
-  "Scales of Justice" "Scales of Justice"
+  ;; Bloodline
+  ;; Scales of Justice
   2103450857  "Interdimensional"
   1815480437  "Warlord"
   2117964513  "Ornamental Nature"
   941068524   "Green Screen"
-  "Volcanic" "Volcanic"
-  "Hieroglyph" "Hieroglyph"
+  ;; Volcanic
+  ;; Hieroglyph
   1116303293  "Deep Blue"
   292410174   "Shield of the North"
   485012064   "Decked Out"
   20349656    "Original"
-  "Midnight" "Midnight"
-  "Cardinal" "Cardinal"
+  ;; Midnight
+  ;; Cardinal
   875591185   "Arctic"
-  "Mandarin"  "Mandarin"
-  "Orchid" "Orchid"
-  "Flamingo" "Flamingo"
-  "Clearwater" "Clearwater"
-  "Vino" "Vino"
-  "Evergreen" "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
-  "Skyward" "Skyward"
-  "Hydro" "Hydro"
+  ;; Mandarin
+  ;; Orchid
+  ;; Flamingo
+  ;; Clearwater
+  ;; Vino
+  ;; Evergreen
+  ;; Limelight
+  ;; Yellowjacket
+  ;; Skyward
+  ;; Hydro
   682704931   "Rage"
-  "Sahara" "Sahara"
-  ;; Unordered
+  ;; Sahara
+  ;; === Unordered ===
   272302856   "Call to Arms"
   1901172304  "Shell-Shocked"
   856921225   "Brudda Bear"}
@@ -109,41 +109,41 @@
   1334974912  "Fiber Optics"
   1835326898  "Daemon Hunter"
   1400364855  "Blockchain Reaction"
-  "Heat Sync" "Heat Sync"
+  ;; Heat Sync
   1488229928  "Neural Net"
-  "Dot Product" "Dot Product"
-  "Woodland Warfare" "Woodland Warfare"
+  ;; Dot Product
+  ;; Woodland Warfare
   45388828    "Tie Dye"
-  "Tropic Streak" "Tropic Streak"
+  ;; Tropic Streak
   269360864   "Mint Condition"
-  "Checkered Past" "Checkered Past"
-  "Desert Scorpion" "Desert Scorpion"
-  "Brain Candy" "Brain Candy"
+  ;; Checkered Past
+  ;; Desert Scorpion
+  ;; Brain Candy
   818126231   "Electric Synapse"
-  "Blacklight Classic" "Blacklight Classic"
-  "Warlord" "Warlord"
+  ;; Blacklight Classic
+  ;; Warlord
   2045528775  "Sizzle Reel"
   2139290909  "Coastal Waters"
   1595155393  "Self Organized"
   1187180027  "Purgatory"
   767532534   "Health Drain"
   493570024   "Original"
-  "Amethyst"  "Amethyst"
+  ;; Amethyst
   492060794   "Cardinal"
-  "Arctic"    "Arctic"
+  ;; Arctic
   1649015056  "Mandarin"
-  "Orchid"    "Orchid"
-  "Flamingo"  "Flamingo"
-  "Clearwater" "Clearwater"
-  "Vino"      "Vino"
-  "Evergreen" "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
-  "Skyward"   "Skyward"
+  ;; Orchid
+  ;; Flamingo
+  ;; Clearwater
+  ;; Vino
+  ;; Evergreen
+  ;; Limelight
+  ;; Yellowjacket
+  ;; Skyward
   444351262   "Hydro"
-  "Rage"      "Rage"
+  ;; Rage
   1613526384  "Sahara"
-  ;; Unordered
+  ;; === Unordered ===
   886574955   "Judge Jury"
   389034102   "Lifeline Bling"
   1687367436  "Pirate Queen"
@@ -159,28 +159,28 @@
   58496214    "Worlds Apart"
   11520584    "First Responder"}
  "Pathfinder"
- {"Angel City Pacer" "Angel City Pacer"
+ {;; Angel City Pacer
   551229845   "Quicksilver"
   1429722814  "Model P"
   23553099    "The Aviator"
   1385459903  "Full Throttle"
   1078437313  "Hack The System"
-  "Daemon Hunter" "Daemon Hunter"
+  ;; Daemon Hunter
   1063382701  "User Friendly"
-  "Heat Sync" "Heat Sync"
-  "Neural Net" "Neural Net"
+  ;; Heat Sync
+  ;; Neural Net
   1566867739  "Circuit Breaker"
-  "Woodland Warfare" "Woodland Warfare"
-  "Tie Dye" "Tie Dye"
+  ;; Woodland Warfare
+  ;; Tie Dye
   759769931   "Tropic Streak"
-  "Head Trip" "Head Trip"
+  ;; Head Trip
   1951388015  "Tartan Fleece"
   1597703156  "Desert Scorpion"
-  "Bloodline" "Bloodline"
+  ;; Bloodline
   1917507661  "Unicornucopia"
   2098028833  "Mortal Coil"
   2062324289  "Warlord"
-  "Calm Seas" "Calm Seas"
+  ;; Calm Seas
   826816755   "Wishbone"
   1092974346  "Sweet 16"
   1868254597  "Crash Test"
@@ -188,22 +188,22 @@
   1304755928  "Glistened"
   44501368    "Wrapped Up"
   445771024   "Original"
-  "Midnight" "Midnight"
+  ;; Midnight
   358661677   "Cardinal"
   510080764   "Arctic"
   1077907065  "Mandarin"
-  "Orchid" "Orchid"
-  "Flamingo" "Flamingo"
-  "Clearwater" "Clearwater"
-  "Vino" "Vino"
-  "Evergreen" "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
+  ;; Orchid
+  ;; Flamingo
+  ;; Clearwater
+  ;; Vino
+  ;; Evergreen
+  ;; Limelight
+  ;; Yellowjacket
   1436908047  "Skyward"
-  "Hydro" "Hydro"
-  "Rage" "Rage"
-  "Sahara" "Sahara"
-  ;; Unordered
+  ;; Hydro
+  ;; Rage
+  ;; Sahara
+  ;; === Unordered ===
   574484250   "Memoir Noir"
   1622532602  "Our Powers Combined"
   1275526792  "War Machine"
@@ -219,45 +219,45 @@
   19898771    "Quarantine 722"
   1685613493  "Void Specialist"
   252687201   "Perfect Soldier"
-  "Fiber Optics" "Fiber Optics"
+  ;; Fiber Optics
   1917933689  "Daemon Hunter"
   384339937   "Hack The System"
   181998494   "Heat Sync"
-  "Neural Net" "Neural Net"
-  "Checkered Past" "Checkered Past"
+  ;; Neural Net
+  ;; Checkered Past
   1283180116  "Woodland Warfare"
-  "Self Organized" "Self Organized"
-  "Tropic Streak" "Tropic Streak"
+  ;; Self Organized
+  ;; Tropic Streak
   28771678    "Head Trip"
-  "High Frequency" "High Frequency"
-  "Desert Scorpion" "Desert Scorpion"
-  "Bloodline" "Bloodline"
+  ;; High Frequency
+  ;; Desert Scorpion
+  ;; Bloodline
   1093510498  "Scales of Justice"
   1429619920  "Arachnophobia"
   645514966   "Warlord"
-  "Perfect Storm" "Perfect Storm"
-  "Backdraft" "Backdraft"
+  ;; Perfect Storm
+  ;; Backdraft
   263126919   "Disruptor"
-  "Royal Decree" "Royal Decree"
+  ;; Royal Decree
   2120618987  "Silver Specter"
   626094915   "Royal Guard"
   275110190   "Original"
   1027889231  "Midnight"
   1697588667  "Cardinal"
-  "Arctic" "Arctic"
-  "Mandarin" "Mandarin"
-  "Orchid" "Orchid"
+  ;; Arctic
+  ;; Mandarin
+  ;; Orchid
   469737808   "Flamingo"
   1003681990  "Clearwater"
-  "Vino" "Vino"
-  "Evergreen" "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
+  ;; Vino
+  ;; Evergreen
+  ;; Limelight
+  ;; Yellowjacket
   1232714549  "Skyward"
   1745179670  "Hydro"
-  "Rage" "Rage"
+  ;; Rage
   16098545    "Sahara"
-  ;; Unordered
+  ;; === Unordered ===
   384242292   "Overclocked"
   1349782031  "Voidwalker"
   338855739   "Phasewalker"
@@ -270,96 +270,96 @@
  "Bangalore"
  {1374113024  "The Enforcer"
   1644844869  "Officer Williams"
-  "The Spacewalker" "The Spacewalker"
+  ;; The Spacewalker
   850101569   "Apex Overdrive"
   1332990092  "Viceroy"
   632152921   "Sky Marshal"
   695164433   "Fiber Optics"
-  "Daemon Hunter" "Daemon Hunter"
-  "Hack the System" "Hack the System"
+  ;; Daemon Hunter
+  ;; Hack the System
   1433467818  "Heat Sync"
   920764843   "Neural Net"
-  "Snakeskin" "Snakeskin"
+  ;; Snakeskin
   1017900245  "Dire Wolf"
   874824578   "Varsity"
-  "Disruptor" "Disruptor"
-  "Fire Support" "Fire Support"
+  ;; Disruptor
+  ;; Fire Support
   827654861   "Molten Core"
-  "Sizzle Reel" "Sizzle Reel"
-  "Arachnophobia" "Arachnophobia"
+  ;; Sizzle Reel
+  ;; Arachnophobia
   939516790   "Kingslayer"
   724387549   "Stained Glass"
-  "Fresh Reign" "Fresh Reign"
-  "Electric Synapse" "Electric Synapse"
+  ;; Fresh Reign
+  ;; Electric Synapse
   1310671351  "Purgatory"
   585289805   "Death Adder"
-  "Circuit Breaker" "Circuit Breaker"
+  ;; Circuit Breaker
   1195401183  "Victory Lap"
   226771975   "Blue Chipped"
   1694869144  "Original"
   1352329004  "Midnight"
-  "Cardinal" "Cardinal"
-  "Arctic" "Arctic"
+  ;; Cardinal
+  ;; Arctic
   1205228219  "Mandarin"
   492290398   "Orchid"
   1289036515  "Flamingo"
-  "Clearwater" "Clearwater"
+  ;; Clearwater
   2130225237  "Vino"
   595323486   "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
+  ;; Limelight
+  ;; Yellowjacket
   854806746   "Skyward"
   440866687   "Hydro"
-  "Rage" "Rage"
-  "Sahara" "Sahara"
-  ;; Unordered
+  ;; Rage
+  ;; Sahara
+  ;; === Unordered ===
   1274028498  "La Catrina"
   401589778   "Radical Action"
   1255492989  "Outland Warrior"}
  "Caustic"
  {231523192   "Sixth Sense"
   583112857   "Divine Right"
-  "Philosopher's Stone" "Philosopher's Stone"
+  ;; Philosopher's Stone
   261794111   "Blackheart"
   153654590   "Third Emperor"
   786839361   "Fiber Optics"
-  "Daemon Hunter" "Daemon Hunter"
-  "Illegal Operation" "Illegal Operation"
-  "Heat Sync" "Heat Sync"
+  ;; Daemon Hunter
+  ;; Illegal Operation
+  ;; Heat Sync
   773232460   "Neural Net"
-  "Vicious Cycle" "Vicious Cycle"
+  ;; Vicious Cycle
   1073530681  "Interdimensional"
-  "Prehistoric" "Prehistoric"
+  ;; Prehistoric
   243824305   "Sizzle Reel"
-  "Snakeskin" "Snakeskin"
-  "Volcanic" "Volcanic"
+  ;; Snakeskin
+  ;; Volcanic
   1347923875  "Unholy Alliance"
-  "Green Screen" "Green Screen"
-  "Hypnotic" "Hypnotic"
+  ;; Green Screen
+  ;; Hypnotic
   642322700   "Collider"
-  "Desert Scorpion" "Desert Scorpion"
-  "Absolution" "Absolution"
+  ;; Desert Scorpion
+  ;; Absolution
   1873600773  "Dark Web"
   472539154   "Wishbone"
   218504057   "Bloodline"
   245141960   "Cyber Sludge"
   1798425389  "Original"
-  "Midnight" "Midnight"
-  "Cardinal" "Cardinal"
-  "Arctic" "Arctic"
+  ;; Midnight
+  ;; Cardinal
+  ;; Arctic
   1592134215  "Mandarin"
-  "Orchid" "Orchid"
-  "Flamingo" "Flamingo"
-  "Clearwater" "Clearwater"
-  "Vino" "Vino"
-  "Evergreen" "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
-  "Skyward" "Skyward"
+  ;; Orchid
+  ;; Flamingo
+  ;; Clearwater
+  ;; Vino
+  ;; Evergreen
+  ;; Limelight
+  ;; Yellowjacket
+  ;; Skyward
   1471426619  "Hydro"
-  "Rage" "Rage"
-  "Sahara" "Sahara"
-  ;; Unordered
+  ;; Rage
+  ;; Sahara
+  ;; === Unordered ===
   1836735463  "Bloodthirsty"
   1235946641  "The Last Laugh"
   602449299   "Necrosis"
@@ -367,92 +367,92 @@
   900829596   "Future's Past"}
  "Mirage"
  {351284201   "The Revenger"
-  "Ghost Machine" "Ghost Machine"
-  "Angel City Hustler" "Angel City Hustler"
-  "The Prestige" "The Prestige"
+  ;; Ghost Machine
+  ;; Angel City Hustler
+  ;; The Prestige
   1998691415  "Fool's Gold"
   641509235   "Fiber Optics"
-  "Glowing Viral" "Glowing Viral"
-  "Hack the System" "Hack the System"
-  "Heat Sync" "Heat Sync"
-  "Neural Net" "Neural Net"
+  ;; Glowing Viral
+  ;; Hack the System
+  ;; Heat Sync
+  ;; Neural Net
   325067671   "Gone Bananas"
   1161762726  "Unicornucopia"
-  "Super Rad" "Super Rad"
-  "Sweet 16" "Sweet 16"
-  "Sizzle Reel" "Sizzle Reel"
-  "Woodland Warfare" "Woodland Warfare"
-  "Flower Power" "Flower Power"
-  "Convergence" "Convergence"
-  "Tie Dye" "Tie Dye"
-  "Mint Condition" "Mint Condition"
+  ;; Super Rad
+  ;; Sweet 16
+  ;; Sizzle Reel
+  ;; Woodland Warfare
+  ;; Flower Power
+  ;; Convergence
+  ;; Tie Dye
+  ;; Mint Condition
   994317594   "Tartan Fleece"
-  "Hieroglyph" "Hieroglyph"
-  "Hypnotic" "Hypnotic"
+  ;; Hieroglyph
+  ;; Hypnotic
   603859513   "Urban Legend"
-  "Death Adder" "Death Adder"
+  ;; Death Adder
   733128641   "Stunt Double"
   951730639   "Original"
-  "Midnight" "Midnight"
+  ;; Midnight
   1300359178  "Cardinal"
-  "Arctic" "Arctic"
+  ;; Arctic
   546293115   "Mandarin"
-  "Orchid" "Orchid"
-  "Flamingo" "Flamingo"
-  "Clearwater" "Clearwater"
-  "Vino" "Vino"
+  ;; Orchid
+  ;; Flamingo
+  ;; Clearwater
+  ;; Vino
   739637486   "Evergreen"
-  "Limelight" "Limelight"
+  ;; Limelight
   1612144674  "Yellowjacket"
-  "Skyward" "Skyward"
-  "Hydro" "Hydro"
-  "Rage" "Rage"
+  ;; Skyward
+  ;; Hydro
+  ;; Rage
   678831845   "Sahara"
-  ;; Unordered
+  ;; === Unordered ===
   1085207765  "Folk Hero"}
  "Octane"
- {"El Diablo" "El Diablo"
+ {;; El Diablo
   845837550   "Speed Demon"
   1296865     "The Victory Lap"
   86840967    "Gold Rush"
-  "Fiber Optics" "Fiber Optics"
-  "Daemon Hunter" "Daemon Hunter"
-  "Hack the System" "Hack the System"
-  "Heat Sync" "Heat Sync"
-  "Neural Net" "Neural Net"
-  "Head Trip" "Head Trip"
-  "Prowess" "Prowess"
-  "Tie Dye" "Tie Dye"
+  ;; Fiber Optics
+  ;; Daemon Hunter
+  ;; Hack the System
+  ;; Heat Sync
+  ;; Neural Net
+  ;; Head Trip
+  ;; Prowess
+  ;; Tie Dye
   310179171   "Circuit Breaker"
   1018392481  "Vicious Cycle"
   835019073   "Peel Out"
-  "Racing Stripes" "Racing Stripes"
-  "Bloodline" "Bloodline"
-  "Electric Synapse" "Electric Synapse"
+  ;; Racing Stripes
+  ;; Bloodline
+  ;; Electric Synapse
   338101816   "Running Fatigues"
-  "Critical Path" "Critical Path"
+  ;; Critical Path
   2133051316  "Snakeskin"
-  "Ornamental Nature" "Ornamental Nature"
+  ;; Ornamental Nature
   2074847168  "Volcanic"
   741172754   "First String"
   2064068974  "Hit and Run"
   639894721   "Original"
-  "Midnight" "Midnight"
+  ;; Midnight
   629649200   "Cardinal"
-  "Arctic" "Arctic"
+  ;; Arctic
   767362174   "Mandarin"
-  "Orchid" "Orchid"
-  "Flamingo" "Flamingo"
-  "Clearwater" "Clearwater"
-  "Vino" "Vino"
-  "Evergreen" "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
-  "Skyward" "Skyward"
-  "Hydro" "Hydro"
+  ;; Orchid
+  ;; Flamingo
+  ;; Clearwater
+  ;; Vino
+  ;; Evergreen
+  ;; Limelight
+  ;; Yellowjacket
+  ;; Skyward
+  ;; Hydro
   673459930   "Rage"
-  "Sahara" "Sahara"
-  ;; Unordered
+  ;; Sahara
+  ;; === Unordered ===
   393974799   "Red Shift"
   853179066   "Arachnoid Rush"
   1715651029  "Extreme Measures"
@@ -460,47 +460,47 @@
   921416884   "Sonic Boom"}
  "Wattson"
  {1257187645  "Ace of Sparks"
-  "Fly-by-Wire" "Fly-by-Wire"
-  "Cyber Security" "Cyber Security"
+  ;; Fly-by-Wire
+  ;; Cyber Security
   274094738   "Strange Attractor"
   2062131334  "Cyber Punked"
-  "Fiber Optics" "Fiber Optics"
-  "Daemon Hunter" "Daemon Hunter"
-  "Hack the System" "Hack the System"
+  ;; Fiber Optics
+  ;; Daemon Hunter
+  ;; Hack the System
   718848882   "Heat Sync"
-  "User Friendly" "User Friendly"
-  "Fresh Paint" "Fresh Paint"
+  ;; User Friendly
+  ;; Fresh Paint
   1442378781  "Disruptor"
-  "Tie Dye" "Tie Dye"
-  "Brain Candy" "Brain Candy"
+  ;; Tie Dye
+  ;; Brain Candy
   643276064   "Unholy Alliance"
-  "Arachnophobia" "Arachnophobia"
-  "Perfect Storm" "Perfect Storm"
-  "Throwback" "Throwback"
+  ;; Arachnophobia
+  ;; Perfect Storm
+  ;; Throwback
   231590487   "Cloud Computing"
   1864863361  "Volcanic"
-  "Tartan Fleece" "Tartan Fleece"
+  ;; Tartan Fleece
   722184667   "Bloodline"
-  "Dire Wolf"   "Dire Wolf"
+  ;; Dire Wolf
   633112262   "Ornamental Nature"
-  "Industrial Artist" "Industrial Artist"
+  ;; Industrial Artist
   1592455344  "Original"
   721458701   "Midnight"
   37821441    "Cardinal"
   98176151    "Mandarin"
   1324735308  "Arctic"
-  "Orchid" "Orchid"
-  "Flamingo" "Flamingo"
-  "Clearwater" "Clearwater"
-  "Vino" "Vino"
-  "Evergreen" "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
-  "Skyward" "Skyward"
-  "Hydro" "Hydro"
-  "Rage" "Rage"
-  "Sahara" "Sahara"
-  ;; Unordered
+  ;; Orchid
+  ;; Flamingo
+  ;; Clearwater
+  ;; Vino
+  ;; Evergreen
+  ;; Limelight
+  ;; Yellowjacket
+  ;; Skyward
+  ;; Hydro
+  ;; Rage
+  ;; Sahara
+  ;; === Unordered ===
   931516891   "Vaporwave"
   2133533923  "Outlands Explorer"
   1499956034  "Current Champ"
@@ -510,267 +510,268 @@
  "Crypto"
  {1635408523  "The Hired Gun"
   1723041608  "Devil's Advocate"
-  "The Masked Dancer" "The Masked Dancer"
+  ;; The Masked Dancer
   1746842340  "Rising Phoenix"
   858574026   "Hype Beast"
-  "Hack the System" "Hack the System"
-  "Daemon Hunter" "Daemon Hunter"
-  "Heat Sync" "Heat Sync"
+  ;; Hack the System
+  ;; Daemon Hunter
+  ;; Heat Sync
   638997699   "User Friendly"
-  "Fiber Optics" "Fiber Optics"
-  "Bloodline" "Bloodline"
-  "Blooms" "Blooms"
+  ;; Fiber Optics
+  ;; Bloodline
+  ;; Blooms
   1615024459  "Dark Web"
   256215153   "Fresh Paint"
-  "Scribblers" "Scribblers"
+  ;; Scribblers
   685848891   "High Frequency"
   2007198379  "Fishsticks"
-  "Lucky Charm" "Lucky Charm"
-  "Mortal Coil" "Mortal Coil"
-  "Self Organized" "Self Organized"
-  "Sizzle Reel" "Sizzle Reel"
-  "Throwback" "Throwback"
-  "Tie Dye" "Tie Dye"
+  ;; Lucky Charm
+  ;; Mortal Coil
+  ;; Self Organized
+  ;; Sizzle Reel
+  ;; Throwback
+  ;; Tie Dye
   626257361   "Woodland Warfare"
   458992915   "Blue Steel"
   43033680    "Original"
-  "Midnight" "Midnight"
-  "Cardinal" "Cardinal"
-  "Arctic" "Arctic"
-  "Mandarin" "Mandarin"
+  ;; Midnight
+  ;; Cardinal
+  ;; Arctic
+  ;; Mandarin
   1871932323  "Orchid"
-  "Flamingo" "Flamingo"
-  "Clearwater" "Clearwater"
-  "Vino" "Vino"
+  ;; Flamingo
+  ;; Clearwater
+  ;; Vino
   1123715916  "Evergreen"
   514846973   "Limelight"
-  "Yellowjacket" "Yellowjacket"
-  "Skyward" "Skyward"
-  "Hydro" "Hydro"
-  "Rage" "Rage"
-  "Sahara" "Sahara"
-  ;; Unordered
+  ;; Yellowjacket
+  ;; Skyward
+  ;; Hydro
+  ;; Rage
+  ;; Sahara
+  ;; === Unordered ===
   560299520   "Winters Grasp"}
  "Revenant"
  {1283448225  "Shadow on the Sun"
   1945683830  "Bird of Prey"
   1639140117  "Unholy Beast"
   1037511508  "False Idol"
-  "Hack the System" "Hack the System"
-  "Daemon Hunter" "Daemon Hunter"
-  "User Friendly" "User Friendly"
-  "Heat Sync" "Heat Sync"
+  ;; Hack the System
+  ;; Daemon Hunter
+  ;; User Friendly
+  ;; Heat Sync
   1358776312  "Fiber Optics"
   995364698   "Refraction"
   1693583300  "Labyrinth"
-  "Pincushion" "Pincushion"
-  "Green Screen" "Green Screen"
+  ;; Pincushion
+  ;; Green Screen
   1864565078  "Unholy Alliance"
-  "Disruptor" "Disruptor"
-  "Wishbone" "Wishbone"
-  "Bloodline" "Bloodline"
-  "Scribblers" "Scribblers"
-  "Arachnophobia" "Arachnophobia"
-  "Purgatory" "Purgatory"
-  "Urban Legend" "Urban Legend"
-  "Prehistoric" "Prehistoric"
+  ;; Disruptor
+  ;; Wishbone
+  ;; Bloodline
+  ;; Scribblers
+  ;; Arachnophobia
+  ;; Purgatory
+  ;; Urban Legend
+  ;; Prehistoric
   1230445497  "Fresh Paint"
   190793045   "Desert Scorpion"
   731388621   "Killswitch"
   1736240727  "Death Etching"
   1999064606  "Original"
-  "Midnight" "Midnight"
-  "Cardinal" "Cardinal"
-  "Arctic" "Arctic"
-  "Mandarin" "Mandarin"
-  "Orchid" "Orchid"
-  "Flamingo" "Flamingo"
-  "Clearwater" "Clearwater"
-  "Vino" "Vino"
-  "Evergreen" "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
-  "Skyward" "Skyward"
-  "Hydro" "Hydro"
-  "Rage" "Rage"
-  "Sahara" "Sahara"
+  ;; Midnight
+  ;; Cardinal
+  ;; Arctic
+  ;; Mandarin
+  ;; Orchid
+  ;; Flamingo
+  ;; Clearwater
+  ;; Vino
+  ;; Evergreen
+  ;; Limelight
+  ;; Yellowjacket
+  ;; Skyward
+  ;; Hydro
+  ;; Rage
+  ;; Sahara
   ;; Unorderd
   1869512845  "Relic of Death"
   1594758388  "Sacred Divinity"}
  "Loba"
- {"Gold Standard" "Gold Standard"
+ {;; Gold Standard
   1035466202  "Bootlegger"
   316953968   "Purple Reign"
   1481296783  "Off The Record"
-  "Hack the System" "Hack the System"
-  "Daemon Hunter" "Daemon Hunter"
-  "User Friendly" "User Friendly"
-  "Heat Sync" "Heat Sync"
-  "Fiber Optics" "Fiber Optics"
+  ;; Hack the System
+  ;; Daemon Hunter
+  ;; User Friendly
+  ;; Heat Sync
+  ;; Fiber Optics
   1238029150  "Wallflower"
-  "Alpha Royal" "Alpha Royal"
-  "Formal Finery" "Formal Finery"
-  "Arachnophobia" "Arachnophobia"
+  ;; Alpha Royal
+  ;; Formal Finery
+  ;; Arachnophobia
   1925288470  "Bloodline"
-  "Prowess" "Prowess"
-  "Dire Wolf" "Dire Wolf"
-  "Scribblers" "Scribblers"
-  "Snakeskin" "Snakeskin"
-  "Super Rad" "Super Rad"
+  ;; Prowess
+  ;; Dire Wolf
+  ;; Scribblers
+  ;; Snakeskin
+  ;; Super Rad
   2070593535  "Unholy Alliance"
-  "Volcanic" "Volcanic"
-  "Wishbone" "Wishbone"
+  ;; Volcanic
+  ;; Wishbone
   1746789179  "Labyrinth"
-  "Racing Stripes" "Racing Stripes"
+  ;; Racing Stripes
   1716726853  "Huntswoman"
   1015578696  "Original"
-  "Midnight" "Midnight"
-  "Cardinal" "Cardinal"
-  "Arctic" "Arctic"
+  ;; Midnight
+  ;; Cardinal
+  ;; Arctic
   1776182777  "Mandarin"
-  "Orchid" "Orchid"
-  "Flamingo" "Flamingo"
-  "Clearwater" "Clearwater"
+  ;; Orchid
+  ;; Flamingo
+  ;; Clearwater
   490043774   "Vino"
-  "Evergreen" "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
-  "Skyward" "Skyward"
-  "Hydro" "Hydro"
-  "Rage" "Rage"
-  "Sahara" "Sahara"}
+  ;; Evergreen
+  ;; Limelight
+  ;; Yellowjacket
+  ;; Skyward
+  ;; Hydro
+  ;; Rage
+  ;; Sahara"
+  }
  "Rampart"
  {1578587264  "Premium Finish"
-  "The Devi You Know" "The Devi You Know"
+  ;; The Devi You Know
   160501779   "Heritage Pride"
   927114221   "Sari Not Sari"
-  "Hack the System" "Hack the System"
-  "Daemon Hunter" "Daemon Hunter"
-  "User Friendly" "User Friendly"
-  "Heat Sync" "Heat Sync"
-  "Fiber Optics" "Fiber Optics"
-  "Jewelled Casing" "Jewelled Casing"
-  "High Brass" "High Brass"
-  "Electrochemical" "Electrochemical"
-  "Blacklight Classic" "Blacklight Classic"
-  "Blooms" "Blooms"
-  "Critical Path" "Critical Path"
-  "Formal Finery" "Formal Finery"
-  "Labyrinth" "Labyrinth"
-  "Prowess" "Prowess"
-  "Refraction" "Refraction"
-  "Scribblers" "Scribblers"
-  "Sizzle Reel" "Sizzle Reel"
-  "Stained Glass" "Stained Glass"
-  "Varsity" "Varsity"
-  "Volcanic" "Volcanic"
+  ;; Hack the System
+  ;; Daemon Hunter
+  ;; User Friendly
+  ;; Heat Sync
+  ;; Fiber Optics
+  ;; Jewelled Casing
+  ;; High Brass
+  ;; Electrochemical
+  ;; Blacklight Classic
+  ;; Blooms
+  ;; Critical Path
+  ;; Formal Finery
+  ;; Labyrinth
+  ;; Prowess
+  ;; Refraction
+  ;; Scribblers
+  ;; Sizzle Reel
+  ;; Stained Glass
+  ;; Varsity
+  ;; Volcanic
   553988170   "Cascade"
   57563004    "Original"
-  "Midnight" "Midnight"
-  "Cardinal" "Cardinal"
-  "Arctic" "Arctic"
+  ;; Midnight
+  ;; Cardinal
+  ;; Arctic
   868850396   "Mandarin"
-  "Orchid" "Orchid"
-  "Flamingo" "Flamingo"
-  "Clearwater" "Clearwater"
-  "Vino" "Vino"
-  "Evergreen" "Evergreen"
-  "Limelight" "Limelight"
-  "Yellowjacket" "Yellowjacket"
-  "Skyward" "Skyward"
-  "Hydro" "Hydro"
-  "Rage" "Rage"
-  "Sahara" "Sahara"
-  ;; Unordered
+  ;; Orchid
+  ;; Flamingo
+  ;; Clearwater
+  ;; Vino
+  ;; Evergreen
+  ;; Limelight
+  ;; Yellowjacket
+  ;; Skyward
+  ;; Hydro
+  ;; Rage
+  ;; Sahara
+  ;; === Unordered ===
   419158864   "Custom Finish"}
  "Horizon"
- {"Solaris" "Solaris"
-  "Terra Nova" "Terra Nova"
+ {;; Solaris
+  ;; Terra Nova
   200407993   "Dark Matter"
-  "Golden Boson" "Golden Boson"
-  "Hack the System" "Hack the System"
-  "Daemon Hunter" "Daemon Hunter"
-  "User Friendly" "User Friendly"
-  "Heat Sync" "Heat Sync"
-  "Fiber Optics" "Fiber Optics"
+  ;; Golden Boson
+  ;; Hack the System
+  ;; Daemon Hunter
+  ;; User Friendly
+  ;; Heat Sync
+  ;; Fiber Optics
   928235247   "Absolute Zero"
-  "Royal Decree" "Royal Decree"
-  "Dire Wolf" "Dire Wolf"
-  "Brain Candy" "Brain Candy"
-  "Death Adder" "Death Adder"
-  "Disruptor" "Disruptor"
-  "Field Trip" "Field Trip"
-  "Superunknown" "Superunknown"
-  "Woodland Warfare" "Woodland Warfare"
-  "Racing Stripes" "Racing Stripes"
-  "Hypothesis" "Hypothesis"
-  "Collider" "Collider"
-  "Sizzle Reel" "Sizzle Reel"
-  "High Frequency" "High Frequency"
-  "Life Cycle" "Life Cycle"
-  "Prowess" "Prowess"
+  ;; Royal Decree
+  ;; Dire Wolf
+  ;; Brain Candy
+  ;; Death Adder
+  ;; Disruptor
+  ;; Field Trip
+  ;; Superunknown
+  ;; Woodland Warfare
+  ;; Racing Stripes
+  ;; Hypothesis
+  ;; Collider
+  ;; Sizzle Reel
+  ;; High Frequency
+  ;; Life Cycle
+  ;; Prowess
   1885697463  "Original"
-  "Yellowjacket" "Yellowjacket"
-  "Arctic" "Arctic"
-  "Cardinal" "Cardinal"
-  "Clearwater" "Clearwater"
-  "Evergreen" "Evergreen"
-  "Flamingo" "Flamingo"
-  "Hydro" "Hydro"
-  "Limelight" "Limelight"
+  ;; Yellowjacket
+  ;; Arctic
+  ;; Cardinal
+  ;; Clearwater
+  ;; Evergreen
+  ;; Flamingo
+  ;; Hydro
+  ;; Limelight
   5048926     "Mandarin"
-  "Midnight" "Midnight"
-  "Orchid" "Orchid"
-  "Rage" "Rage"
-  "Sahara" "Sahara"
-  "Skyward" "Skyward"
-  "Vino" "Vino"
-  ;; Unordered
+  ;; Midnight
+  ;; Orchid
+  ;; Rage
+  ;; Sahara
+  ;; Skyward
+  ;; Vino
+  ;; === Unordered ===
   164501244   "Inverse Polarity"
   321691472   "Neon Stardust"
   403658466   "Copper Constellation"}
  "Fuse"
- {"Man-O-War" "Man-O-War"
+ {;; Man-O-War
   301156429   "Dread Captain"
-  "Natural Born Daredevil" "Natural Born Daredevil"
+  ;; Natural Born Daredevil
   506842791   "Old Gold"
-  "Hack the System" "Hack the System"
-  "Daemon Hunter" "Daemon Hunter"
-  "User Friendly" "User Friendly"
-  "Heat Sync" "Heat Sync"
-  "Fiber Optics" "Fiber Optics"
-  "Bang You're Dead" "Bang You're Dead"
-  "Fired Up" "Fired Up"
-  "Copperhead" "Copperhead"
-  "Generation X" "Generation X"
-  "Sizzle Reel" "Sizzle Reel"
-  "Running Fatigues" "Running Fatigues"
-  "Unicornucopia" "Unicornucopia"
-  "Tropic Streak" "Tropic Streak"
-  "Tie Dye" "Tie Dye"
-  "Disruptor" "Disruptor"
-  "Pincushion" "Pincushion"
-  "Racing Stripes" "Racing Stripes"
-  "Snakeskin" "Snakeskin"
-  "Super Rad" "Super Rad"
-  "Kingslayer" "Kingslayer"
+  ;; Hack the System
+  ;; Daemon Hunter
+  ;; User Friendly
+  ;; Heat Sync
+  ;; Fiber Optics
+  ;; Bang You're Dead
+  ;; Fired Up
+  ;; Copperhead
+  ;; Generation X
+  ;; Sizzle Reel
+  ;; Running Fatigues
+  ;; Unicornucopia
+  ;; Tropic Streak
+  ;; Tie Dye
+  ;; Disruptor
+  ;; Pincushion
+  ;; Racing Stripes
+  ;; Snakeskin
+  ;; Super Rad
+  ;; Kingslayer
   345119959   "Original"
-  "Midnight" "Midnight"
-  "Amethyst" "Amethyst"
-  "Arctic" "Arctic"
-  "Cardinal" "Cardinal"
-  "Clearwater" "Clearwater"
-  "Evergreen" "Evergreen"
-  "Flamingo" "Flamingo"
-  "Hydro" "Hydro"
-  "Rage" "Rage"
-  "Vino" "Vino"
-  "Limelight" "Limelight"
+  ;; Midnight
+  ;; Amethyst
+  ;; Arctic
+  ;; Cardinal
+  ;; Clearwater
+  ;; Evergreen
+  ;; Flamingo
+  ;; Hydro
+  ;; Rage
+  ;; Vino
+  ;; Limelight
   995055624   "Mandarin"
-  "Skyward" "Skyward"
-  "Yellowjacket" "Yellowjacket"
-  "Sahara" "Sahara"
-  ;; Unordered
+  ;; Skyward
+  ;; Yellowjacket
+  ;; Sahara
+  ;; === Unordered ===
   1101225106  "Art of War"
   1940897075  "Real Steel"
   1978008582  "Freedom Fighter"}}
