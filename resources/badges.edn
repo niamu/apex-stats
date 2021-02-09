@@ -20,6 +20,7 @@
   1826078989  "Fight or Fright"
   1553237013  "Fight or Fright 2020"
   1416389845  "Shadow Slayer"
+  733413376   "Shadow Master"
   1273852168  "Holo-Day Bash 2020"
   778264728   "Pain Train Conductor"
   1784365945  "Ticket Puncher"
@@ -42,6 +43,7 @@
   2070803618  "Club Player"
   2043459693  "Club Victory"
   463144006   "Flawless Club 1"
+  1766317201  "Flawless Club 2"
   1968726813  "Fortune's Favor Level: Season 5"
   314986752   "Fully Kitted"
   1642424884  "Battle Charge Level: Season 2"
@@ -87,7 +89,8 @@
   259056267   "Bloodhound's Wake"
   661427360   "Bloodhound's Wrath"
   870421671   "Assassin"
-  1686987296  "Bloodhound Iron Crown"}
+  1686987296  "Imperial Bloodhound"
+  441192115   "Reinforcement Recall"}
  "Gibraltar"
  {1632387443  "Apex Gibraltar"
   1742076365  "Apex Predator"
@@ -100,7 +103,9 @@
   1383370669  "Squad Wipe"
   1115105256  "The Legacy Continues"
   1335043113  "Gibraltar's Wrath"
-  863341081   "Headshot Hotshot"}
+  863341081   "Headshot Hotshot"
+  148815343   "No One Left Behind"
+  2054798482  "Hot Streak"}
  "Lifeline"
  {1896587185  "Apex Lifeline"
   1989367351  "Apex Predator"
@@ -120,7 +125,7 @@
   1981621356  "Angel Struck"
   402479048   "Assassin"
   2105952356  "Elite Lifeline"
-  1527618442  "Lifeline Iron Crown"
+  1527618442  "Imperial Lifeline"
   1232648081  "Headshot Hotshot"}
  "Pathfinder"
  {1122032782  "Apex Pathfinder"
@@ -140,7 +145,7 @@
   1760202661  "Elite Pathfinder"
   198295608   "Squad Wipe"
   1577136591  "Assassin"
-  1378793339  "Pathfinder Iron Crown"
+  1378793339  "Imperial Pathfinder"
   949230646   "Reinforcement Recall"}
  "Wraith"
  {822177349   "Squad Wipe"
@@ -148,7 +153,7 @@
   2129145087  "Apex Predator"
   2136665970  "Wraith's Wrath"
   1170935138  "Wraith's Wake"
-  258724301   "Wraith Iron Crown"
+  258724301   "Imperial Wraith"
   161805815   "No One Left Behind"
   1970367322  "The Legacy Continues"
   498148130   "Flawless Victory 1"
@@ -175,9 +180,11 @@
   385542266   "Triple Triple"
   1435100262  "Deadeye"
   135389532   "Reinforcement Recall"
-  1720000290  "The Legacy Continues"}
+  1720000290  "The Legacy Continues"
+  1193041238  "Hot Streak"}
  "Caustic"
  {890856890   "Apex Caustic"
+  640101722   "Apex Predator"
   1034198917  "Hot Streak"
   1505402687  "Flawless Victory 1"
   1047992847  "Flawless Victory 2"
@@ -201,11 +208,12 @@
   12308947    "The Legacy Continues"
   2126396589  "Mirage's Wrath"
   1129812027  "Hot Streak"
-  678328948   "Mirage Iron Crown"
+  678328948   "Imperial Mirage"
   1307781423  "Elite Mirage"
   957004276   "Triple Triple"}
  "Octane"
  {943095226   "Apex Octane"
+  919543491   "Hot Streak"
   685391347   "Flawless Victory 1"
   323065966   "Flawless Victory 2"
   1626409212  "Deadeye"
@@ -219,10 +227,12 @@
   127824993   "Imperial Octane"
   1519325411  "Rapid Elimination"
   627630746   "El Diablo"
-  238436977   "Assassin"}
+  238436977   "Assassin"
+  1258059405  "Reinforcement Recall"}
  "Wattson"
  {1228890337  "Apex Wattson"
   1890126626  "Squad Wipe"
+  964188566   "Flawless Victory 1"
   703932537   "Flawless Victory 2"
   911213125   "Rapid Elimination"
   2074412862  "Wattson's Wrath"
@@ -231,7 +241,8 @@
   1608973845  "Assassin"
   335387731   "Wattson's Wake"
   556604106   "Doubly Duty"
-  719469873   "Triple Triple"}
+  719469873   "Triple Triple"
+  634683172   "Apex Predator"}
  "Crypto"
  {843812111   "Deadeye"
   1594369187  "Squad Wipe"
@@ -270,7 +281,8 @@
   1228718324  "Hot Streak"
   609166079   "The Legacy Continues"
   1364121022  "Flawless Victory 1"
-  1635308702  "Loba's Wake"}
+  1635308702  "Loba's Wake"
+  1862876215  "Assassin"}
  "Rampart"
  {1514732384  "Apex Rampart"
   1177702635  "Squad Wipe"
@@ -279,7 +291,8 @@
   1382317460  "Shot Caller"
   1364121022  "Flawless Victory 1"
   1921131832  "The Legacy Continues"
-  1746443772  "Rampart's Wrath"}
+  1746443772  "Rampart's Wrath"
+  1423627876  "Rampart's Wake"}
  "Horizon"
  {1818638937  "No One Left Behind"
   1854288731  "Apex Horizon"
@@ -290,11 +303,15 @@
   664966674   "Flawless Victory 1"
   777201558   "Triple Triple"
   1698352719  "Horizon's Wrath"
-  2059771709  "Rapid Elimination"}
+  2059771709  "Rapid Elimination"
+  524802699   "Hot Streak"}
  "Fuse"
  {869045861   "No One Left Behind"
   558183390   "Apex Fuse"
   449825693   "Flawless Victory 1"
+  1184863268  "Flawless Victory 2"
+  1921794077  "Hot Streak"
+  608078856   "Assassin"
   2082172949  "The Legacy Continues"
   281758428   "Squad Wipe"
   1288907243  "Shot Caller"

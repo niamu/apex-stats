@@ -2,11 +2,11 @@
  {153552110   "The Plague Doctor"
   1837153361  "The Runekeeper"
   403564327   "Royal Guard"
-  ;; Imperial Warrior
+  755735572   "Imperial Warrior"
   546339579   "Road Warrior"
   1969131514  "Fiber Optics"
   184416082   "Glowing Viral"
-  1548594675  "Hack the System"
+  1981663893  "Hack the System"
   129762532   "Heat Sync"
   124500973   "Neural Net"
   860323271   "Sizzle Reel"
@@ -43,6 +43,9 @@
   ;; Rage
   435633031   "Sahara"
   ;; === Unordered ===
+  853995199   "Polished"
+  2084162325  "Dangerous Game"
+  1842024304  "Arctic Hunter"
   1265481127  "Master of the Hunt"
   200518223   "Protector of the Patch"
   1419013450  "The Centurion"
@@ -56,7 +59,7 @@
  "Gibraltar"
  {961745557   "Millennium Tusk"
   654577661   "Dark Side"
-  ;; Ride or Die
+  2038185636  "Ride or Die"
   ;; Bunker Buster
   406847707   "Fiber Optics"
   ;; Daemon Hunter
@@ -66,7 +69,7 @@
   1775380946  "Molten Core"
   1180017759  "Woodland Warfare"
   1335145251  "Tight Rope"
-  ;; Tropic Streak
+  978223782   "Tropic Streak"
   ;; Sizzle Reel
   365591297   "Tartan Fleece"
   2126665450  "Purgatory"
@@ -98,6 +101,9 @@
   682704931   "Rage"
   ;; Sahara
   ;; === Unordered ===
+  1898721984  "Gate Keeper"
+  98764742    "Imperial Defender"
+  42829332    "Blazin' Hot"
   1043215061  "Tribal Instinct"
   272302856   "Call to Arms"
   1901172304  "Shell-Shocked"
@@ -110,7 +116,7 @@
   1334974912  "Fiber Optics"
   1835326898  "Daemon Hunter"
   1400364855  "Blockchain Reaction"
-  ;; Heat Sync
+  117199941   "Heat Sync"
   1488229928  "Neural Net"
   966728818   "Dot Product"
   ;; Woodland Warfare
@@ -166,7 +172,7 @@
   23553099    "The Aviator"
   1385459903  "Full Throttle"
   1078437313  "Hack The System"
-  ;; Daemon Hunter
+  345303591   "Daemon Hunter"
   1063382701  "User Friendly"
   ;; Heat Sync
   ;; Neural Net
@@ -205,6 +211,7 @@
   ;; Rage
   ;; Sahara
   ;; === Unordered ===
+  250420620   "Joyfinder"
   574484250   "Memoir Noir"
   1622532602  "Our Powers Combined"
   1275526792  "War Machine"
@@ -259,6 +266,7 @@
   1917933689  "Rage"
   16098545    "Sahara"
   ;; === Unordered ===
+  1127494549  "High Class"
   384242292   "Overclocked"
   1349782031  "Voidwalker"
   338855739   "Phasewalker"
@@ -289,7 +297,7 @@
   ;; Fire Support
   827654861   "Molten Core"
   75636521    "Sizzle Reel"
-  ;; Arachnophobia
+  1147376370  "Arachnophobia"
   939516790   "Kingslayer"
   724387549   "Stained Glass"
   ;; Fresh Reign
@@ -322,13 +330,13 @@
  "Caustic"
  {231523192   "Sixth Sense"
   583112857   "Divine Right"
-  ;; Philosopher's Stone
+  1694661814  "Philosopher's Stone"
   261794111   "Blackheart"
   153654590   "Third Emperor"
   786839361   "Fiber Optics"
   ;; Daemon Hunter
   ;; Illegal Operation
-  ;; Heat Sync
+  1764888118  "Heat Sync"
   773232460   "Neural Net"
   151993797   "Vicious Cycle"
   1073530681  "Interdimensional"
@@ -358,19 +366,20 @@
   ;; Evergreen
   ;; Limelight
   720373250   "Yellowjacket"
-  ;; Skyward
+  632963108   "Skyward"
   1471426619  "Hydro"
   ;; Rage
   ;; Sahara
   ;; === Unordered ===
+  512146782   "Tiger Blood"
   1836735463  "Bloodthirsty"
   1235946641  "The Last Laugh"
   602449299   "Necrosis"
   900829596   "Future's Past"}
  "Mirage"
  {351284201   "The Revenger"
-  ;; Ghost Machine
-  ;; Angel City Hustler
+  1443036088  "Ghost Machine"
+  178385753   "Angel City Hustler"
   ;; The Prestige
   1998691415  "Fool's Gold"
   641509235   "Fiber Optics"
@@ -387,7 +396,7 @@
   1091987895  "Flower Power"
   ;; Convergence
   560367676   "Tie Dye"
-  1663118402  "mMint Condition"
+  1663118402  "Mint Condition"
   994317594   "Tartan Fleece"
   ;; Hieroglyph
   1902575936  "Hypnotic"
@@ -411,6 +420,8 @@
   ;; Rage
   678831845   "Sahara"
   ;; === Unordered ===
+  1353712387  "Pit Crew"
+  1359288226  "Moneymaker"
   1085207765  "Folk Hero"
   2031204989  "Lucky Charmer"}
  "Octane"
@@ -420,7 +431,7 @@
   86840967    "Gold Rush"
   ;; Fiber Optics
   709420018   "Daemon Hunter"
-  ;; Hack the System
+  1428625892  "Hack the System"
   ;; Heat Sync
   ;; Neural Net
   ;; Head Trip
@@ -433,7 +444,7 @@
   ;; Bloodline
   805041410   "Electric Synapse"
   338101816   "Running Fatigues"
-  ;; Critical Path
+  1011128448  "Critical Path"
   2133051316  "Snakeskin"
   ;; Ornamental Nature
   2074847168  "Volcanic"
@@ -456,6 +467,9 @@
   673459930   "Rage"
   ;; Sahara
   ;; === Unordered ===
+  1488350081  "Dasher"
+  465284390   "Fast Fashion"
+  2020823408  "Messenger"
   393974799   "Red Shift"
   853179066   "Arachnoid Rush"
   1715651029  "Extreme Measures"
@@ -467,9 +481,9 @@
   ;; Cyber Security
   274094738   "Strange Attractor"
   2062131334  "Cyber Punked"
-  ;; Fiber Optics
+  726856630   "Fiber Optics"
   ;; Daemon Hunter
-  ;; Hack the System
+  831259946   "Hack the System"
   718848882   "Heat Sync"
   ;; User Friendly
   ;; Fresh Paint
@@ -484,7 +498,7 @@
   1864863361  "Volcanic"
   738064889   "Tartan Fleece"
   722184667   "Bloodline"
-  ;; Dire Wolf
+  1264245870  "Dire Wolf"
   633112262   "Ornamental Nature"
   390268687   "Industrial Artist"
   1592455344  "Original"
@@ -504,6 +518,9 @@
   ;; Rage
   ;; Sahara
   ;; === Unordered ===
+  895343559   "Wired for Speed"
+  1248984378  "Silver Age"
+  726947669   "Ruby Joules"
   931516891   "Vaporwave"
   2133533923  "Outlands Explorer"
   1499956034  "Current Champ"
@@ -531,7 +548,7 @@
   ;; Lucky Charm
   1141622860  "Molten Core"
   1613070690  "Mortal Coil"
-  ;; Self Organized
+  171692329   "Self Organized"
   ;; Sizzle Reel
   ;; Throwback
   ;; Tie Dye
@@ -599,6 +616,7 @@
   ;; Rage
   ;; Sahara
   ;; === Unorderd ===
+  1024849945  "The Afterlife"
   1869512845  "Relic of Death"
   1594758388  "Sacred Divinity"
   1767113074  "Gilded Rose"}
@@ -645,6 +663,7 @@
   ;; Rage
   ;; Sahara"
   ;; === Unordered ===
+  1765717776  "Boundless Envy"
   1330875259  "Game Master"}
  "Rampart"
  {1578587264  "Premium Finish"
@@ -673,7 +692,7 @@
   ;; Volcanic
   553988170   "Cascade"
   57563004    "Original"
-  ;; Midnight
+  1418218144  "Midnight"
   ;; Cardinal
   ;; Arctic
   868850396   "Mandarin"
@@ -691,7 +710,7 @@
   ;; === Unordered ===
   419158864   "Custom Finish"}
  "Horizon"
- {;; Solaris
+ {1073367667  "Solaris"
   ;; Terra Nova
   200407993   "Dark Matter"
   ;; Golden Boson
@@ -699,7 +718,7 @@
   ;; Daemon Hunter
   ;; User Friendly
   ;; Heat Sync
-  ;; Fiber Optics
+  1781223698  "Fiber Optics"
   928235247   "Absolute Zero"
   ;; Royal Decree
   ;; Dire Wolf
@@ -737,9 +756,9 @@
   321691472   "Neon Stardust"
   403658466   "Copper Constellation"}
  "Fuse"
- {;; Man-O-War
+ {888847853   "Man-O-War"
   301156429   "Dread Captain"
-  ;; Natural Born Daredevil
+  751942774   "Natural Born Daredevil"
   506842791   "Old Gold"
   ;; Hack the System
   ;; Daemon Hunter
@@ -754,15 +773,15 @@
   ;; Running Fatigues
   ;; Unicornucopia
   ;; Tropic Streak
-  ;; Tie Dye
+  1836270562  "Tie Dye"
   ;; Disruptor
   ;; Pincushion
-  ;; Racing Stripes
+  118561866   "Racing Stripes"
   ;; Snakeskin
   ;; Super Rad
   ;; Kingslayer
   345119959   "Original"
-  ;; Midnight
+  1324083683  "Midnight"
   ;; Amethyst
   ;; Arctic
   ;; Cardinal
@@ -770,7 +789,7 @@
   ;; Evergreen
   ;; Flamingo
   ;; Hydro
-  ;; Rage
+  1046159318  "Rage"
   ;; Vino
   ;; Limelight
   995055624   "Mandarin"

@@ -12,7 +12,8 @@
 
            :apex-stats/diff
            {:main-opts ["-m" "apex-stats.diff"]
-            :extra-deps {hickory/hickory {:mvn/version "0.7.1"}}}
+            :extra-deps {hickory/hickory {:mvn/version "0.7.1"}
+                         org.clojure/data.csv {:mvn/version "1.0.0"}}}
 
            :depstar
            {:extra-deps {seancorfield/depstar {:mvn/version "0.1.5"}}}
