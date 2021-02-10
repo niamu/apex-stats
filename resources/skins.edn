@@ -6,7 +6,7 @@
   546339579   "Road Warrior"
   1969131514  "Fiber Optics"
   184416082   "Glowing Viral"
-  1981663893  "Hack the System"
+  ;; 1548594675  "Hack the System" ?maybe
   129762532   "Heat Sync"
   124500973   "Neural Net"
   860323271   "Sizzle Reel"
@@ -43,6 +43,7 @@
   ;; Rage
   435633031   "Sahara"
   ;; === Unordered ===
+  993111143   "Hunter's Moon"
   853995199   "Polished"
   2084162325  "Dangerous Game"
   1842024304  "Arctic Hunter"
@@ -101,7 +102,6 @@
   682704931   "Rage"
   ;; Sahara
   ;; === Unordered ===
-  1898721984  "Gate Keeper"
   98764742    "Imperial Defender"
   42829332    "Blazin' Hot"
   1043215061  "Tribal Instinct"
@@ -116,18 +116,18 @@
   1334974912  "Fiber Optics"
   1835326898  "Daemon Hunter"
   1400364855  "Blockchain Reaction"
-  117199941   "Heat Sync"
+  ;; Heat Sync
   1488229928  "Neural Net"
   966728818   "Dot Product"
-  ;; Woodland Warfare
+  1121363017  "Woodland Warfare"
   45388828    "Tie Dye"
-  ;; Tropic Streak
+  1024353186  "Tropic Streak"
   269360864   "Mint Condition"
-  ;; Checkered Past
+  1299038478  "Checkered Past"
   537001558   "Desert Scorpion"
-  ;; Brain Candy
+  537653991   "Brain Candy"
   818126231   "Electric Synapse"
-  ;; Blacklight Classic
+  639899894   "Blacklight Classic"
   910664065   "Warlord"
   2045528775  "Sizzle Reel"
   2139290909  "Coastal Waters"
@@ -135,13 +135,13 @@
   1187180027  "Purgatory"
   767532534   "Health Drain"
   493570024   "Original"
-  ;; Amethyst
+  2083516897  "Amethyst"
   492060794   "Cardinal"
   1977663921  "Arctic"
   1649015056  "Mandarin"
   ;; Orchid
-  ;; Flamingo
-  ;; Clearwater
+  1530312171  "Flamingo"
+  2002778204  "Clearwater"
   ;; Vino
   ;; Evergreen
   ;; Limelight
@@ -151,7 +151,8 @@
   ;; Rage
   1613526384  "Sahara"
   ;; === Unordered ===
-  886574955   "Judge Jury"
+  270521513   "Snow Crystal"
+  886574955   "Judge Jury Executioner"
   389034102   "Lifeline Bling"
   1687367436  "Pirate Queen"
   1142689500  "Green Widow"
@@ -325,6 +326,7 @@
   1687313992  "Sahara"
   ;; === Unordered ===
   1274028498  "La Catrina"
+  1573527088  "Valor"
   401589778   "Radical Action"
   1255492989  "Outland Warrior"}
  "Caustic"
@@ -485,14 +487,14 @@
   ;; Daemon Hunter
   831259946   "Hack the System"
   718848882   "Heat Sync"
-  ;; User Friendly
+  372135076   "User Friendly"
   ;; Fresh Paint
   1442378781  "Disruptor"
   147344830   "Tie Dye"
   1211518361  "Brain Candy"
   643276064   "Unholy Alliance"
-  ;; Arachnophobia
-  ;; Perfect Storm
+  81471866    "Arachnophobia"
+  293544275   "Perfect Storm"
   757807674   "Throwback"
   231590487   "Cloud Computing"
   1864863361  "Volcanic"
@@ -507,18 +509,18 @@
   98176151    "Mandarin"
   1324735308  "Arctic"
   ;; Orchid
-  ;; Flamingo
+  1224868613  "Flamingo"
   ;; Clearwater
   ;; Vino
   ;; Evergreen
   1830226608  "Limelight"
-  ;; Yellowjacket
-  ;; Skyward
+  1878343608  "Yellowjacket"
+  1491482610  "Skyward"
   ;; Hydro
-  ;; Rage
+  485238241   "Rage"
   ;; Sahara
   ;; === Unordered ===
-  895343559   "Wired for Speed"
+  542698266   "Rocket Scientist"
   1248984378  "Silver Age"
   726947669   "Ruby Joules"
   931516891   "Vaporwave"
@@ -616,7 +618,6 @@
   ;; Rage
   ;; Sahara
   ;; === Unorderd ===
-  1024849945  "The Afterlife"
   1869512845  "Relic of Death"
   1594758388  "Sacred Divinity"
   1767113074  "Gilded Rose"}
@@ -713,7 +714,7 @@
  {1073367667  "Solaris"
   ;; Terra Nova
   200407993   "Dark Matter"
-  ;; Golden Boson
+  1912232933  "Golden Boson"
   ;; Hack the System
   ;; Daemon Hunter
   ;; User Friendly

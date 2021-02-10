@@ -164,6 +164,7 @@
   845819196   "AR Kills"
   218650152   "Kills as Kill Leader"
   1790559237  "Pistol Kills"
+  798933091   "Kills"
   1618935778  "Kills"
   219040158   "Winning Kills"
   1029543241  "Wins with Full Squad"
@@ -190,6 +191,9 @@
   1151119455  "Into the Void: Time"}
  "Bangalore"
  {1814522143  "Kills"
+  607426151   "Kills"
+  1690192676  "Damage Done"
+  1524967622  "Wins"
   386848081   "Pistol Kills"
   1218507142  "Smoke Grenade: Enemies Hit"
   1062566391  "Double Time: Distance"
@@ -494,7 +498,8 @@
   1148065496  "LMG Kills"
   1920720565  "Shotgun Kills"
   251051684   "Finishers"
-  942675395   "Headshots"}
+  942675395   "Headshots"
+  797844801   "Spacewalk: Hard Impacts Avoided"}
  "Fuse"
  {752923862   "Kills"
   393792034   "Damage Done"

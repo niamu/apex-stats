@@ -1,22 +1,22 @@
 {"Bloodhound"
- {;; === Legendary ===
+ {;; Legendary
   1464077892  "Legend of the West"
   ;; Ready to Strike
   ;; Wild Tracker
   ;; Wild Tracker
   ;; Fortune Hunter
   2059064253  "Quoth the Raven"
-  ;; === Epic ===
+  ;; Epic
   1626647060  "Deep Discovery"
   354929831   "Boneyard Bound"
-  ;; === Rare ===
+  ;; Rare
   1484582009  "Lost Woods"
   995909068   "True Hunter"
   ;; Adaptable
   635804049   "Bear Trap"
   268385602   "Jungle Hunt"
   177249054   "Warning Signs"
-  ;; === Common ===
+  ;; Common
   2057058469  "Rookie Card"
   1701182052  "Pyramids"
   ;; Stark
@@ -24,22 +24,22 @@
   ;; Bones
   }
  "Gibraltar"
- {;; === Legendary ===
+ {;; Legendary
   ;; Brick and Mortars
   111358430   "Burnout Legend"
   1302864751  "Protective Element"
   1646964811  "Power Posturing"
   1013993693  "APEX Projection"
   ;; Catch of the Day
-  ;; === Epic ===
+  ;; Epic
   1959769983  "Slow and Steady"
-  ;; === Rare ===
+  ;; Rare
   ;; Full Steam
   2039213179  "Megalodon"
   652341743   "Razor Sharp"
   ;; Close Combat
   ;; Cage Match
-  ;; === Common ===
+  ;; Common
   301427815   "Rookie Card"
   ;; Velvet
   ;; Rage
@@ -47,47 +47,49 @@
   ;; Tracks
   }
  "Lifeline"
- {;; === Legendary ===
+ {;; Legendary
   1745810254  "Shooting Stars"
   1421276673  "Clear!"
   444973922   "Good Medicine"
   2143286677  "Search and Rescue"
   100399367   "Feel the Beat"
-  ;; === Epic ===
+  ;; Epic
   1304379343  "Tools of the Trade"
   804549148   "Car Package"
   344928455   "Winged Guardian"
-  ;; === Rare ===
+  ;; Rare
   492796562   "In Stitches"
   2105493187  "Called Shots"
   62537233    "Temperature Rising"
   935008674   "Patched Up"
   1001360236  "Perfect Execution"
-  ;; Surgical
-  ;; === Common ===
+  1000063086  "Surgical"
+  186135512   "Pick Me Up"
+  1619052373  "Crystalized Ice"
+  ;; Common
   566328574   "Rookie Card"
   305266059   "Star"
-  ;; Pink
-  ;; Love
+  1221134796  "Pink"
+  966399684   "Love"
   684345885   "Stripe 3"}
  "Pathfinder"
- {;; === Legendary ===
+ {;; Legendary
   ;; Anchors Away
   695500505   "Open Cans"
   1633729806  "Disco Tech"
   ;; Tixels
   1565914956  "Third Kind"
-  ;; === Epic ===
+  ;; Epic
   1591334943  "Connection Established"
   2045464301  "Treasure Trove"
   1236942883  "Energized"
-  ;; === Rare ===
+  ;; Rare
   736677481   "Circle of Life"
   1149797408  "Motherboard"
   1004212196  "Direct Current"
   1774893567  "Gyroscope"
   1035821805  "Accomplished"
-  ;; === Common ===
+  ;; Common
   1160920630  "Rookie Card"
   ;; Changing Gears
   ;; Onward
@@ -95,23 +97,23 @@
   ;; Universal
   }
  "Wraith"
- {;; === Legendary ===
+ {;; Legendary
   296967174   "Method to the Madness"
   2089703866  "Void Magic"
   1534267072  "Escape the Trap"
   1219058079  "Dark to Light"
   856198732   "Relentless Aggression"
-  ;; === Epic ===
+  ;; Epic
   1556361203  "Intergalactic"
   853298425   "On The Prowl"
-  ;; === Rare ===
+  ;; Rare
   461621934   "Void Blades"
   507390973   "Violet Tendencies"
   ;; Kunai Fighter
   1046103627  "Bound"
   ;; Machine Elves
   920493906   "Inside the System"
-  ;; === Common ===
+  ;; Common
   890414314   "Rookie Card"
   ;; Spirits
   1273949655  "Wave"
@@ -119,23 +121,23 @@
   ;; Acid Rain
   }
  "Bangalore"
- {;; === Legendary ===
+ {;; Legendary
   319106129   "Stormchaser"
   2033246457  "There It Is"
   ;; Weapon Check
-  ;; Fire and Fury
+  951380602   "Fire and Fury"
   ;; Bulletproof
-  ;; === Epic ===
+  ;; Epic
   2117696754  "Explosive Ordnance"
   1707120438  "Muscled Up"
-  ;; === Rare ===
+  ;; Rare
   1542068173  "Smoke Signal"
   474287742   "True Patriot"
   ;; Tag, You're It
   ;; Full Spectrum Dominance
   ;; Armed and Dangerous
   472950210   "Streamlined"
-  ;; === Common ===
+  ;; Common
   1525291315  "Rookie Card"
   1741554077  "Full Mag"
   1091793928  "Lost Track"
@@ -143,13 +145,13 @@
   ;; Frag Out
   }
  "Caustic"
- {;; === Legendary ===
+ {;; Legendary
   1350753561  "Biochemical Romance"
   ;; Hard Nox Life
   1819310843  "Cruel and Unusual"
   1260485535  "Corrosive Agent"
   1393257372  "Method in Madness"
-  ;; === Epic ===
+  ;; Epic
   1188261266  "Failed Emissions"
   173176690   "Skullcracker"
   376915016   "Fuming"
@@ -157,7 +159,7 @@
   ;; Spine Chilling
   ;; Breathe Easy
   1262326921  "Last Rites"
-  ;; === Common ===
+  ;; Common
   1264727822  "Rookie Card"
   ;; Watcher
   ;; Chemistry
@@ -165,46 +167,46 @@
   ;; Noxious
   }
  "Mirage"
- {;; === Legendary ===
+ {;; Legendary
   ;; Pop Goes the Weasel
   670626902   "Sucker Punch"
   583310324   "Fun Guy"
   ;; Ace Up the Sleeve
   ;; Unfairgrounds
-  ;; === Epic ===
+  ;; Epic
   89807512    "Mapped Out"
-  ;; === Rare ===
+  ;; Rare
   ;; Joker's Wild
   ;; Sleight of Hand
   ;; Court Jester
   920374568   "Swordplay"
   1718038332  "Tools of Deception"
   1139054532  "Red Beau"
-  ;; === Common ===
+  ;; Common
   504770435   "Rookie Card"
   ;; Roulette
   ;; Binary
   ;; Schematic
   1871096987  "Throwing Star"}
  "Octane"
- {;; === Legendary ===
+ {;; Legendary
   ;; Publicity Stunt
   ;; Top Rider
   ;; Hare Raiser
   1386946850  "DJ Stim"
   195560236   "Shark Teeth"
-  ;; === Epic ===
+  ;; Epic
   1797549760  "High Performace"
   1276619423  "Deep Dive"
   627870072   "Fuel Injected"
   188560165   "Successful Launch"
-  ;; === Rare ===
+  ;; Rare
   1935533777  "Blade Racer"
   ;; Big Ups
   508732741   "Street Fight"
   607919658   "Zip By"
   ;; Air Show
-  ;; === Common ===
+  ;; Common
   2071798384  "Rookie Card"
   ;; Rock
   ;; Plans
@@ -212,44 +214,45 @@
   ;; Outsider
   }
  "Wattson"
- {;; === Legendary ===
+ {;; Legendary
   1215915770  "Resonant Frequencies"
   2112073909  "Static Schematics"
   ;; Lightnight in a Bottle
   144564377   "Electric Feels"
   1880341755  "Eye on the Ring"
-  ;; === Epic ===
+  ;; Epic
   172325793   "Electric Flail"
-  ;; === Rare ===
+  ;; Rare
   ;; Power Transformer
   1501982518  "Tesla Coil"
   141362126   "Hot Wired"
   1303125822  "Lightspeed Bandwidth"
   1772692538  "KEEP OUT"
-  ;; === Common ===
+  ;; Common
   693214584   "Rookie Card"
   ;; Data Processor
   754610000   "Angular Momentum"
   ;; Toolkit
-  ;; On Lockdown
-  }
+  725588874   "On Lockdown"
+  ;; === Unordered ===
+  424172159   "Flying Colors"}
  "Crypto"
- {;; === Legendary ===
+ {;; Legendary
   1960397303  "Ghost Dance"
   ;; Lift Off
   1356211744  "Air Traffic Control"
   ;; Augmented Reality
   ;; Test Pilot
-  ;; === Epic ===
+  ;; Epic
   90785559    "Expedition"
-  ;; === Rare ===
+  ;; Rare
   ;; DDoS
   1100038945  "Cord Cutter"
   744529494   "Reroute"
   334183651   "Cyber Ninja"
   142487752   "Wear and Tear"
   947983077   "Gated"
-  ;; === Common ===
+  ;; Common
   1917095873  "Rookie Card"
   ;; Key Card
   ;; Warning
@@ -257,23 +260,23 @@
   ;; Interconnected
   }
  "Revenant"
- {;; === Legendary ===
+ {;; Legendary
   558422772   "Slice and Dice"
   1928967929  "Element of Surprise"
   ;; Shades of the Past
   ;; Tessenjutsu
   ;; Silent Assassin
-  ;; === Epic ===
+  ;; Epic
   1508683809  "Ritualistic"
   1097340168  "Death Tuner"
   250020810   "Drip Feed"
-  ;; === Rare ===
+  ;; Rare
   857927293   "Entombed"
   ;; Hydralic
   416547060   "Edge of Sanity"
   1975385189  "Interlock"
   ;; Veiled Threat
-  ;; === Common ===
+  ;; Common
   1224604534  "Rookie Card"
   ;; Double-Edged
   243834694   "All-Seeing"
@@ -281,22 +284,22 @@
   ;; Networked
   }
  "Loba"
- {;; === Legendary ===
+ {;; Legendary
   1499845719  "Big Fish"
   ;; Leader of the Pack
   ;; Now You See It
   691052464   "Carnival"
   ;; Beautiful Game
-  ;; === Epic ===
+  ;; Epic
   408553826   "Alpha Dog"
   2017302056  "Moonlit Getaway"
-  ;; === Rare ===
+  ;; Rare
   1184522866  "Diamond Encrusted"
   519616262   "Sleek as Silver"
   739294358   "Laced Up"
   ;; Business Network
   1993599411  "Legacy"
-  ;; === Common ===
+  ;; Common
   1142951752  "Rookie Card"
   1566209259  "Smokey Eye"
   ;; Green with Envy
@@ -304,21 +307,21 @@
   ;; Royal Shade
   }
  "Rampart"
- {;; === Legendary ===
+ {;; Legendary
   ;; Precision Cut
   ;; Ride or Die
   ;; Custom Built
   ;; Midnight Oil
   ;; Open For Business
-  ;; === Epic ===
+  ;; Eic
   1109992883  "Pit Lane"
-  ;; === Rare ===
+  ;; Rare
   ;; Refined Fineries
   ;; Groove Chamber
   ;; Orna-metal
   479609967   "Reinforced"
   ;; Tread Lightly
-  ;; === Common ===
+  ;; Common
   1536108465  "Rookie Card"
   ;; Teardrop
   ;; Bloom
@@ -326,21 +329,21 @@
   ;; Shifting Gears
   }
  "Horizon"
- {;; === Legendary ===
+ {;; Legendary
   ;; Caffeinated Chemistry
   ;; Lost in Space
   ;; NEWT's Cradle
   1841433457  "Astrodial Mischief"
   ;; Station Commander
-  ;; === Epic ===
+  ;; Epic
   1969654469  "Precious Cargo"
-  ;; === Rare ===
+  ;; Rare
   2143861409  "First Class"
   ;; Gravitational Pull
   ;; Containment Unit
   ;; Energy Investigation
   ;; Don't Try This At Home
-  ;; === Common ===
+  ;; Common
   472920529   "Rookie Card"
   ;; Universal Blueprint
   ;; Starshine
@@ -348,21 +351,21 @@
   ;; Tessellate
   }
  "Fuse"
- {;; === Legendary ===
+ {;; Legendary
   ;; Campfire Legend
   ;; Hot Seat
   ;; With a Bang
-  ;; Welded Shut
+  1427584222  "Welded Shut"
   ;; Chicken Dinner
-  ;; === Epic ===
+  ;; Epic
   1044194004  "Salvation of Salvo"
-  ;; === Rare ===
+  ;; Rare
   1448617553  "Flavor Wave"
   672117194   "Bombs Away"
   347815692   "Scorched"
   ;; Occupational Hazard
   ;; Dress Code
-  ;; === Common ===
+  ;; Common
   1531879398  "Rookie Card"
   ;; Over Flow
   ;; Flying Tigers
