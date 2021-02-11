@@ -91,7 +91,9 @@
   661427360   "Bloodhound's Wrath"
   870421671   "Assassin"
   1686987296  "Imperial Bloodhound"
-  441192115   "Reinforcement Recall"}
+  441192115   "Reinforcement Recall"
+  1635175975  "Rapid Elimination"
+  2020830677  "Triple Triple"}
  "Gibraltar"
  {1632387443  "Apex Gibraltar"
   1742076365  "Apex Predator"
@@ -106,7 +108,8 @@
   1335043113  "Gibraltar's Wrath"
   863341081   "Headshot Hotshot"
   148815343   "No One Left Behind"
-  2054798482  "Hot Streak"}
+  2054798482  "Hot Streak"
+  88995434    "Double Duty"}
  "Lifeline"
  {1896587185  "Apex Lifeline"
   1989367351  "Apex Predator"
@@ -244,7 +247,8 @@
   335387731   "Wattson's Wake"
   556604106   "Doubly Duty"
   719469873   "Triple Triple"
-  634683172   "Apex Predator"}
+  634683172   "Apex Predator"
+  645900832   "Reinforcement Recall"}
  "Crypto"
  {843812111   "Deadeye"
   1594369187  "Squad Wipe"
@@ -260,7 +264,8 @@
   540434848   "Reinforcement Recall"
   1592323243  "Crypto's Wrath"
   1649667476  "Crypto's Wake"
-  737113367   "Double Duty"}
+  737113367   "Double Duty"
+  1733589570  "Triple Triple"}
  "Revenant"
  {2055721042  "Apex Revenant"
   387661382   "Apex Predator"
@@ -281,11 +286,14 @@
  {1088769873  "Squad Wipe"
   825793438   "Loba's Wrath"
   1744425088  "Apex Loba"
+  2104403615  "Apex Predator"
   1228718324  "Hot Streak"
   609166079   "The Legacy Continues"
   1364121022  "Flawless Victory 1"
+  526347804   "Loba's Wrath"
   1635308702  "Loba's Wake"
-  1862876215  "Assassin"}
+  1862876215  "Assassin"
+  1115133816  "Triple Triple"}
  "Rampart"
  {1514732384  "Apex Rampart"
   1177702635  "Squad Wipe"
@@ -299,13 +307,17 @@
  "Horizon"
  {1818638937  "No One Left Behind"
   1854288731  "Apex Horizon"
+  410551689   "Apex Predator"
+  440051723   "Assassin"
   1774827845  "Shot Caller"
   1981676884  "Squad Wipe"
   1614248827  "Deadeye"
   2144435905  "The Legacy Continues"
   664966674   "Flawless Victory 1"
+  1806023515  "Flawless Victory 2"
   777201558   "Triple Triple"
   1698352719  "Horizon's Wrath"
+  840910335   "Horizon's Wake"
   2059771709  "Rapid Elimination"
   524802699   "Hot Streak"}
  "Fuse"
