@@ -10,7 +10,6 @@
   153944881   "Feeding Frenzy"
   314986752   "Fully Kitted"
   1121362491  "Group Theatrics"
-  2141092556  "Long Shot"
   1721484615  "Master Of All"
   498953496   "No Witnesses"
   1041083132  "Pack Victory"
@@ -117,7 +116,8 @@
   ;; Shot Caller
   1383370669  "Squad Wipe"
   1115105256  "The Legacy Continues"
-  1793927468  "Triple Triple"}
+  1793927468  "Triple Triple"
+  2118833398  "Making Waves"}
  "Lifeline"
  {1896587185  "Apex Lifeline"
   1989367351  "Apex Predator"
@@ -251,7 +251,7 @@
   704888      "Double Duty"
   685391347   "Flawless Victory 1"
   323065966   "Flawless Victory 2"
-  ;; Headshot Hotshot
+  2141092556  "Headshot Hotshot"
   919543491   "Hot Streak"
   2050802169  "No One Left Behind"
   1519325411  "Rapid Elimination"
