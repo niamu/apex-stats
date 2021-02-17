@@ -1,15 +1,19 @@
 {"Bloodhound"
  {;; Legendary
+  279437630   "Feeling Impish"
   1464077892  "Legend of the West"
   ;; Ready to Strike
-  ;; Wild Tracker
-  ;; Wild Tracker
-  ;; Fortune Hunter
+  275370104   "Wild Tracker"
+  1667864698  "Fortune Hunter"
   2059064253  "Quoth the Raven"
   ;; Epic
+  630964374   "Folded Pressure"
+  601217911   "Exploration"
   1626647060  "Deep Discovery"
   354929831   "Boneyard Bound"
   ;; Rare
+  1387566509  "Deep Blue"
+  1856730002  "Armed and Dangerous"
   1484582009  "Lost Woods"
   995909068   "True Hunter"
   ;; Adaptable
@@ -20,7 +24,7 @@
   2057058469  "Rookie Card"
   1701182052  "Pyramids"
   ;; Stark
-  ;; Hypnotic
+  1858245238  "Hypnotic"
   ;; Bones
   }
  "Gibraltar"
@@ -93,11 +97,12 @@
   1160920630  "Rookie Card"
   ;; Changing Gears
   ;; Onward
-  ;; Hazardous
+  1832908410  "Hazardous"
   ;; Universal
   }
  "Wraith"
  {;; Legendary
+  1505323806  "Void Shadow"
   296967174   "Method to the Madness"
   2089703866  "Void Magic"
   1534267072  "Escape the Trap"
@@ -122,12 +127,15 @@
   }
  "Bangalore"
  {;; Legendary
+  407411355   "Danger Close"
   319106129   "Stormchaser"
   2033246457  "There It Is"
   ;; Weapon Check
   951380602   "Fire and Fury"
   ;; Bulletproof
   ;; Epic
+  264282429   "A Cut Above"
+  152737993   "Taking the Crown"
   2117696754  "Explosive Ordnance"
   1707120438  "Muscled Up"
   ;; Rare
@@ -152,11 +160,12 @@
   1260485535  "Corrosive Agent"
   1393257372  "Method in Madness"
   ;; Epic
+  1751102917  "Gas Powered"
   1188261266  "Failed Emissions"
   173176690   "Skullcracker"
   376915016   "Fuming"
   1621990217  "High Pressure"
-  ;; Spine Chilling
+  308558757   "Spine Chilling"
   ;; Breathe Easy
   1262326921  "Last Rites"
   ;; Common
@@ -168,6 +177,7 @@
   }
  "Mirage"
  {;; Legendary
+  1717446001  "Heartthrob"
   ;; Pop Goes the Weasel
   670626902   "Sucker Punch"
   583310324   "Fun Guy"
@@ -190,7 +200,7 @@
   1871096987  "Throwing Star"}
  "Octane"
  {;; Legendary
-  ;; Publicity Stunt
+  479789857   "Publicity Stunt"
   ;; Top Rider
   ;; Hare Raiser
   1386946850  "DJ Stim"
@@ -202,7 +212,7 @@
   188560165   "Successful Launch"
   ;; Rare
   1935533777  "Blade Racer"
-  ;; Big Ups
+  1757099372  "Big Ups"
   508732741   "Street Fight"
   607919658   "Zip By"
   ;; Air Show
@@ -223,6 +233,7 @@
   ;; Epic
   172325793   "Electric Flail"
   ;; Rare
+  2054210301  "Feel-a-ments"
   ;; Power Transformer
   1501982518  "Tesla Coil"
   141362126   "Hot Wired"
@@ -272,7 +283,7 @@
   250020810   "Drip Feed"
   ;; Rare
   857927293   "Entombed"
-  ;; Hydralic
+  1425884158  "Hydralic"
   416547060   "Edge of Sanity"
   1975385189  "Interlock"
   ;; Veiled Threat
@@ -304,7 +315,7 @@
   1566209259  "Smokey Eye"
   ;; Green with Envy
   ;; Fire and Desire
-  ;; Royal Shade
+  1625558734  "Royal Shade"
   }
  "Rampart"
  {;; Legendary
@@ -312,7 +323,7 @@
   ;; Ride or Die
   ;; Custom Built
   ;; Midnight Oil
-  ;; Open For Business
+  1250619866  "Open For Business"
   ;; Eic
   1109992883  "Pit Lane"
   ;; Rare
@@ -330,8 +341,8 @@
   }
  "Horizon"
  {;; Legendary
-  ;; Caffeinated Chemistry
-  ;; Lost in Space
+  137850271   "Caffeinated Chemistry"
+  668568933   "Lost in Space"
   ;; NEWT's Cradle
   1841433457  "Astrodial Mischief"
   ;; Station Commander
@@ -354,7 +365,7 @@
  {;; Legendary
   ;; Campfire Legend
   ;; Hot Seat
-  ;; With a Bang
+  562151141   "With a Bang"
   1427584222  "Welded Shut"
   ;; Chicken Dinner
   ;; Epic
@@ -364,7 +375,7 @@
   672117194   "Bombs Away"
   347815692   "Scorched"
   ;; Occupational Hazard
-  ;; Dress Code
+  1059239173  "Dress Code"
   ;; Common
   1531879398  "Rookie Card"
   ;; Over Flow

@@ -1,109 +1,242 @@
 {"Bloodhunter"
- {2130577181  "Guarded"
-  1730082082  "Stern"
-  2049837421  "TilValHall"
-  831769300   "One With Nature"
-  1908244609  "Shot Caller"
-  1318106859  "Dead to Rights"
-  921909335   "Personal Touch"
-  91072289    "Bring It"
+ {924111436   "Glory Hound"
   982377873   "Unbreakable Bond"
-  1817535639  "Blademaster"}
+  91072289    "Bring It"
+  1817535639  "Blademaster"
+  921909335   "Personal Touch"
+  ;; On Target
+  1343995500  "Stalk"
+  1318106859  "Dead to Rights"
+  1633864251  "Existential"
+  1730082082  "Stern"
+  1908244609  "Shot Caller"
+  ;; Respectful
+  1648826622  "Coming at You"
+  831769300   "One With Nature"
+  ;; Downtime
+  2049837421  "TilValHall"
+  2130577181  "Guarded"}
  "Gibraltar"
- {1667024382  "Sky Show"
-  575572423   "Humble"
-  1330693322  "Incoming"
-  1096528187  "Fired Up"
-  1275836481  "Come On"
+ {558533496   "Like a Rock"
+  1010421572  "Keeper of the Peace"
+  335495845   "Fight Mode"
   1763092699  "Good Company"
-  1066049905  "Just Kidding"}
+  1066049905  "Just Kidding"
+  1096528187  "Fired Up"
+  ;; Teamwork
+  ;; Intense Focus
+  575572423   "Humble"
+  ;; Victorious
+  1667024382  "Sky Show"
+  1275836481  "Come On"
+  1330693322  "Incoming"}
  "Lifeline"
- {941740319   "Peace"
-  615908353   "Lounging"
+ {1657023826  "Shock Sticks"
+  294421454   "Funslinger"
   693685311   "Joy Ride"
+  545796048   "Drumroll Please"
   36505096    "Bad D.O.C."
   1386679009  "Good Vibes"
-  181689794   "BFF"
-  294421454   "Funslinger"
+  615908353   "Lounging"
+  447069901   "Connected"
   1458389772  "Relaxed"
-  112314915   "Encore"
   730118689   "Healer"
-  1657023826  "Shock Sticks"}
+  1403463629  "Daydreamer"
+  ;; Talking Game
+  112314915   "Encore"
+  1501302884  "Let's Go!"
+  181689794   "BFF"
+  941740319   "Peace"}
  "Pathfinder"
- {1955195764  "Thumbs Up"
+ {855420037   "Lights Out"
+  ;; For the Birds
+  543164026   "Pep Talk"
+  ;; Close Up
+  1261908739  "Dropping In"
+  1749100240  "Winning Combination"
+  490801752   "KO!"
+  237667952   "Born to Dance"
+  551376018   "Fight Mode"
   1314370462  "XOXO"
   1947446979  "Proud Machine"
-  545796048   "Drumroll Please"
-  551376018   "Fight Mode"
-  1758776984  "And Beyond"}
+  ;; Mondays
+  ;; Pumping Iron
+  ;; Malfunction
+  1758776984  "And Beyond"
+  1955195764  "Thumbs Up"}
  "Wraith"
- {1754914733  "Out of Nowhere"
+ {2088801000  "Fearless"
+  2046254916  "Window to the Soul"
   1527711638  "Multidimensional"
-  986526715   "Calm Before"
-  1062954562  "The Struggle"
-  1041153060  "Come at Me"
-  514111480   "Small Victory"
   1474484292  "Channeled Energy"
+  1587991597  "Power From Within"
+  155093852   "Strapped"
+  514111480   "Small Victory"
+  986526715   "Calm Before"
+  1041153060  "Come at Me"
+  ;; Mind Games
   258744995   "Blink of an Eye"
-  2046254916  "Window to the Soul"}
+  1613525459  "Before the Rift"
+  1062954562  "The Struggle"
+  ;; At the Ready
+  1754914733  "Out of Nowhere"}
  "Bangalore"
- {509086852   "At Ease"
+ {775529591   "Drill Sergeant"
+  2041779191  "Self Defense"
+  2122844468  "Cool Under Pressure"
   572513137   "Composed"
+  2130549657  "Locked and Loaded"
+  ;; Armed
+  ;; On Patrol
   501652428   "Smoke Out!"
-  775529591   "Drill Sergeant"}
+  ;; With Pride
+  ;; Dead to Rights
+  509086852   "At Ease"}
  "Caustic"
- {1497492505  "Surgical"
-  1567485166  "Last Rites"
-  1049159812  "Mad Scientist"
-  1037940994  "Think Tank"
+ {1037940994  "Think Tank"
+  1924098215  "Peacekiller"
+  844387739   "Morning Brew"
+  ;; Nevermore
   808193896   "Unstable Genius"
-  844387739   "Morning Brew"}
+  1567485166  "Last Rites"
+  ;; Bad Medicine
+  1932153602  "Not to Be"
+  1049159812  "Mad Scientist"
+  ;; Bad Listener
+  1497492505  "Surgical"}
  "Mirage"
- {285649279   "Baller"
-  119876484   "Bunny Ears"
-  298389936   "Big Brother"
+ {273241036   "You Really Love Me"
+  2073984399  "Ballet-Boozle"
+  2234092     "Target Practice"
+  1262193178  "Solid Wingman"
   986179205   "Fowl Play"
-  2083161296  "Looking Fierce"}
+  2083161296  "Looking Fierce"
+  182329731   "Superiority Complex"
+  ;; Abracadabra!
+  ;; Ta-da!
+  ;; Triple Threat
+  ;; I Got You
+  975754104   "Hammer Time"
+  285649279   "Baller"
+  119876484   "Bunny Ears"
+  298389936   "Big Brother"}
  "Octane"
- {1328104538  "Marathon"
-  1006319016  "Leg Work"
+ {1591926548  "Spin and Flick"
+  505461543   "Dashing Through the Snow"
+  1115114314  "Headrush"
   718158226   "Smash Like"
-  155868821   "Double Down"
-  1987751340  "Hot Mess"
   914410572   "Epic Fail"
-  1254057775  "Mad Props"
+  1987751340  "Hot Mess"
   199472559   "Lens Flair"
-  1115114314  "Headrush"}
+  1254057775  "Mad Props"
+  719083869   "Explosive Personality"
+  ;; Reckless Abandon
+  155868821   "Double Down"
+  1006319016  "Leg Work"
+  ;; Showtime!
+  ;; All. Day.
+  1328104538  "Marathon"}
  "Wattson"
- {535116184   "Eureka!"
-  51955487    "Curiosity"
-  1320601653  "Comms Check"
+ {1378587114  "Hotwired"
+  ;; Load Imbalance
+  1638491567  "Inside Voice"
+  1313080345  "Quantum Mechanic"
+  535116184   "Eureka!"
   1599900783  "Stingin' in the Rain"
-  1638491567  "Inside Voice"}
+  ;; Strong Force
+  1714639257  "Sorry!"
+  1320601653  "Comms Check"
+  2124298570  "On Break"
+  348278894   "Stargazer"
+  51955487    "Curiosity"}
  "Crypto"
- {1465670401  "Smooth Operator"
-  428709830   "Idle"
+ {269538572   "Charging D.O.C"
+  814728196   "Defragged"
   1157264561  "Buddy System"
+  1465670401  "Smooth Operator"
+  ;; Jailbroken
   1838102559  "Escape Artist"
-  814728196   "Defragged"}
+  ;; Prekill
+  ;; Incognito
+  ;; Wallflower
+  ;; Eavesdrop
+  428709830   "Idle"}
  "Revenant"
- {1964181397  "Simulacrum"
-  1072276456  "Supernatural"}
+ {617423490   "Last Rites"
+  ;; The Equalizer
+  ;; Off Switch
+  ;; Off The Beaten Path
+  1055107119  "The Collection"
+  ;; A Day's Work
+  ;; Rebirth
+  ;; Reach
+  585648512   "Stalker"
+  ;; System Error
+  ;; Silencio
+  ;; Victory
+  1072276456  "Supernatural"
+  1964181397  "Simulacrum"}
  "Loba"
- {1642517359  "Fashion Forward"
-  332621640   "The Finer Things"
+ {2075237869  "Quick Change Artist"
+  327551401   "Charming"
+  ;; Charmed
+  265903134   "Catwalk"
+  ;; Hard to Get
+  ;; Mission Accomplished
   1379220215  "Jumping to Judgement"
-  2091146598  "Precious Gift"}
+  ;; Claws Out
+  917206481   "Try Me"
+  2091146598  "Precious Gift"
+  ;; Proper Form
+  17479644    "Accessorize"
+  ;; Deadly Grace
+  1966996881  "Perfect View"
+  ;; All Business
+  332621640   "The Finer Things"
+  1642517359  "Fashion Forward"}
  "Rampart"
- {1049244118  "Built Not Bought"
+ {154761760   "Pride and Joy"
+  ;; Won't Hurt A Bit
+  1898278988  "My Little Friend"
+  1746490860  "ABC"
+  ;; Singing in the Storm
+  ;; Warm Hug
+  ;; Business End
+  1095328378  "Meet Sheila"
+  ;; Get Dunked
+  ;; Bubbly
+  ;; Doctor's Orders
+  ;; Loyalty
   1046867047  "Blind Fire"
   539413497   "Ready To Go"
-  1898278988  "My Little Friend"}
+  1049244118  "Built Not Bought"}
  "Horizon"
- {209117650   "Ready For Launch"
-  1259745303  "One Small Step"
-  1986926488  "Working Together"}
+ {1259745303  "One Small Step"
+  1986926488  "Working Together"
+  1073081262  "Agent NV5A"
+  2057205084  "Nailed It"
+  1128585538  "Epiphany"
+  ;; Little Newtie
+  ;; Projectile Accelerator
+  1586556525  "Dream Catcher"
+  1636958220  "Perfect Partnership"
+  1687997794  "To The Stars"
+  784714320   "Head In The Clouds"
+  ;; Hyperfixated
+  ;; Uplifting Experience
+  209117650   "Ready For Launch"}
  "Fuse"
- {1128742642  "True Blue"
+ {1482609796  "Five Finger Fillet"
+  ;; Drop Kick
+  417242532   "Pull!"
+  475316990   "This is a Knife"
+  ;; Bad Apple
+  791087106   "Rock 'n Load"
+  ;; Gun Show
   309896377   "Boomstick!"
-  1482609796  "Five Finger Fillet"}}
+  ;; Bomb's Away
+  ;; Bonecage Brawler
+  852688698   "Tall Tales"
+  1644303726  "Alright Mate"
+  ;; Your Move
+  1128742642  "True Blue"}}

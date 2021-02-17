@@ -1,117 +1,362 @@
 {nil
  {913787992   nil}
  "Bloodhunter"
- {470587968   "The hunter the gods have sent"
+ {1920175737  "Honor those who've risen"
+  1268063391  "Honor the Allfather"
+  391753523   "May the gods bless you"
   1017101648  "Only when the gods will it"
   1915429382  "Prepared for your end?"
+  470587968   "The hunter the gods have sent"
+  ;; A good day to fight
+  ;; Blessings are upon me
   2008954751  "Every day is a new victory"
+  ;; Fight. Win. Fight again
+  1466752143  "Find me and we will battle"
+  ;; Honor is in the challenge
   1739567323  "I will slaughter"
   102507005   "Never disappoint my brethren"
+  ;; Prove your strength
+  ;; The day is mine
+  ;; The fight honors me
+  2083379738  "The hunt begins"
+  ;; The true test
+  ;; Victory is already written
   158739457   "When we meet, I will slaughter"
-  1595576039  "Your honor to face me"
-  1466752143  "Find me and we will battle"}
+  1595576039  "Your honor to face me"}
  "Gibraltar"
- {743806612   "Great. Good. Wonderful."
-  323749065   "You push..."
+ {1185844236  "I just do the job"
+  ;; I love what I do
+  ;; My shield, my life
+  ;; Try and move me
   624403557   "You're finished"
-  1185844236  "I just do the job"}
+  ;; Come on, step up
+  ;; Gibraltar's coming for you
+  ;; Good luck brothers
+  743806612   "Great. Good. Wonderful."
+  ;; Here we go
+  ;; Hurt you more than me
+  ;; I don't miss
+  ;; I'm like a rock
+  ;; I'm ready, are you?
+  ;; It's a beautiful day
+  ;; Just another day
+  ;; Try what you want
+  ;; Watch out, here I come
+  ;; With you, or you're done
+  ;; You better run
+  323749065   "You push..."}
  "Lifeline"
- {18947469    "Wanna be hear?"
+ {1783454802  "You know what's scary?"
+  92546304    "Ajay Che's comin' through"
+  ;; Bring it
   644945851   "I'd watch out for my squad"
-  693676365   "Remember this face"
-  1248857503  "You ain't that bright"
-  1419460024  "You better not romp with me"
   1327818728  "Quit your whinging and fight"
+  1419460024  "You better not romp with me"
+  1614859148  "Accept it"
+  ;; Ain't afraid of you
+  71004097    "All good for me"
+  ;; Bleed, patch, and keep moving
+  624621458   "Champion, challenger"
+  ;; Don't come easy
   1296569752  "I've seen it all"
   1525343084  "Looking at a fighter"
+  ;; Move it or quit
+  693676365   "Remember this face"
+  43270563    "Stay out of my way"
+  ;; Takes a lot to take me out
+  18947469    "Wanna be hear?"
   1409738830  "We all got each other"
-  624621458   "Champion, challenger"
-  939452601   "Looking at a fighter"
-  1614859148  "Accept it"
-  1783454802  "You know what's scary?"}
+  1248857503  "You ain't that bright"}
  "Pathfinder"
- {137159549   "You get here by winning"
-  273118610   "I wish all of you"
+ {273118610   "I wish all of you"
+  765746993   "I'm coming for you, friend"
   766089657   "Losing isn't fun"
-  1187907760  "This sounds like it'll be fun"
-  2017149466  "My squad must be very proud"
   1153806597  "Remember me friends"
+  137159549   "You get here by winning"
+  1130030062  "Hey, that's me"
+  ;; Hi friends
+  ;; I am really good at this
+  ;; I may be smiling
+  ;; I swung to this poisition
   1372466719  "I work hard for the money"
-  326460805   "Oh, am I supposed to talk?"}
+  ;; I'll high five you all
+  ;; I'm excited to fight you
+  ;; It's fun to zipline
+  2017149466  "My squad must be very proud"
+  326460805   "Oh, am I supposed to talk?"
+  1187907760  "This sounds like it'll be fun"
+  ;; This will be fun
+  ;; We should hang out
+  ;; Wow! They chose me
+  }
  "Wraith"
- {1112540849  "Sitting around doing nothing"
-  1521070677  "Every decision counts"
+ {1625282092  "Come find me"
   1903866641  "Follow my path to win"
+  1302599428  "I don't fear anything"
   718019259   "Pain... death... nothing phases me"
   845226415   "Thin line between life and death"
+  1552576647  "Try not to blink"
+  ;; A step in the right direction
   673821013   "Another day, another road"
-  1140596467  "It's my turn this time"}
+  1521070677  "Every decision counts"
+  ;; Good choice... for me
+  ;; I saw this coming
+  ;; I'll take you down
+  ;; I'm here today... let's do this
+  2055701717  "I'm quick and I'll finish this"
+  ;; I've been here before
+  1140596467  "It's my turn this time"
+  418191235   "More than you'll ever know"
+  1112540849  "Sitting around doing nothing"
+  ;; Something wrong with your head
+  979103241   "Trust just your eyes"
+  ;; Wanna win? Do what I do
+  }
  "Bangalore"
- {710565156   "You better finish the job"
-  612581428   "Go back to boot camp"
-  773719048   "Better find me before I find you"
+ {773719048   "Better find me before I find you"
+  1036337810  "Come get some"
   1562841731  "Get ready for a light show"
-  898622191   "Get ready for a world of hurt"}
+  ;; No such thing as auto-aim, ladies
+  710565156   "You better finish the job"
+  ;; Artillery sounds like music to me
+  ;; Death is my language
+  ;; Don't bring a pistol to an artillery fight
+  ;; Don't matter what you run...
+  ;; Don't miss. I won't
+  898622191   "Get ready for a world of hurt"
+  612581428   "Go back to boot camp"
+  376523263   "Heads up for a pucker factor"
+  ;; I can do it all, your call.
+  802766483   "I'll still beat you"
+  ;; I'm ready today...
+  ;; Locked and loaded
+  ;; Make each round count
+  ;; Maybe this time I'll open both eyes
+  ;; Shooter ready
+  }
  "Caustic"
- {2090565077  "Know your place..."
-  1117166802  "Life is meant to die..."
+ {995614308   "I look forward to getting my hands on you"
+  95285849    "I don't relish the title..."
   509483840   "It all ends the same way..."
   1550738234  "Join my experiment below."
-  218308806   "You'll wish the end came sooner."
-  379991146   "A quick death is so... boring"
-  95285849    "I don't relish the title..."
+  1117166802  "Life is meant to die..."
   1627987797  "Marvelous!"
+  ;; A deterministic end will find you below.
+  379991146   "A quick death is so... boring."
+  ;; Close combat gets messy
+  ;; I have no regretsx
+  ;; I linger on those final moments.
+  ;; I will not apologize...
+  ;; Intelligence is a dying breed...
+  2090565077  "Know your place..."
+  ;; My methods
+  ;; Patience. Just... patience
   747547998   "Science is precise..."
   864926335   "Test me."
-  1068325820  "Watch for my traps..."}
+  ;; The kill is more important than the prize.
+  1068325820  "Watch for my traps..."
+  ;; You and I are not equals
+  218308806   "You'll wish the end came sooner."}
  "Mirage"
- {742211773   "Want advice? Shoot first"
-  741209033   "The heart of victory"
+ {75268617    "Excited to see you all in the ring"
+  1235954991  "Anyone want to take me out?"
+  ;; Didn't get here alone
   1832593675  "Gonna see a lot of me"
-  1235954991  "Anyone want to take me out?"}
+  ;; I'm speechless
+  ;; This is good, let's fight
+  ;; Good squad means good times
+  ;; Hope you're ready for some fun
+  ;; I love the spotlight
+  ;; I'm even better face to face
+  ;; I'm here, you're not
+  ;; I'm just perfect
+  1225652334  "My squad's gonna beat up yours"
+  ;; See you in the ring
+  ;; So proud of myself
+  741209033   "The heart of victory"
+  ;; This is like a dream
+  ;; This is such as honor
+  742211773   "Want advice? Shoot first"
+  ;; We're all having a good time
+  1257806737  "Who wants to step up?"
+  499698136   "You can't forget this face"}
  "Octane"
- {2071624417  "Time is flying"
-  1146645492  "Catch me if you can"
-  923591933   "Mira, check out that giant banner of me"
+ {2001021134  "Run fast, hit fast, win fast"
+  ;; By the time you see me coming
+  884359004   "Casa de Octane"
   104944905   "Death catches up to everyone"
+  1058886350  "My legs are ready to go"
   240764510   "Shoutout to all my fans"
-  884359004   "Casa de Octane"}
+  1146645492  "Catch me if you can"
+  ;; Don't worry about my legs getting tired
+  ;; Going up and going down
+  ;; Haven't we landed yet?
+  ;; I do this for the rush
+  ;; I like the wind in my hair
+  1532903180  "I make it look easy"
+  226582623   "I'm always in the lead"
+  1562860952  "In the rearview mirror"
+  923591933   "Mira, check out that giant banner of me"
+  ;; See that blur right before you bite it?
+  ;; The good news
+  2071624417  "Time is flying"
+  ;; You all ready for the Octrain?
+  ;; You better run - make it interesting
+  ;; You think I'm afraid of you?
+  }
  "Wattson"
- {1095360692  "You're playing in my backyard now"
-  1259466623  "Didn't expect to see me up here"
-  2118468212  "My adversaries are in for a shock"
-  116590543   "Be careful"
-  168830421   "I did it Papa"
+ {116590543   "Be careful"
   168969098   "I fight until it hertz"
+  1792524032  "I'm currently at the top of my game"
+  2118468212  "My adversaries are in for a shock"
+  88802311    "Papa would be proud of me"
+  1259466623  "Didn't expect to see me up here"
+  ;; Electricity I get, people I don't
   898591900   "I bring the silence"
-  1792524032  "I'm currently at the top of my game"}
+  ;; I conduct the power
+  168830421   "I did it Papa"
+  ;; I may not look like a fighter
+  2093068572  "My electric fences will herd you"
+  ;; My light shines bright
+  ;; Power is everything
+  ;; Studying has served me well
+  ;; The best offense is a strong defense
+  ;; This is the only life I know
+  2145363530  "To me, it's home"
+  ;; Wattage up!
+  ;; You may be stronger, but I'm smarter
+  1095360692  "You're playing in my backyard now"}
  "Crypto"
- {447512493   "When you have nothing else to lose"
-  83304856    "If I know who you are"
-  359133510   "I have been through hell to get here"
-  158274996   "Sehsang un humhan goshiya"
+ {;; Ggeut namyun algoyah
+  1014723027  "I'm here to break the game"
+  2064637245  "Miahnhe"
   939467165   "Truth is coming"
+  ;; You better hope I find you
+  ;; Don't be an idiot
+  359133510   "I have been through hell to get here"
+  ;; I used to fear many things
   1251439254  "I'm here because I have to be"
+  83304856    "If I know who you are"
+  ;; It's easy to get here
+  ;; It's easy to run away
+  ;; It's very simple
+  ;; Mungchunghan jit hajimah
+  ;; Na junbi mani heso
+  158274996   "Sehsang un humhan goshiya"
+  ;; There's only one think you need to know
+  1667516501  "Think you can surprise me?"
+  ;; We are all just data
+  447512493   "When you have nothing else to lose"
   1731384993  "You found me"}
  "Revenant"
  {1661688633  "Have you said your goodbyes?"
-  354314814   "Make it out of this alive"
-  153052157   "Don't bother trying to find me"
+  ;; I look forward to meeting you all
   1106470154  "Look at all the skin suits"
-  1463120509  "Last legends looked hopeful too"}
+  354314814   "Make it out of this alive"
+  ;; You've all been marked for death
+  153052157   "Don't bother trying to find me"
+  1054945746  "Ever get the feeling you're not alone?"
+  ;; Get a good look
+  ;; I don't need souveniers
+  ;; I plan on getting under your skin
+  ;; I'm going to kill you today
+  ;; I'm not gonna make it quick
+  1463120509  "Last legends looked hopeful too"
+  ;; Like cattle being herded
+  184836853   "Like lambs to a slaughter"
+  ;; Look at all the new additions to my list
+  ;; My favorite part
+  ;; That's the sweet aroma of fear
+  ;; There's still time to run
+  597072134   "Why you fear the dark"
+  ;; Your championships are meaningless
+  }
  "Loba"
- {830726515   "Come on, let's see if we're a match"
-  1512013809  "Aww, you think you're tough?"
+ {1512013809  "Aww, you think you're tough?"
+  830726515   "Come on, let's see if we're a match"
+  786139423   "I don't want to kill you"
   970294494   "I fought nightmares all my life"
   1993944406  "I'll break your heart"
-  1686435734  "There's a certain elegance to combat"}
+  ;; A powerful woman knows what she wants
+  ;; Beauty is pain
+  ;; Careful, I'll steal more than just your heart
+  ;; I know what I came for
+  ;; I know what I like. And I know how to get it
+  ;; I know what you're looking for
+  559072220   "I'll take your life and your loot"
+  535633830   "I'm a man eater and a lady killer"
+  ;; I'm the diamon. You're the rough
+  ;; Most beautiful things are fragile
+  ;; Pick out something nice for me, won't you?
+  ;; Riches make the man
+  1686435734  "There's a certain elegance to combat"
+  ;; Time to break some hearts
+  ;; Wait until you see what I have in store
+  ;; You can't be overdressed or overarmed
+  }
  "Rampart"
- {1418080980  "I don't think of myself as the best"
+ {823142098   "If you don't like what you see"
+  1418080980  "I don't think of myself as the best"
+  453332469   "Take a long look at me"
+  ;; Whine on the field or step up
+  1544943656  "You'll all be here soon"
+  ;; Chin up mates. You just ain't that good
+  ;; Get a new start with Rampart
+  ;; Get down there, have fun, and I'll ruin it
+  ;; Grab your mash. Rampart's in town
+  ;; I am ready for a fight
+  ;; I don't want to be here anymore than you do
+  ;; I'd like to thank everyone who helped me get here
+  ;; I'm not one to brag but...
+  ;; I'm only doing this to fight and win
+  ;; It ain't mechanical engineering
+  ;; It's alright to be afraid
+  ;; Must be a bit of a drag
   914491736   "No need to get razzled yet"
-  823142098   "If you don't like what you see"}
+  ;; Only way you'd get here is if you kill me
+  ;; Suppose you had skill
+  }
  "Horizon"
- {999493764   "If not even light can escape the event horizon"}
+ {999493764   "If not even light can escape the event horizon"
+  ;; Ach, dinnae fash yersel 'Cause I'm the best
+  ;; I survived being swallowed by the dark heart
+  ;; I'll put the kettle on for any survivors
+  224471295   "Violence for Science"
+  ;; Anyone else wielding the unfathomable
+  ;; Aye, I love field work
+  ;; Data points often don't land
+  ;; Don't take what follows too personally
+  ;; I expect the results of this will be utterly delightful
+  ;; In the barracks we're pals
+  ;; Is anyone else here technically over 100 years old?
+  ;; Och it's not me you've got to worry about
+  1179911884  "Oh I'm sorry dear"
+  ;; Ooh, could get messy, I'm afraid
+  ;; Particle colliders or R301s
+  ;; Strap in, Newtie
+  ;; This isn't between you 'n' me
+  ;; Time to introduce a lil' chaos to my research
+  ;; What happens in the Games
+  ;; Ya cannae outplay the Law of Large Numbers
+  }
  "Fuse"
- {424662936   "Bringin' the noise, boys"
-  1815619207  "Time for a little shockn 'n' awesome"
-  1490161020  "You get more outta life if you don't follow the rules"}}
+ {568407640   "Don't get ya budgie smugglers in a twist"
+  ;; Let Old Fusey show you how we did it back in the day
+  ;; She's alright, this life
+  87985277    "Takin' orders for after the game, fellas"
+  1815619207  "Time for a little shock, 'n' awesome"
+  602589092   "Anyone of you lads up for a campfire sing song after?"
+  ;; Back on Salvo they called me 'the Grenado Tornado'
+  1464265235  "Combuts or bust"
+  ;; Hang on to ya sangas, lads. She's bound to get messy
+  1406682649  "Here comes a little old school"
+  201783745   "Here comes the biff"
+  ;; It's about to get a lil' loud, fellas
+  ;; Let's fill this bloody world with craters
+  ;; Nothin' like a lil' chaos, ay?
+  1130034412  "Righto, time you pups see what an old dog can do"
+  ;; The buck stops with olf mate Fuse
+  ;; What these bloody games need is a bit of Old School
+  1180568880  "What's a few concussions between mates, ay?"
+  1490161020  "You get more outta life if you don't follow the rules"
+  424662936   "Bringin' the noise, boys"}}

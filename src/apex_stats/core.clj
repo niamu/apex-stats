@@ -76,11 +76,10 @@
         "Master" [10000 20000]
         "Apex Predator" [20000 100000]}
        (reduce (fn [accl [k [r1 r2]]]
-                 (if (contains? (set (range r1 r2)) score)
+                 (if (<= r1 score r2)
                    (get (->> (partition 2 1 (range r1 (inc r2) (/ (- r2 r1) 4)))
-                             (map-indexed (fn [idx x]
-                                            {(contains? (set (apply range x))
-                                                        score)
+                             (map-indexed (fn [idx [sub-r1 sub-r2]]
+                                            {(<= sub-r1 score sub-r2)
                                              (if (= "Apex Predator" k)
                                                k
                                                (str k " "
@@ -114,36 +113,35 @@
 
 (defn parse
   [info]
-  (when (valid? info)
-    (-> (reduce (fn [accl [k v]]
-                  (let [nk (cdata->path k)]
-                    (cond-> accl
-                      nk (-> (dissoc k)
-                             (assoc-in nk
-                                       (if (string/ends-with? (name (last nk))
-                                                              "?")
-                                         (not (zero? v))
-                                         (get lookup v v)))))))
-                (merge info
-                       {:banner/badges [{} {} {}]
-                        :banner/trackers [{} {} {}]})
-                info)
-        (assoc-in [:banner/rank :name] (-> info :banner/rankScore rank))
-        (update-in [:banner/account :progress] #(str % "%"))
-        (update-in [:banner/account :level] #(some-> % inc))
-        (update-in [:banner/badges]
-                   (fn [badges]
-                     (mapv (fn [{:keys [label value]}]
-                             {label (when label (dec value))})
-                           badges)))
-        (update-in [:banner/trackers]
-                   (fn [trackers]
-                     (mapv (fn [{:keys [label value]}]
-                             {label (when label (-> value
-                                                    (- 2)
-                                                    (/ 100)
-                                                    int))})
-                           trackers))))))
+  (-> (reduce (fn [accl [k v]]
+                (let [nk (cdata->path k)]
+                  (cond-> accl
+                    nk (-> (dissoc k)
+                           (assoc-in nk
+                                     (if (string/ends-with? (name (last nk))
+                                                            "?")
+                                       (not (zero? v))
+                                       (get lookup v v)))))))
+              (merge info
+                     {:banner/badges [{} {} {}]
+                      :banner/trackers [{} {} {}]})
+              info)
+      (assoc-in [:banner/rank :name] (-> info :banner/rankScore rank))
+      (update-in [:banner/account :progress] #(str % "%"))
+      (update-in [:banner/account :level] #(some-> % inc))
+      (update-in [:banner/badges]
+                 (fn [badges]
+                   (mapv (fn [{:keys [label value]}]
+                           {label (when label (dec value))})
+                         badges)))
+      (update-in [:banner/trackers]
+                 (fn [trackers]
+                   (mapv (fn [{:keys [label value]}]
+                           {label (when label (-> value
+                                                  (- 2)
+                                                  (/ 100)
+                                                  int))})
+                         trackers)))))
 
 (defn -main
   "Search for an Apex Legends player's stats via their Origin UID"

@@ -190,6 +190,7 @@
   867941940   "Season 7 Kills"
   1618935778  "Kills"
   526254361   "Wins"
+  1498180750  "Damage Done"
   144414654   "Season 8 Wins"
   1005786086  "Season 8 Kills"}
  "Bangalore"
@@ -263,9 +264,8 @@
   304096973   "Season 6 Wins"
   2013886661  "Season 7 Wins"
   2138173454  "Season 7 Kills"
-  ;; Season 8 Wins
-  ;; Season 8 Kills
-  }
+  611142039   "Season 8 Wins"
+  93356553    "Season 8 Kills"}
  "Mirage"
  {710621083   "Kills"
   1061520566  "Winning Kills"
@@ -439,8 +439,7 @@
   40878910    "Season 7 Wins"
   1284222506  "Season 7 Kills"
   557130660   "Season 8 Wins"
-  ;; Season 8 Kills
-  }
+  1159843849  "Season 8 Kills"}
  "Loba"
  {989931955   "Kills"
   1927694151  "Winning Kills"
@@ -487,7 +486,7 @@
   1867264401  "Pistol Kills"
   598606375   "Shotgun Kills"
   1602837499  "SMG Kills"
-  ;; AR Kills
+  1002028467  "AR Kills"
   574328562   "LMG Kills"
   955558501   "Sniper Kills"
   216310604   "Care Package Weapon Kills"
@@ -501,7 +500,7 @@
   1909899282  "Damage Done"
   1828342562  "Season 7 Wins"
   1942284525  "Season 7 Kills"
-  ;; Season 8 Wins
+  43621774    "Season 8 Wins"
   2144384225  "Season 8 Kills"}
  "Horizon"
  {904179299   "Kills"
@@ -513,7 +512,7 @@
   ;; Revives
   ;; Games Played
   ;; Wins with Full Squad Alive
-  ;; Times Placed Top 3
+  993488462   "Times Placed Top 3"
   ;; Pistol Kills
   1920720565  "Shotgun Kills"
   1770140671  "SMG Kills"
@@ -545,7 +544,7 @@
   937405830   "Sniper Kills"
   701502578   "Care Package Weapon Kills"
   1574568399  "Grenades: Distance Thrown"
-  ;; Knuckle Cluster: Total Hits
+  182364136   "Knuckle Cluster: Total Hits"
   2086371213  "Motherlode: Enemies Captured"
   136853764   "Season 8 Wins"
   1845783163  "Season 8 Kills"}}
