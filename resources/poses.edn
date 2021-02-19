@@ -10,7 +10,7 @@
   1633864251  "Existential"
   1730082082  "Stern"
   1908244609  "Shot Caller"
-  ;; Respectful
+  1649961270  "Respectful"
   1648826622  "Coming at You"
   831769300   "One With Nature"
   ;; Downtime
@@ -23,7 +23,7 @@
   1763092699  "Good Company"
   1066049905  "Just Kidding"
   1096528187  "Fired Up"
-  ;; Teamwork
+  2060610813  "Teamwork"
   ;; Intense Focus
   575572423   "Humble"
   ;; Victorious
@@ -86,7 +86,7 @@
   2122844468  "Cool Under Pressure"
   572513137   "Composed"
   2130549657  "Locked and Loaded"
-  ;; Armed
+  1562874528  "Armed"
   ;; On Patrol
   501652428   "Smoke Out!"
   ;; With Pride
@@ -96,7 +96,7 @@
  {1037940994  "Think Tank"
   1924098215  "Peacekiller"
   844387739   "Morning Brew"
-  ;; Nevermore
+  1639978107  "Nevermore"
   808193896   "Unstable Genius"
   1567485166  "Last Rites"
   ;; Bad Medicine
@@ -154,7 +154,7 @@
   814728196   "Defragged"
   1157264561  "Buddy System"
   1465670401  "Smooth Operator"
-  ;; Jailbroken
+  1132600208  "Jailbroken"
   1838102559  "Escape Artist"
   ;; Prekill
   ;; Incognito
@@ -175,7 +175,8 @@
   ;; Silencio
   ;; Victory
   1072276456  "Supernatural"
-  1964181397  "Simulacrum"}
+  1964181397  "Simulacrum"
+  56412892    "Fully Assimilated"}
  "Loba"
  {2075237869  "Quick Change Artist"
   327551401   "Charming"
@@ -191,7 +192,7 @@
   17479644    "Accessorize"
   ;; Deadly Grace
   1966996881  "Perfect View"
-  ;; All Business
+  1565532291  "All Business"
   332621640   "The Finer Things"
   1642517359  "Fashion Forward"}
  "Rampart"
@@ -216,7 +217,7 @@
   1073081262  "Agent NV5A"
   2057205084  "Nailed It"
   1128585538  "Epiphany"
-  ;; Little Newtie
+  1894059305  "Little Newtie"
   ;; Projectile Accelerator
   1586556525  "Dream Catcher"
   1636958220  "Perfect Partnership"
@@ -230,9 +231,9 @@
   ;; Drop Kick
   417242532   "Pull!"
   475316990   "This is a Knife"
-  ;; Bad Apple
+  717372744   "Bad Apple"
   791087106   "Rock 'n Load"
-  ;; Gun Show
+  951135417   "Gun Show"
   309896377   "Boomstick!"
   ;; Bomb's Away
   ;; Bonecage Brawler

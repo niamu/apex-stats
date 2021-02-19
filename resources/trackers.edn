@@ -171,7 +171,7 @@
   553648221   "SMG Kills"
   845819196   "AR Kills"
   1460730151  "LMG Kills"
-  ;; Sniper Kills
+  1080769684  "Sniper Kills"
   1520641962  "Care Package Weapon Kills"
   1352253203  "Voices: Warnings Heard"
   1151119455  "Into the Void: Time"
@@ -301,7 +301,9 @@
   1307217201  "Season 7 Kills"
   1730527550  "Kills"
   803607498   "Wins"
-  2014839975  "Damage Done"}
+  2014839975  "Damage Done"
+  1637854906  "Season 8 Wins"
+  821300195   "Season 8 Kills"}
  "Octane"
  {303788636   "Kills"
   1196421729  "Winning Kills"
@@ -524,7 +526,9 @@
   1824284874  "Gravity Lift: Teammates Lifted"
   1190247805  "Black Hole: Damage Done to Victims"
   1737623359  "Season 7 Wins"
-  1332883364  "Season 7 Kills"}
+  1332883364  "Season 7 Kills"
+  1698393203  "Season 8 Wins"
+  889166956   "Season 8 Kills"}
  "Fuse"
  {752923862   "Kills"
   1500357428  "Winning Kills"

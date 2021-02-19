@@ -2,7 +2,7 @@
  {;; Legendary
   279437630   "Feeling Impish"
   1464077892  "Legend of the West"
-  ;; Ready to Strike
+  975204679   "Ready to Strike"
   275370104   "Wild Tracker"
   1667864698  "Fortune Hunter"
   2059064253  "Quoth the Raven"
@@ -36,6 +36,7 @@
   1013993693  "APEX Projection"
   ;; Catch of the Day
   ;; Epic
+  442311908   "Deep Blue"
   1552095609  "Brilliant Split"
   1959769983  "Slow and Steady"
   ;; Rare
@@ -85,6 +86,7 @@
   ;; Tixels
   1565914956  "Third Kind"
   ;; Epic
+  1222496248  "Anchor Bias"
   1591334943  "Connection Established"
   2045464301  "Treasure Trove"
   1236942883  "Energized"
@@ -115,7 +117,7 @@
   ;; Rare
   461621934   "Void Blades"
   507390973   "Violet Tendencies"
-  ;; Kunai Fighter
+  1148513744  "Kunai Fighter"
   1046103627  "Bound"
   ;; Machine Elves
   920493906   "Inside the System"
@@ -183,13 +185,13 @@
   670626902   "Sucker Punch"
   583310324   "Fun Guy"
   ;; Ace Up the Sleeve
-  ;; Unfairgrounds
+  845401618   "Unfairgrounds"
   ;; Epic
   89807512    "Mapped Out"
   ;; Rare
   ;; Joker's Wild
   ;; Sleight of Hand
-  ;; Court Jester
+  320341012   "Court Jester"
   920374568   "Swordplay"
   1718038332  "Tools of Deception"
   1139054532  "Red Beau"
@@ -207,6 +209,7 @@
   1386946850  "DJ Stim"
   195560236   "Shark Teeth"
   ;; Epic
+  184248550   "Admiral Acceleration"
   1797549760  "High Performace"
   1276619423  "Deep Dive"
   627870072   "Fuel Injected"
@@ -251,7 +254,7 @@
  "Crypto"
  {;; Legendary
   1960397303  "Ghost Dance"
-  ;; Lift Off
+  1491805826  "Lift Off"
   1356211744  "Air Traffic Control"
   ;; Augmented Reality
   ;; Test Pilot
@@ -344,7 +347,7 @@
  {;; Legendary
   137850271   "Caffeinated Chemistry"
   668568933   "Lost in Space"
-  ;; NEWT's Cradle
+  1633260050  "NEWT's Cradle"
   1841433457  "Astrodial Mischief"
   ;; Station Commander
   ;; Epic
@@ -354,7 +357,7 @@
   ;; Gravitational Pull
   ;; Containment Unit
   ;; Energy Investigation
-  ;; Don't Try This At Home
+  280863928   "Don't Try This At Home"
   ;; Common
   472920529   "Rookie Card"
   ;; Universal Blueprint
@@ -364,7 +367,7 @@
   }
  "Fuse"
  {;; Legendary
-  ;; Campfire Legend
+  920468800   "Campfire Legend"
   ;; Hot Seat
   562151141   "With a Bang"
   1427584222  "Welded Shut"
