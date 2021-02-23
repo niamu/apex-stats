@@ -297,7 +297,7 @@
  "Bangalore"
  {1374113024  "The Enforcer"
   1644844869  "Officer Williams"
-  ;; The Spacewalker
+  1887319461  "The Spacewalker"
   850101569   "Apex Overdrive"
   1332990092  "Viceroy"
   632152921   "Sky Marshal"
@@ -340,6 +340,7 @@
   ;; Rage
   1687313992  "Sahara"
   ;; === Unordered ===
+  241792693   "Mint Condition"
   1945221293  "Crimson Queen"
   1274028498  "La Catrina"
   1573527088  "Valor"
@@ -392,7 +393,7 @@
   1213157726  "Mad King"
   529594028   "Prince of Darkness"
   512146782   "Tiger Blood"
-  1836735463  "Bloodthirsty"
+  196809878   "Bloodthirsty"
   1235946641  "The Last Laugh"
   602449299   "Necrosis"
   900829596   "Future's Past"}
@@ -493,6 +494,8 @@
   673459930   "Rage"
   ;; Sahara
   ;; === Unordered ===
+  1723044541  "Whiplash"
+  2006437654  "Glacial Pace"
   1872884298  "Burn Out"
   860274412   "XL-R8"
   595257832   "El Tigre"
@@ -617,7 +620,7 @@
   1358776312  "Fiber Optics"
   995364698   "Refraction"
   1693583300  "Labyrinth"
-  ;; Pincushion
+  798488998   "Pincushion"
   ;; Green Screen
   1864565078  "Unholy Alliance"
   ;; Disruptor
@@ -752,13 +755,13 @@
   200407993   "Dark Matter"
   1912232933  "Golden Boson"
   ;; Hack the System
-  ;; Daemon Hunter
+  2081561678  "Daemon Hunter"
   ;; User Friendly
   332863797   "Heat Sync"
   1781223698  "Fiber Optics"
   928235247   "Absolute Zero"
   ;; Royal Decree
-  ;; Dire Wolf
+  1646111286  "Dire Wolf"
   ;; Brain Candy
   ;; Death Adder
   ;; Disruptor
@@ -768,7 +771,7 @@
   ;; Racing Stripes
   ;; Hypothesis
   ;; Collider
-  ;; Sizzle Reel
+  195417812   "Sizzle Reel"
   ;; High Frequency
   ;; Life Cycle
   1388035383  "Prowess"
@@ -777,7 +780,7 @@
   ;; Arctic
   ;; Cardinal
   ;; Clearwater
-  ;; Evergreen
+  1316250251  "Evergreen"
   ;; Flamingo
   ;; Hydro
   ;; Limelight
@@ -798,7 +801,7 @@
   751942774   "Natural Born Daredevil"
   506842791   "Old Gold"
   ;; Hack the System
-  ;; Daemon Hunter
+  529575703   "Daemon Hunter"
   ;; User Friendly
   ;; Heat Sync
   ;; Fiber Optics

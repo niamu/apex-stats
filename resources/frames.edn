@@ -7,6 +7,7 @@
   1667864698  "Fortune Hunter"
   2059064253  "Quoth the Raven"
   ;; Epic
+  1568890230  "Killer Instincts"
   630964374   "Folded Pressure"
   601217911   "Exploration"
   1626647060  "Deep Discovery"
@@ -36,6 +37,7 @@
   1013993693  "APEX Projection"
   ;; Catch of the Day
   ;; Epic
+  1492128495  "Coat of Arms"
   442311908   "Deep Blue"
   1552095609  "Brilliant Split"
   1959769983  "Slow and Steady"
@@ -80,12 +82,14 @@
   684345885   "Stripe 3"}
  "Pathfinder"
  {;; Legendary
-  ;; Anchors Away
+  1909744553  "Anchors Away"
   695500505   "Open Cans"
   1633729806  "Disco Tech"
   ;; Tixels
   1565914956  "Third Kind"
   ;; Epic
+  1595311459  "Sword in the Stone"
+  2124431301  "Robo-Lisk"
   1222496248  "Anchor Bias"
   1591334943  "Connection Established"
   2045464301  "Treasure Trove"
@@ -135,7 +139,7 @@
   2033246457  "There It Is"
   ;; Weapon Check
   951380602   "Fire and Fury"
-  ;; Bulletproof
+  776981426   "Bulletproof"
   ;; Epic
   264282429   "A Cut Above"
   152737993   "Taking the Crown"
@@ -144,7 +148,7 @@
   ;; Rare
   1542068173  "Smoke Signal"
   474287742   "True Patriot"
-  ;; Tag, You're It
+  1259375751  "Tag, You're It"
   ;; Full Spectrum Dominance
   ;; Armed and Dangerous
   472950210   "Streamlined"
@@ -158,11 +162,12 @@
  "Caustic"
  {;; Legendary
   1350753561  "Biochemical Romance"
-  ;; Hard Nox Life
+  1281565488  "Hard Nox Life"
   1819310843  "Cruel and Unusual"
   1260485535  "Corrosive Agent"
   1393257372  "Method in Madness"
   ;; Epic
+  1863936216  "Research Grant"
   1751102917  "Gas Powered"
   1188261266  "Failed Emissions"
   173176690   "Skullcracker"
@@ -189,6 +194,7 @@
   ;; Epic
   89807512    "Mapped Out"
   ;; Rare
+  603880841  "Midnight Ride"
   ;; Joker's Wild
   ;; Sleight of Hand
   320341012   "Court Jester"
@@ -204,8 +210,8 @@
  "Octane"
  {;; Legendary
   479789857   "Publicity Stunt"
-  ;; Top Rider
-  ;; Hare Raiser
+  388717408   "Top Rider"
+  1684647106  "Hare Raiser"
   1386946850  "DJ Stim"
   195560236   "Shark Teeth"
   ;; Epic
@@ -238,6 +244,7 @@
   172325793   "Electric Flail"
   ;; Rare
   2054210301  "Feel-a-ments"
+  638507635   "Linked"
   ;; Power Transformer
   1501982518  "Tesla Coil"
   141362126   "Hot Wired"
@@ -302,13 +309,14 @@
  {;; Legendary
   1499845719  "Big Fish"
   ;; Leader of the Pack
-  ;; Now You See It
+  1360245065  "Now You See It"
   691052464   "Carnival"
   ;; Beautiful Game
   ;; Epic
   408553826   "Alpha Dog"
   2017302056  "Moonlit Getaway"
   ;; Rare
+  2054005261  "Midnight Ride"
   1184522866  "Diamond Encrusted"
   519616262   "Sleek as Silver"
   739294358   "Laced Up"
@@ -319,8 +327,7 @@
   1566209259  "Smokey Eye"
   ;; Green with Envy
   ;; Fire and Desire
-  1625558734  "Royal Shade"
-  }
+  1625558734  "Royal Shade"}
  "Rampart"
  {;; Legendary
   ;; Precision Cut
@@ -354,13 +361,13 @@
   1969654469  "Precious Cargo"
   ;; Rare
   2143861409  "First Class"
-  ;; Gravitational Pull
-  ;; Containment Unit
+  269065935   "Gravitational Pull"
+  2119024394  "Containment Unit"
   ;; Energy Investigation
   280863928   "Don't Try This At Home"
   ;; Common
   472920529   "Rookie Card"
-  ;; Universal Blueprint
+  556705651   "Universal Blueprint"
   ;; Starshine
   ;; A Friend Indeed
   ;; Tessellate

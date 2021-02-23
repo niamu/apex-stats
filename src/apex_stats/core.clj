@@ -126,7 +126,7 @@
                      {:banner/badges [{} {} {}]
                       :banner/trackers [{} {} {}]})
               info)
-      (assoc-in [:banner/rank :name] (-> info :banner/rankScore rank))
+      (assoc-in [:banner/rank :name] (rank (get info :banner/rankScore 0)))
       (update-in [:banner/account :progress] #(str % "%"))
       (update-in [:banner/account :level] #(some-> % inc))
       (update-in [:banner/badges]
