@@ -4,4 +4,3 @@
 target/
 .DS_Store
 src/apex_stats/diff.clj
-resources/all/
