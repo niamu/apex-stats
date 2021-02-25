@@ -1,26 +1,31 @@
 {"Revenant"
  #{"Ritualistic" "Veiled Threat" "Rookie Card" "Entombed" "Interlock"
    "Tessenjutsu" "Networked" "Double-Edged" "Edge of Sanity" "Hydralic"
-   "Shades of the Past" "Drip Feed" "Element of Surprise" "Hivemind"
-   "Slice and Dice" "Death Tuner" "Silent Assassin" "All-Seeing"},
+   "Rest In Pieces" "Shades of the Past" "Deadly Fortune" "Drip Feed"
+   "Element of Surprise" "Hivemind" "Slice and Dice" "Death Tuner"
+   "Silent Assassin" "All-Seeing"},
  "Lifeline"
  #{"Rookie Card" "Clear!" "Feel the Beat" "Car Package" "Star"
    "Good Medicine" "Surgical" "Perfect Execution" "Tools of the Trade"
-   "Temperature Rising" "Stripe 3" "Search and Rescue" "Pink"
-   "Called Shots" "Love" "Patched Up" "In Stitches" "Shooting Stars"
-   "Winged Guardian" "Crystalized Ice" "Pick Me Up"},
+   "Temperature Rising" "Stripe 3" "Search and Rescue" "Square Dance"
+   "Leader of the Pack" "Deadly Fortune" "Pink" "Called Shots" "Love"
+   "Patched Up" "In Stitches" "Shooting Stars" "Winged Guardian"
+   "Crystalized Ice" "Pick Me Up"},
  "Caustic"
  #{"Noxious" "Rookie Card" "Breathe Easy" "Failed Emissions"
-   "Biochemical Romance" "Research Grant" "Corrosive Agent"
-   "Spine Chilling" "Gas Powered" "Watcher" "Fuming"
-   "Cruel and Unusual" "Biohazard" "Hard Nox Life" "Method in Madness"
+   "Biochemical Romance" "Research Grant" "Slaughterhouse"
+   "Corrosive Agent" "Nerve Attacker" "Spine Chilling" "Gas Powered"
+   "Gassed Out" "Watcher" "Fuming" "Cruel and Unusual" "Biohazard"
+   "Battle Royalty" "Hard Nox Life" "Method in Madness" "Crystal Core"
    "High Pressure" "Skullcracker" "Chemistry" "Last Rites"},
  "Gibraltar"
- #{"Rookie Card" "Protective Element" "Brick and Mortars" "Rage"
-   "Deep Blue" "Megalodon" "Burnout Legend" "Serene" "Tracks"
+ #{"Rookie Card" "Land of Giants" "Protective Element"
+   "Brick and Mortars" "Rage" "Fight With Honor" "Deep Blue"
+   "Megalodon" "Hot Chains" "Burnout Legend" "Serene" "Tracks"
    "Power Posturing" "Close Combat" "Full Steam" "Catch of the Day"
    "Slow and Steady" "Cage Match" "Brilliant Split" "Razor Sharp"
-   "APEX Projection" "Velvet" "Coat of Arms"},
+   "APEX Projection" "Shielded" "Velvet" "Founder's Frame"
+   "Coat of Arms"},
  "Fuse"
  #{"Rookie Card" "Flying Tigers" "Chicken Dinner" "Salvation of Salvo"
    "Scorched" "Don't Fret" "Bombs Away" "Hot Seat" "Flavor Wave"
@@ -33,41 +38,49 @@
    "Tread Lightly" "Ride or Die" "Precision Cut" "Pit Lane"},
  "Pathfinder"
  #{"Motherboard" "Rookie Card" "Universal" "Anchor Bias"
-   "Sword in the Stone" "Gyroscope" "Open Cans" "Circle of Life"
-   "Onward" "Accomplished" "Changing Gears" "Treasure Trove"
-   "Energized" "Tixels" "Robo-Lisk" "Direct Current" "Disco Tech"
-   "Hazardous" "Third Kind" "Connection Established" "Anchors Away"},
+   "Sword in the Stone" "Gyroscope" "Open Cans" "Ice Towers"
+   "Circle of Life" "Love of the Game" "Onward" "Accomplished"
+   "Changing Gears" "Treasure Trove" "Energized" "Building Bridges"
+   "Tixels" "Robo-Lisk" "Direct Current" "Disco Tech" "Hazardous"
+   "Third Kind" "Connection Established" "Anchors Away" "Snowday"},
  "Wraith"
  #{"Rookie Card" "Machine Elves" "Wave" "Kunai Fighter" "Intergalactic"
-   "Stripe" "Escape the Trap" "Spirits" "Method to the Madness"
-   "On The Prowl" "Violet Tendencies" "Void Shadow" "Inside the System"
-   "Void Magic" "Void Blades" "Bound" "Relentless Aggression"
-   "Dark to Light" "Acid Rain"},
+   "Stripe" "A Cut Above" "Escape the Trap" "Spirits"
+   "Method to the Madness" "On The Prowl" "Violet Tendencies"
+   "Void Shadow" "Nerve Attacker" "Inside the System" "Dragon Scales"
+   "Void Magic" "Snow Monster" "Void Blades" "Ritual Knives"
+   "On the Prowl" "Bound" "Relentless Aggression" "Dark to Light"
+   "Silk Road" "Acid Rain" "Inside The System" "Crystal Core"
+   "Founder's Frame"},
  "Mirage"
- #{"Rookie Card" "Court Jester" "Schematic" "Red Beau" "Heartthrob"
-   "Tools of Deception" "Throwing Star" "Sleight of Hand"
-   "Joker's Wild" "Unfairgrounds" "Swordplay" "Sucker Punch"
-   "Midnight Ride" "Mapped Out" "Binary" "Pop Goes the Weasel"
-   "Fun Guy" "Ace Up the Sleeve" "Roulette"},
+ #{"Rookie Card" "Court Jester" "Schematic" "Red Beau" "Pirate Patch"
+   "Heartthrob" "Tools of Deception" "Throwing Star" "Hot Head"
+   "Sleight of Hand" "Joker's Wild" "Square Dance" "Unfairgrounds"
+   "Swordplay" "Sucker Punch" "Midnight Ride" "Mapped Out" "Binary"
+   "Pop Goes the Weasel" "Fun Guy" "Ace Up the Sleeve" "Roulette"
+   "Funny Bones"},
  "Bangalore"
  #{"Danger Close" "Tag, You're It" "Rookie Card" "Armed and Dangerous"
-   "True Patriot" "A Cut Above" "Fatigues" "Full Spectrum Dominance"
-   "Muscled Up" "Stormchaser" "Fire and Fury" "There It Is"
-   "Smoke Signal" "Bulletproof" "Taking the Crown" "Explosive Ordnance"
-   "Full Mag" "Frag Out" "Weapon Check" "Lost Track" "Streamlined"},
+   "Sharpened Senses" "Melted Grounds" "True Patriot" "A Cut Above"
+   "Fatigues" "Full Spectrum Dominance" "Muscled Up" "Stormchaser"
+   "Fire and Fury" "There It Is" "Smoke Signal" "Bulletproof"
+   "Taking the Crown" "Explosive Ordnance" "Full Mag" "Frag Out"
+   "Weapon Check" "Lost Track" "Snowday" "Streamlined"
+   "Stocked and Locked"},
  "Wattson"
  #{"Rookie Card" "Linked" "=== Unordered ===" "Tesla Coil"
    "Power Transformer" "KEEP OUT" "Lightspeed Bandwidth"
    "Electric Feels" "Electric Flail" "Lightnight in a Bottle"
-   "Resonant Frequencies" "Hot Wired" "Toolkit" "Static Schematics"
-   "Flying Colors" "On Lockdown" "Eye on the Ring" "Feel-a-ments"
-   "Angular Momentum" "Data Processor"},
+   "Resonant Frequencies" "Hot Wired" "Toolkit" "Light the Way"
+   "Static Schematics" "Flying Colors" "Down Under" "On Lockdown"
+   "Eye on the Ring" "Feel-a-ments" "Angular Momentum"
+   "Data Processor"},
  "Loba"
  #{"Rookie Card" "Laced Up" "Fire and Desire" "Sleek as Silver"
    "Alpha Dog" "Beautiful Game" "Green with Envy" "Legacy"
    "Leader of the Pack" "Moonlit Getaway" "Midnight Ride" "Big Fish"
-   "Now You See It" "Royal Shade" "Carnival" "Smokey Eye"
-   "Business Network" "Diamond Encrusted"},
+   "Moonlit Gateway" "Now You See It" "Royal Shade" "Carnival"
+   "Smokey Eye" "Business Network" "Diamond Encrusted"},
  "Horizon"
  #{"Rookie Card" "NEWT's Cradle" "Universal Blueprint" "Lost in Space"
    "Tessellate" "First Class" "Precious Cargo" "Caffeinated Chemistry"
@@ -75,20 +88,22 @@
    "A Friend Indeed" "Starshine" "Gravitational Pull"
    "Astrodial Mischief" "Don't Try This At Home"},
  "Crypto"
- #{"Lift Off" "Rookie Card" "Reroute" "Gated" "Augmented Reality"
-   "Wear and Tear" "Key Card" "Cyber Ninja" "Warning" "Test Pilot"
-   "Expedition" "Cord Cutter" "Ghost Dance" "Interconnected"
-   "Air Traffic Control" "DDoS" "Mesh"},
+ #{"Lift Off" "Rookie Card" "Reroute" "Nuclear Air" "Gated"
+   "Augmented Reality" "Wear and Tear" "Key Card" "Cyber Ninja"
+   "Warning" "Test Pilot" "Expedition" "Cord Cutter" "Shielded"
+   "Ghost Dance" "Interconnected" "Air Traffic Control" "DDoS" "Mesh"},
  "Bloodhound"
  #{"Fortune Hunter" "Rookie Card" "Quoth the Raven" "Lost Woods"
    "Armed and Dangerous" "Hypnotic" "Ready to Strike" "Warning Signs"
    "Bear Trap" "Deep Blue" "Wild Tracker" "Folded Pressure"
    "Killer Instincts" "Pyramids" "True Hunter" "Jungle Hunt"
-   "Exploration" "Bones" "Deep Discovery" "Boneyard Bound"
-   "Legend of the West" "Stark" "Adaptable" "Feeling Impish"},
+   "Knock Down" "Exploration" "Bones" "Deep Discovery" "Boneyard Bound"
+   "Legend of the West" "Stark" "Adaptable" "Full Gear"
+   "Feeling Impish" "Founder's Frame"},
  "Octane"
- #{"Rookie Card" "Big Ups" "Deep Dive" "Publicity Stunt" "Momentum"
-   "Zip By" "Fuel Injected" "Admiral Acceleration" "Hare Raiser"
-   "Blade Racer" "Street Fight" "Air Show" "DJ Stim"
-   "Successful Launch" "Plans" "Rock" "Outsider" "High Performace"
+ #{"Running Hot" "Rookie Card" "High Performance" "Big Ups" "Deep Dive"
+   "Publicity Stunt" "Linked" "Momentum" "Zip By" "Flight Risk"
+   "Fuel Injected" "Admiral Acceleration" "Hare Raiser" "Blade Racer"
+   "Street Fight" "Air Show" "DJ Stim" "Successful Launch" "Plans"
+   "Rock" "Jump Masters" "Outsider" "High Performace" "Never Jaded"
    "Top Rider" "Shark Teeth"}}
