@@ -137,7 +137,7 @@
   407411355   "Danger Close"
   319106129   "Stormchaser"
   2033246457  "There It Is"
-  ;; Weapon Check
+  217520428   "Weapon Check"
   951380602   "Fire and Fury"
   776981426   "Bulletproof"
   ;; Epic
@@ -179,7 +179,7 @@
   ;; Common
   1264727822  "Rookie Card"
   ;; Watcher
-  ;; Chemistry
+  378987253   "Chemistry"
   659209942   "Biohazard"
   ;; Noxious
   }
@@ -194,8 +194,8 @@
   ;; Epic
   89807512    "Mapped Out"
   ;; Rare
-  603880841  "Midnight Ride"
-  ;; Joker's Wild
+  603880841   "Midnight Ride"
+  2022563555  "Joker's Wild"
   ;; Sleight of Hand
   320341012   "Court Jester"
   920374568   "Swordplay"
@@ -205,7 +205,7 @@
   504770435   "Rookie Card"
   ;; Roulette
   ;; Binary
-  ;; Schematic
+  1638817540  "Schematic"
   1871096987  "Throwing Star"}
  "Octane"
  {;; Legendary
@@ -215,6 +215,7 @@
   1386946850  "DJ Stim"
   195560236   "Shark Teeth"
   ;; Epic
+  1625596231  "Jump Masters"
   184248550   "Admiral Acceleration"
   1797549760  "High Performace"
   1276619423  "Deep Dive"
@@ -228,7 +229,7 @@
   ;; Air Show
   ;; Common
   2071798384  "Rookie Card"
-  ;; Rock
+  1167280010  "Rock"
   ;; Plans
   ;; Momentum
   ;; Outsider
@@ -241,6 +242,7 @@
   144564377   "Electric Feels"
   1880341755  "Eye on the Ring"
   ;; Epic
+  753783910   "Light the Way"
   172325793   "Electric Flail"
   ;; Rare
   2054210301  "Feel-a-ments"
@@ -263,7 +265,7 @@
   1960397303  "Ghost Dance"
   1491805826  "Lift Off"
   1356211744  "Air Traffic Control"
-  ;; Augmented Reality
+  867728271   "Augmented Reality"
   ;; Test Pilot
   ;; Epic
   1382042262  "Nuclear Air"

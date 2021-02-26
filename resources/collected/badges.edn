@@ -76,6 +76,7 @@
   1305785150  "Wild Frontier animated"
   99678066    "Lost Treasures Master"
   144581858   "Iron Crown"
+  909813118   "Absolute Monarchy"
   1123999764  "Voidwalker"
   1480441935  "Origin Access"}
  "Bloodhound"
@@ -209,7 +210,7 @@
   1060850123  "Caustic's Wake"
   303959358   "Caustic's Wrath"
   166515712   "Deadeye"
-  ;; Double Duty
+  689340833   "Double Duty"
   1505402687  "Flawless Victory 1"
   1047992847  "Flawless Victory 2"
   781473521   "Headshot Hotshot"
@@ -260,7 +261,7 @@
   1945575464  "Shot Caller"
   854356592   "Squad Wipe"
   1799608143  "The Legacy Continues"
-  ;; Triple Triple
+  1733589570  "Triple Triple"
   127824993   "Imperial Octane"
   1438449543  "Venomous"}
  "Wattson"
@@ -300,11 +301,12 @@
   1589803800  "Shot Caller"
   1594369187  "Squad Wipe"
   1863303137  "The Legacy Continues"
-  1733589570  "Triple Triple"}
+  ;; Triple Triple
+  }
  "Revenant"
  {2055721042  "Apex Revenant"
   387661382   "Apex Predator"
-  ;; Assassin
+  1157480683  "Assassin"
   1620311095  "Revenant's Wake"
   1749928677  "Revenant's Wrath"
   709458323   "Deadeye"
@@ -348,7 +350,7 @@
   1746443772  "Rampart's Wrath"
   ;; Deadeye
   ;; Double Duty
-  1364121022  "Flawless Victory 1"
+  533746536   "Flawless Victory 1"
   ;; Flawless Victory 2
   ;; Headshot Hotshot
   ;; Hot Streak
