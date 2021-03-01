@@ -85,7 +85,7 @@
   1909744553  "Anchors Away"
   695500505   "Open Cans"
   1633729806  "Disco Tech"
-  ;; Tixels
+  215765500   "Tixels"
   1565914956  "Third Kind"
   ;; Epic
   1595311459  "Sword in the Stone"
@@ -186,7 +186,7 @@
  "Mirage"
  {;; Legendary
   1717446001  "Heartthrob"
-  ;; Pop Goes the Weasel
+  883395488   "Pop Goes the Weasel"
   670626902   "Sucker Punch"
   583310324   "Fun Guy"
   ;; Ace Up the Sleeve
@@ -238,10 +238,11 @@
  {;; Legendary
   1215915770  "Resonant Frequencies"
   2112073909  "Static Schematics"
-  ;; Lightnight in a Bottle
+  ;; Lightning in a Bottle
   144564377   "Electric Feels"
   1880341755  "Eye on the Ring"
   ;; Epic
+  424172159   "Flying Colors"
   753783910   "Light the Way"
   172325793   "Electric Flail"
   ;; Rare
@@ -257,9 +258,7 @@
   ;; Data Processor
   754610000   "Angular Momentum"
   ;; Toolkit
-  725588874   "On Lockdown"
-  ;; === Unordered ===
-  424172159   "Flying Colors"}
+  725588874   "On Lockdown"}
  "Crypto"
  {;; Legendary
   1960397303  "Ghost Dance"
@@ -311,7 +310,7 @@
  "Loba"
  {;; Legendary
   1499845719  "Big Fish"
-  ;; Leader of the Pack
+  495593193   "Leader of the Pack"
   1360245065  "Now You See It"
   691052464   "Carnival"
   ;; Beautiful Game
@@ -342,7 +341,7 @@
   1109992883  "Pit Lane"
   ;; Rare
   ;; Refined Fineries
-  ;; Groove Chamber
+  1816393795  "Groove Chamber"
   ;; Orna-metal
   479609967   "Reinforced"
   ;; Tread Lightly
