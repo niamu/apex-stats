@@ -14,7 +14,6 @@
   354929831   "Boneyard Bound"
   ;; Rare
   1387566509  "Deep Blue"
-  1856730002  "Armed and Dangerous"
   1484582009  "Lost Woods"
   995909068   "True Hunter"
   ;; Adaptable
@@ -37,6 +36,7 @@
   1013993693  "APEX Projection"
   ;; Catch of the Day
   ;; Epic
+  911052446   "Fight With Honor"
   1492128495  "Coat of Arms"
   442311908   "Deep Blue"
   1552095609  "Brilliant Split"
@@ -45,7 +45,7 @@
   ;; Full Steam
   2039213179  "Megalodon"
   652341743   "Razor Sharp"
-  ;; Close Combat
+  1870683857  "Close Combat"
   ;; Cage Match
   ;; Common
   301427815   "Rookie Card"
@@ -116,6 +116,8 @@
   1219058079  "Dark to Light"
   856198732   "Relentless Aggression"
   ;; Epic
+  1331172398  "Ritual Knives"
+  1207282244  "Snow Monster"
   1556361203  "Intergalactic"
   853298425   "On The Prowl"
   ;; Rare
@@ -123,7 +125,7 @@
   507390973   "Violet Tendencies"
   1148513744  "Kunai Fighter"
   1046103627  "Bound"
-  ;; Machine Elves
+  1542420308  "Machine Elves"
   920493906   "Inside the System"
   ;; Common
   890414314   "Rookie Card"
@@ -149,16 +151,15 @@
   1542068173  "Smoke Signal"
   474287742   "True Patriot"
   1259375751  "Tag, You're It"
-  ;; Full Spectrum Dominance
-  ;; Armed and Dangerous
+  1868209050  "Full Spectrum Dominance"
+  1856730002  "Armed and Dangerous"
   472950210   "Streamlined"
   ;; Common
   1525291315  "Rookie Card"
   1741554077  "Full Mag"
   1091793928  "Lost Track"
-  ;; Fatigues
-  ;; Frag Out
-  }
+  581790891   "Fatigues"
+  484238366   "Frag Out"}
  "Caustic"
  {;; Legendary
   1350753561  "Biochemical Romance"
@@ -174,7 +175,7 @@
   376915016   "Fuming"
   1621990217  "High Pressure"
   308558757   "Spine Chilling"
-  ;; Breathe Easy
+  1680016389  "Breathe Easy"
   1262326921  "Last Rites"
   ;; Common
   1264727822  "Rookie Card"
@@ -189,7 +190,7 @@
   883395488   "Pop Goes the Weasel"
   670626902   "Sucker Punch"
   583310324   "Fun Guy"
-  ;; Ace Up the Sleeve
+  1438679378  "Ace Up the Sleeve"
   845401618   "Unfairgrounds"
   ;; Epic
   89807512    "Mapped Out"
@@ -238,7 +239,7 @@
  {;; Legendary
   1215915770  "Resonant Frequencies"
   2112073909  "Static Schematics"
-  ;; Lightning in a Bottle
+  2092465520  "Lightning in a Bottle"
   144564377   "Electric Feels"
   1880341755  "Eye on the Ring"
   ;; Epic
@@ -265,7 +266,7 @@
   1491805826  "Lift Off"
   1356211744  "Air Traffic Control"
   867728271   "Augmented Reality"
-  ;; Test Pilot
+  477816084   "Test Pilot"
   ;; Epic
   1382042262  "Nuclear Air"
   90785559    "Expedition"
@@ -289,7 +290,7 @@
   1928967929  "Element of Surprise"
   450029464   "Shades of the Past"
   ;; Tessenjutsu
-  ;; Silent Assassin
+  953623335   "Silent Assassin"
   ;; Epic
   1508683809  "Ritualistic"
   1097340168  "Death Tuner"
@@ -342,7 +343,7 @@
   ;; Rare
   ;; Refined Fineries
   1816393795  "Groove Chamber"
-  ;; Orna-metal
+  1111950830  "Orna-metal"
   479609967   "Reinforced"
   ;; Tread Lightly
   ;; Common

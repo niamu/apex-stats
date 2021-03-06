@@ -27,8 +27,8 @@
  {1622100302  "When this is over"
   1185844236  "I just do the job"
   1266801989  "I love what I do"
-  ;; My shield, my life
-  ;; Try and move me
+  960151507   "My shield, my life"
+  1903429161  "Try and move me"
   624403557   "You're finished"
   ;; Come on, step up
   ;; Gibraltar's coming for you
@@ -47,7 +47,8 @@
   ;; You better run
   323749065   "You push..."}
  "Lifeline"
- {1783454802  "You know what's scary?"
+ {1486818615  "Get Wrecked"
+  1783454802  "You know what's scary?"
   92546304    "Ajay Che's comin' through"
   ;; Bring it
   644945851   "I'd watch out for my squad"
@@ -88,8 +89,7 @@
   1187907760  "This sounds like it'll be fun"
   ;; This will be fun
   ;; We should hang out
-  ;; Wow! They chose me
-  }
+  640693638   "Wow! They chose me"}
  "Wraith"
  {1625282092  "Come find me"
   1903866641  "Follow my path to win"
@@ -117,7 +117,7 @@
  {773719048   "Better find me before I find you"
   1036337810  "Come get some"
   1562841731  "Get ready for a light show"
-  ;; No such thing as auto-aim, ladies
+  1236185937  "No such thing as auto-aim, ladies"
   710565156   "You better finish the job"
   ;; Artillery sounds like music to me
   ;; Death is my language
@@ -191,7 +191,7 @@
   1146645492  "Catch me if you can"
   ;; Don't worry about my legs getting tired
   ;; Going up and going down
-  ;; Haven't we landed yet?
+  721382310   "Haven't we landed yet?"
   ;; I do this for the rush
   ;; I like the wind in my hair
   1532903180  "I make it look easy"
@@ -227,7 +227,7 @@
   ;; You may be stronger, but I'm smarter
   1095360692  "You're playing in my backyard now"}
  "Crypto"
- {;; Ggeut namyun algoyah
+ {573437507   "Ggeut namyun algoyah"
   1014723027  "I'm here to break the game"
   2064637245  "Miahnhe"
   939467165   "Truth is coming"
@@ -287,10 +287,10 @@
   535633830   "I'm a man eater and a lady killer"
   ;; I'm the diamon. You're the rough
   ;; Most beautiful things are fragile
-  ;; Pick out something nice for me, won't you?
+  178152894   "Pick out something nice for me, won't you?"
   ;; Riches make the man
   1686435734  "There's a certain elegance to combat"
-  ;; Time to break some hearts
+  460513082   "Time to break some hearts"
   ;; Wait until you see what I have in store
   ;; You can't be overdressed or overarmed
   }

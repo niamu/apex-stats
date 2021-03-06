@@ -24,8 +24,8 @@
   335749303   "Boosted Level: Season 6"
   294563094   "Ascension Level: Season 7"
   2027544950  "Mayhem Level: Season 8"
-  559268312   "You're Tiering Me Apart: Ranked Series 1"
-  161505455   "You're Tiering Me Apart: Ranked Series 2"
+  559268312   "You're Tiering Me Apart: Ranked Season 2"
+  161505455   "You're Tiering Me Apart: Ranked Season 3"
   1113406948  "You're Tiering Me Apart: Ranked Season 4"
   716028665   "You're Tiering Me Apart: Ranked Season 5"
   1337761783  "You're Tiering Me Apart: Ranked Season 6"
@@ -59,6 +59,7 @@
   2032115951  "Year 2 Anniversary"
   357286139   "Smolfinder Here"
   2134557309  "Mozam-Beast"
+  1683226272  "Nessie's Big Day"
   672805480   "Legandary Anniversary"
   ;; === Unordered ===
   855124491   "Grand Soiree"
@@ -185,7 +186,8 @@
   822177349   "Squad Wipe"
   1970367322  "The Legacy Continues"
   1523967953  "Triple Triple"
-  258724301   "Imperial Wraith"}
+  258724301   "Imperial Wraith"
+  895387019   "Elite Wraith"}
  "Bangalore"
  {1873838285  "Apex Bangalore"
   2111169755  "Apex Predator"
@@ -293,7 +295,7 @@
   1592323243  "Crypto's Wrath"
   843812111   "Deadeye"
   737113367   "Double Duty"
-  722167627   "Flawless Victory 1"
+  772296498   "Flawless Victory 1"
   1939120566  "Flawless Victory 2"
   ;; Headshot Hotshot
   ;; Hot Streak
@@ -327,11 +329,11 @@
   }
  "Loba"
  {1744425088  "Apex Loba"
-  2104403615  "Apex Predator"
+  492685978   "Apex Predator"
   1862876215  "Assassin"
   1635308702  "Loba's Wake"
   825793438   "Loba's Wrath"
-  ;; Deadeye
+  526347804   "Deadeye"
   ;; Double Duty
   1364121022  "Flawless Victory 1"
   ;; Flawless Victory 2
@@ -355,7 +357,7 @@
   533746536   "Flawless Victory 1"
   ;; Flawless Victory 2
   ;; Headshot Hotshot
-  ;; Hot Streak
+  1337622515  "Hot Streak"
   1938522339  "No One Left Behind"
   ;; Rapid Elimination
   ;; Reinforcement Recall

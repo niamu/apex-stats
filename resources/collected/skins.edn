@@ -60,7 +60,7 @@
  {961745557   "Millennium Tusk"
   654577661   "Dark Side"
   2038185636  "Ride or Die"
-  ;; Bunker Buster
+  164150021   "Bunker Buster"
   406847707   "Fiber Optics"
   ;; Daemon Hunter
   ;; Hack the System
@@ -101,6 +101,7 @@
   682704931   "Rage"
   1662228769  "Sahara"
   ;; === Unordered ===
+  2082359300  "Code Red"
   879902623   "King of the Sea"
   1608267685  "Redwood Raider"
   392405088   "Gibraltron"
@@ -241,7 +242,7 @@
   252687201   "Perfect Soldier"
   ;; Fiber Optics
   514338656   "Daemon Hunter"
-  384339937   "Hack the System"
+  1271939765  "Hack the System"
   181998494   "Heat Sync"
   ;; Neural Net
   ;; Checkered Past
@@ -278,6 +279,8 @@
   1917933689  "Rage"
   16098545    "Sahara"
   ;; === Unordered ===
+  50078124    "Mistress of Evil"
+  769766605   "Emerald Enchantress"
   1310463155  "Protector of the Void"
   806270429   "Wraith's Wrath"
   1635872980  "Hellcat"
@@ -292,7 +295,8 @@
   57928754    "Void Prowler"
   634305603   "Final Sunset"
   1236295555  "Forgotten in the Void"
-  549500474   "Queen of Hearts"}
+  549500474   "Queen of Hearts"
+  2120969843  "Risen Queen"}
  "Bangalore"
  {1374113024  "The Enforcer"
   1644844869  "Officer Williams"
@@ -350,7 +354,7 @@
  "Caustic"
  {231523192   "Sixth Sense"
   583112857   "Divine Right"
-  1694661814  "Philosopher's Stone"
+  ;; Philosopher's Stone
   261794111   "Blackheart"
   153654590   "Third Emperor"
   786839361   "Fiber Optics"
@@ -369,7 +373,7 @@
   282059743   "Hypnotic"
   642322700   "Collider"
   ;; Desert Scorpion
-  ;; Absolution
+  1255309357  "Absolution"
   1873600773  "Dark Web"
   472539154   "Wishbone"
   218504057   "Bloodline"
@@ -382,7 +386,7 @@
   1668945601  "Orchid"
   1056454971  "Flamingo"
   ;; Clearwater
-  ;; Vino
+  34237737    "Vino"
   ;; Evergreen
   ;; Limelight
   720373250   "Yellowjacket"
@@ -391,6 +395,8 @@
   ;; Rage
   ;; Sahara
   ;; === Unordered ===
+  591275476   "Killing Joke"
+  1694661814  "Waste Management"
   1240697750  "Freezer Burn"
   674696576   "Sweet Dreams"
   1213157726  "Mad King"
@@ -444,6 +450,8 @@
   ;; Rage
   678831845   "Sahara"
   ;; === Unordered ===
+  1991642013  "The Wisecracker"
+  566330173   "Outlaw"
   85928268    "Solar Flair"
   523923528   "Man Made Man"
   809598689   "Old Town"
@@ -488,7 +496,7 @@
   ;; Orchid
   ;; Flamingo
   ;; Clearwater
-  ;; Vino
+  1758194728  "Vino"
   ;; Evergreen
   2070996097  "Limelight"
   266749807   "Yellowjacket"
@@ -497,6 +505,8 @@
   673459930   "Rage"
   ;; Sahara
   ;; === Unordered ===
+  146085020   "Laughing Fool"
+  827074109   "Wicked Intent"
   1723044541  "Whiplash"
   2006437654  "Glacial Pace"
   1872884298  "Burn Out"
@@ -570,7 +580,7 @@
   1898715598  "The Masked Dancer"
   1746842340  "Rising Phoenix"
   858574026   "Hype Beast"
-  ;; Hack the System
+  1718139711  "Hack the System"
   ;; Daemon Hunter
   333920616   "Heat Sync"
   638997699   "User Friendly"
@@ -639,7 +649,7 @@
   731388621   "Killswitch"
   1736240727  "Death Etching"
   1999064606  "Original"
-  ;; Midnight
+  1679970447  "Midnight"
   ;; Cardinal
   ;; Arctic
   ;; Mandarin
@@ -673,7 +683,7 @@
   ;; Heat Sync
   515943962   "Fiber Optics"
   1238029150  "Wallflower"
-  ;; Alpha Royal
+  1028776623  "Alpha Royal"
   1299029329  "Formal Finery"
   1133991309  "Arachnophobia"
   1925288470  "Bloodline"
@@ -705,8 +715,9 @@
   ;; Rage
   ;; Sahara
   ;; === Unordered ===
+  1765717776  "Boundless Envy"
   1373094395  "Self Reflection"
-  1524738077  "Boundless Envy"
+  1524738077  "Red Handed"
   1330875259  "Game Master"}
  "Rampart"
  {1578587264  "Premium Finish"
@@ -726,7 +737,7 @@
   ;; Critical Path
   ;; Formal Finery
   ;; Labyrinth
-  ;; Prowess
+  731315699   "Prowess"
   ;; Refraction
   ;; Scribblers
   ;; Sizzle Reel
@@ -768,7 +779,7 @@
   ;; Brain Candy
   ;; Death Adder
   ;; Disruptor
-  ;; Field Trip
+  1507148251  "Field Trip"
   ;; Superunknown
   1698699878  "Woodland Warfare"
   ;; Racing Stripes
@@ -818,7 +829,7 @@
   1109312734  "Unicornucopia"
   ;; Tropic Streak
   1836270562  "Tie Dye"
-  ;; Disruptor
+  1718373702  "Disruptor"
   1528438800  "Pincushion"
   118561866   "Racing Stripes"
   944708917   "Snakeskin"
