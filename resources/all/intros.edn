@@ -37,8 +37,9 @@
    "A quick death is so... boring." "My methods" "Know your place..."
    "I don't relish the title..." "Patience. Just... patience"
    "Marvelous!"},
- "Bloodhunter"
- #{"The hunt begins" "Honor those who've risen"
+ "Bloodhound"
+ #{"Open season. May the gods bless us"
+   "The hunt begins" "Honor those who've risen"
    "When we meet, I will slaughter" "May the gods bless you"
    "The true test" "Never disappoint my brethren"
    "Blessings are upon me" "Find me and we will battle"
@@ -192,7 +193,6 @@
    "Na junbi mani heso" "You found me" "It's very simple"
    "We are all just data" "Sehsang un humhan goshiya" "Truth is coming"
    "There's only one think you need to know"},
- "Bloodhound" #{"Open season. May the gods bless us"},
  "Octane"
  #{"Season's open amigos" "I make it look easy"
    "You better run - make it interesting"

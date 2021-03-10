@@ -31,12 +31,12 @@
   ;; Cardinal
   ;; Arctic
   1823404941  "Mandarin"
-  ;; Orchid
+  1385523347  "Orchid"
   ;; Flamingo
   ;; Clearwater
   425952089   "Vino"
   ;; Evergreen
-  ;; Limelight
+  2100149430  "Limelight"
   ;; Yellowjacket
   1292415806  "Skyward"
   ;; Hydro
@@ -101,6 +101,8 @@
   682704931   "Rage"
   1662228769  "Sahara"
   ;; === Unordered ===
+  1274639646  "Lost Dynasty"
+  1348922344  "Bloodline"
   2082359300  "Code Red"
   879902623   "King of the Sea"
   1608267685  "Redwood Raider"
@@ -215,13 +217,15 @@
   ;; Clearwater
   ;; Vino
   ;; Evergreen
-  ;; Limelight
+  1645915399  "Limelight"
   ;; Yellowjacket
   1436908047  "Skyward"
   ;; Hydro
   ;; Rage
   ;; Sahara
   ;; === Unordered ===
+  1203392230  "War Path"
+  227426279   "BP-1"
   635325125   "Pole Position"
   292312221   "Bot of Gold"
   1922272956  "Friendly Fire"
@@ -346,6 +350,7 @@
   ;; Rage
   1687313992  "Sahara"
   ;; === Unordered ===
+  990495590   "Dressed To Impress"
   1048767125  "Soldado de la Muerte"
   413997989   "Fire with Fire"
   241792693   "Mint Condition"
@@ -353,7 +358,7 @@
   1274028498  "La Catrina"
   1573527088  "Valor"
   401589778   "Radical Action"
-  1255492989  "Outland Warrior"}
+  1909154229  "Outland Warrior"}
  "Caustic"
  {231523192   "Sixth Sense"
   583112857   "Divine Right"
@@ -362,7 +367,7 @@
   153654590   "Third Emperor"
   786839361   "Fiber Optics"
   263294783   "Daemon Hunter"
-  ;; Illegal Operation
+  1836735463  "Illegal Operation"
   1764888118  "Heat Sync"
   773232460   "Neural Net"
   151993797   "Vicious Cycle"
@@ -388,7 +393,7 @@
   1592134215  "Mandarin"
   1668945601  "Orchid"
   1056454971  "Flamingo"
-  ;; Clearwater
+  2103481041  "Clearwater"
   34237737    "Vino"
   ;; Evergreen
   ;; Limelight
@@ -398,6 +403,7 @@
   ;; Rage
   ;; Sahara
   ;; === Unordered ===
+  806328128   "Gasbuster"
   591275476   "Killing Joke"
   1694661814  "Waste Management"
   1240697750  "Freezer Burn"
@@ -453,6 +459,7 @@
   ;; Rage
   678831845   "Sahara"
   ;; === Unordered ===
+  1335172492  "Snake Charmer"
   1991642013  "The Wisecracker"
   566330173   "Outlaw"
   85928268    "Solar Flair"
@@ -566,6 +573,7 @@
   485238241   "Rage"
   ;; Sahara
   ;; === Unordered ===
+  338539355   "Electric Blue"
   895343559   "Wired for Speed"
   773941648   "Winged Menace"
   542698266   "Rocket Scientist"
@@ -621,6 +629,7 @@
   ;; Rage
   ;; Sahara
   ;; === Unordered ===
+  1101205428  "Hallowed Spirit"
   1597659570  "Whitelisted"
   673409324   "Awoken Fury"
   560299520   "Winters Grasp"}
@@ -668,6 +677,8 @@
   ;; Rage
   ;; Sahara
   ;; === Unorderd ===
+  644666672   "Teal Torment"
+  1012059272  "Frost Ancient"
   1414516689  "Forged Knight"
   159416480   "Deathproof"
   1416580196  "Blood Ritual"
@@ -785,7 +796,7 @@
   ;; Death Adder
   ;; Disruptor
   1507148251  "Field Trip"
-  ;; Superunknown
+  1709209507  "Superunknown"
   1698699878  "Woodland Warfare"
   ;; Racing Stripes
   ;; Hypothesis
@@ -797,7 +808,7 @@
   1885697463  "Original"
   ;; Yellowjacket
   ;; Arctic
-  ;; Cardinal
+  828822158   "Cardinal"
   ;; Clearwater
   1316250251  "Evergreen"
   ;; Flamingo
@@ -808,7 +819,7 @@
   ;; Orchid
   ;; Rage
   ;; Sahara
-  ;; Skyward
+  168079782   "Skyward"
   876285048   "Vino"
   ;; === Unordered ===
   1929682518  "Flux Capacity"

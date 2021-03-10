@@ -38,11 +38,11 @@
   ;; Epic
   911052446   "Fight With Honor"
   1492128495  "Coat of Arms"
-  442311908   "Deep Blue"
   1552095609  "Brilliant Split"
   1959769983  "Slow and Steady"
   ;; Rare
-  ;; Full Steam
+  442311908   "Deep Blue"
+  1815759217  "Full Steam"
   2039213179  "Megalodon"
   652341743   "Razor Sharp"
   1870683857  "Close Combat"
@@ -66,6 +66,7 @@
   804549148   "Car Package"
   344928455   "Winged Guardian"
   ;; Rare
+  1671771111  "Square Dance"
   492796562   "In Stitches"
   2105493187  "Called Shots"
   62537233    "Temperature Rising"
@@ -194,6 +195,7 @@
   1438679378  "Ace Up the Sleeve"
   845401618   "Unfairgrounds"
   ;; Epic
+  227958663   "Hot Head"
   89807512    "Mapped Out"
   ;; Rare
   603880841   "Midnight Ride"
@@ -224,6 +226,7 @@
   627870072   "Fuel Injected"
   188560165   "Successful Launch"
   ;; Rare
+  1112299769  "Flight Risk"
   1935533777  "Blade Racer"
   1757099372  "Big Ups"
   508732741   "Street Fight"
@@ -259,7 +262,7 @@
   693214584   "Rookie Card"
   ;; Data Processor
   754610000   "Angular Momentum"
-  ;; Toolkit
+  396775836   "Toolkit"
   725588874   "On Lockdown"}
  "Crypto"
  {;; Legendary
@@ -307,7 +310,7 @@
   ;; Double-Edged
   243834694   "All-Seeing"
   705710619   "Hivemind"
-  ;; Networked
+  501374732   "Networked"
   }
  "Loba"
  {;; Legendary
@@ -317,6 +320,7 @@
   691052464   "Carnival"
   1517085945  "Beautiful Game"
   ;; Epic
+  1820099864  "Rest In Pieces"
   408553826   "Alpha Dog"
   2017302056  "Moonlit Getaway"
   ;; Rare
@@ -336,7 +340,7 @@
  {;; Legendary
   ;; Precision Cut
   ;; Ride or Die
-  ;; Custom Built
+  70546740    "Custom Built"
   ;; Midnight Oil
   1250619866  "Open For Business"
   ;; Epic
@@ -349,7 +353,7 @@
   ;; Tread Lightly
   ;; Common
   1536108465  "Rookie Card"
-  ;; Teardrop
+  197728603   "Teardrop"
   ;; Bloom
   1654207041  "Spray Pattern"
   ;; Shifting Gears

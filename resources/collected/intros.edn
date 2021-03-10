@@ -1,6 +1,6 @@
 {nil
  {913787992   nil}
- "Bloodhunter"
+ "Bloodhound"
  {1920175737  "Honor those who've risen"
   1268063391  "Honor the Allfather"
   391753523   "May the gods bless you"
@@ -8,7 +8,7 @@
   1915429382  "Prepared for your end?"
   470587968   "The hunter the gods have sent"
   ;; A good day to fight
-  ;; Blessings are upon me
+  365042214   "Blessings are upon me"
   2008954751  "Every day is a new victory"
   ;; Fight. Win. Fight again
   1466752143  "Find me and we will battle"
@@ -31,7 +31,7 @@
   1903429161  "Try and move me"
   624403557   "You're finished"
   ;; Come on, step up
-  ;; Gibraltar's coming for you
+  616345097   "Gibraltar's coming for you"
   ;; Good luck brothers
   743806612   "Great. Good. Wonderful."
   ;; Here we go
@@ -44,7 +44,7 @@
   ;; Try what you want
   ;; Watch out, here I come
   ;; With you, or you're done
-  ;; You better run
+  1729093821  "You better run"
   323749065   "You push..."}
  "Lifeline"
  {1486818615  "Get Wrecked"
@@ -83,11 +83,12 @@
   1372466719  "I work hard for the money"
   ;; I'll high five you all
   ;; I'm excited to fight you
-  ;; It's fun to zipline
+  36970054    "It's fun to zipline"
   2017149466  "My squad must be very proud"
   326460805   "Oh, am I supposed to talk?"
   1187907760  "This sounds like it'll be fun"
   ;; This will be fun
+  549731931   "Watch out or I'll grapple you"
   ;; We should hang out
   640693638   "Wow! They chose me"}
  "Wraith"
@@ -114,14 +115,15 @@
   ;; Wanna win? Do what I do
   1370255677  "It's opening season. Our path is set..."}
  "Bangalore"
- {773719048   "Better find me before I find you"
+ {1335696306  "Hope you're not afraid to get your hands dirty"
+  773719048   "Better find me before I find you"
   1036337810  "Come get some"
   1562841731  "Get ready for a light show"
   1236185937  "No such thing as auto-aim, ladies"
   710565156   "You better finish the job"
   ;; Artillery sounds like music to me
   ;; Death is my language
-  ;; Don't bring a pistol to an artillery fight
+  544692407   "Don't bring a pistol to an artillery fight"
   ;; Don't matter what you run...
   ;; Don't miss. I won't
   898622191   "Get ready for a world of hurt"
@@ -129,7 +131,7 @@
   376523263   "Heads up for a pucker factor"
   ;; I can do it all, your call.
   802766483   "I'll still beat you"
-  ;; I'm ready today...
+  748388043   "I'm ready today..."
   ;; Locked and loaded
   ;; Make each round count
   ;; Maybe this time I'll open both eyes
@@ -142,7 +144,7 @@
   1550738234  "Join my experiment below."
   1117166802  "Life is meant to die..."
   1627987797  "Marvelous!"
-  ;; A deterministic end will find you below.
+  421584454   "A deterministic end will find you below."
   379991146   "A quick death is so... boring."
   ;; Close combat gets messy
   ;; I have no regretsx
@@ -161,10 +163,10 @@
  "Mirage"
  {75268617    "Excited to see you all in the ring"
   1235954991  "Anyone want to take me out?"
-  ;; Didn't get here alone
+  1066608178  "Didn't get here alone"
   1832593675  "Gonna see a lot of me"
   ;; I'm speechless
-  ;; This is good, let's fight
+  1531855800  "This is good, let's fight"
   ;; Good squad means good times
   ;; Hope you're ready for some fun
   ;; I love the spotlight
@@ -175,8 +177,8 @@
   ;; See you in the ring
   ;; So proud of myself
   741209033   "The heart of victory"
-  ;; This is like a dream
-  ;; This is such as honor
+  1332769114  "This is like a dream"
+  1661107540  "This is such an honor"
   742211773   "Want advice? Shoot first"
   ;; We're all having a good time
   1257806737  "Who wants to step up?"
@@ -189,7 +191,7 @@
   1058886350  "My legs are ready to go"
   240764510   "Shoutout to all my fans"
   1146645492  "Catch me if you can"
-  ;; Don't worry about my legs getting tired
+  1466833687  "Don't worry about my legs getting tired"
   ;; Going up and going down
   721382310   "Haven't we landed yet?"
   ;; I do this for the rush
@@ -198,7 +200,7 @@
   226582623   "I'm always in the lead"
   1562860952  "In the rearview mirror"
   923591933   "Mira, check out that giant banner of me"
-  ;; See that blur right before you bite it?
+  1236691386  "See that blur right before you bite it?"
   ;; The good news
   2071624417  "Time is flying"
   ;; You all ready for the Octrain?
@@ -237,13 +239,13 @@
   ;; I used to fear many things
   1251439254  "I'm here because I have to be"
   83304856    "If I know who you are"
-  ;; It's easy to get here
+  1463183792  "It's easy to get here"
   ;; It's easy to run away
   ;; It's very simple
   ;; Mungchunghan jit hajimah
   ;; Na junbi mani heso
   158274996   "Sehsang un humhan goshiya"
-  ;; There's only one think you need to know
+  1997492995  "There's only one think you need to know"
   1667516501  "Think you can surprise me?"
   ;; We are all just data
   447512493   "When you have nothing else to lose"
@@ -253,12 +255,12 @@
   ;; I look forward to meeting you all
   1106470154  "Look at all the skin suits"
   354314814   "Make it out of this alive"
-  ;; You've all been marked for death
+  871166440   "You've all been marked for death"
   153052157   "Don't bother trying to find me"
   1054945746  "Ever get the feeling you're not alone?"
   ;; Get a good look
   ;; I don't need souveniers
-  ;; I plan on getting under your skin
+  403796930   "I plan on getting under your skin"
   ;; I'm going to kill you today
   ;; I'm not gonna make it quick
   1463120509  "Last legends looked hopeful too"
@@ -303,7 +305,7 @@
   ;; Chin up mates. You just ain't that good
   ;; Get a new start with Rampart
   ;; Get down there, have fun, and I'll ruin it
-  ;; Grab your mash. Rampart's in town
+  1058818550  "Grab your mash. Rampart's in town"
   ;; I am ready for a fight
   ;; I don't want to be here anymore than you do
   ;; I'd like to thank everyone who helped me get here
@@ -323,7 +325,7 @@
   1347461512  "I'll put the kettle on for any survivors"
   224471295   "Violence for Science"
   ;; Anyone else wielding the unfathomable
-  ;; Aye, I love field work
+  1667147668  "Aye, I love field work"
   ;; Data points often don't land
   1706545819  "Don't take what follows too personally"
   ;; I expect the results of this will be utterly delightful
