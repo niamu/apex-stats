@@ -88,7 +88,7 @@
   ;; Midnight
   ;; Cardinal
   875591185   "Arctic"
-  ;; Mandarin
+  1382010080  "Mandarin"
   ;; Orchid
   910908963   "Flamingo"
   ;; Clearwater
@@ -331,12 +331,12 @@
   1178493340  "Electric Synapse"
   1310671351  "Purgatory"
   585289805   "Death Adder"
-  ;; Circuit Breaker
+  2121800826  "Circuit Breaker"
   1195401183  "Victory Lap"
   226771975   "Blue Chipped"
   1694869144  "Original"
   1352329004  "Midnight"
-  ;; Cardinal
+  600059685   "Cardinal"
   1623225623  "Arctic"
   1205228219  "Mandarin"
   492290398   "Orchid"
@@ -404,6 +404,8 @@
   ;; Rage
   ;; Sahara
   ;; === Unordered ===
+  339948840   "Deputy of Death"
+  1880259295  "Claustic"
   806328128   "Gasbuster"
   591275476   "Killing Joke"
   1694661814  "Waste Management"
@@ -460,6 +462,7 @@
   ;; Rage
   678831845   "Sahara"
   ;; === Unordered ===
+  2129452000  "Fired Up"
   1335172492  "Snake Charmer"
   1991642013  "The Wisecracker"
   566330173   "Outlaw"
@@ -574,6 +577,7 @@
   485238241   "Rage"
   ;; Sahara
   ;; === Unordered ===
+  907591554   "Chaos Conductor"
   338539355   "Electric Blue"
   895343559   "Wired for Speed"
   773941648   "Winged Menace"
@@ -642,7 +646,7 @@
   1927328719  "Hack the System"
   ;; Daemon Hunter
   ;; User Friendly
-  ;; Heat Sync
+  1347102144  "Heat Sync"
   1358776312  "Fiber Optics"
   995364698   "Refraction"
   1693583300  "Labyrinth"
@@ -678,6 +682,7 @@
   ;; Rage
   ;; Sahara
   ;; === Unorderd ===
+  56442103    "A Gaze Eternal"
   644666672   "Teal Torment"
   1012059272  "Frost Ancient"
   1414516689  "Forged Knight"
@@ -731,6 +736,7 @@
   ;; Rage
   ;; Sahara
   ;; === Unordered ===
+  597440119   "Haute Hoplite"
   1765717776  "Boundless Envy"
   1373094395  "Self Reflection"
   1524738077  "Red Handed"
@@ -778,6 +784,7 @@
   1788746653  "Rage"
   ;; Sahara
   ;; === Unordered ===
+  1279037873  "Death Dealer"
   1970697797  "Gold Standard"
   419158864   "Custom Finish"}
  "Horizon"
@@ -818,11 +825,12 @@
   5048926     "Mandarin"
   ;; Midnight
   ;; Orchid
-  ;; Rage
+  1372436829  "Rage"
   ;; Sahara
   168079782   "Skyward"
   876285048   "Vino"
   ;; === Unordered ===
+  1757429471  "Heiroglyph Heroics"
   1929682518  "Flux Capacity"
   164501244   "Inverse Polarity"
   321691472   "Neon Stardust"
@@ -841,7 +849,7 @@
   ;; Fired Up
   ;; Copperhead
   ;; Generation X
-  ;; Sizzle Reel
+  1507103603  "Sizzle Reel"
   223421657   "Running Fatigues"
   1109312734  "Unicornucopia"
   ;; Tropic Streak
